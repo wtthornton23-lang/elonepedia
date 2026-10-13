@@ -1,0 +1,12 @@
+:root{--bg:#f8f9fa;--fg:#202122;--card:#fff;--line:#a2a9b1;--link:#3366cc;--mut:#54595d}
+.dark{--bg:#101418;--fg:#eaecf0;--card:#1b2026;--line:#3a4048;--link:#88a3e8;--mut:#a2a9b1}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 -apple-system,Segoe UI,sans-serif}
+.wrap{max-width:900px;margin:auto;padding:0 16px}header{border-bottom:1px solid var(--line);background:var(--card);padding:12px 0}
+h1{font-family:Georgia,'Linux Libertine',serif;font-weight:400;font-size:2.2em;margin:.2em 0 0;border-bottom:1px solid var(--line)}
+.sub,.meta,.note{color:var(--mut);font-size:.9em}.bar{display:flex;gap:8px;flex-wrap:wrap}
+input,select,button{font:inherit;padding:8px;border:1px solid var(--line);border-radius:4px;background:var(--bg);color:var(--fg)}input{flex:1;min-width:200px}
+details{background:var(--card);border:1px solid var(--line);margin:10px 0;padding:10px 14px;border-radius:4px}
+summary{cursor:pointer;font-family:Georgia,serif;font-size:1.15em}.cat{font-size:.75em;color:var(--mut);margin-left:6px}
+a{color:var(--link)}.tag{display:inline-block;font-size:.75em;border:1px solid var(--line);border-radius:10px;padding:0 8px;margin:2px}
+ol.refs{font-size:.85em}.upd{font-size:.85em;color:var(--mut)}blockquote{border-left:3px solid var(--line);margin:8px 0;padding-left:10px}
+.badge{font-size:.7em;padding:1px 6px;border-radius:8px;border:1px solid}.ok{color:#14866d}.warn{color:#b32424}
