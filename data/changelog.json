@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2026-10-12T20:00:00+01:00",
+    "action": "initial_build",
+    "details": "Created 50 FAQ entries."
+  },
+  {
+    "date": "2026-10-12",
+    "action": "replace",
+    "details": "q021 'What is X becoming — the 'everything app'?' archived -> q051 'Was buying Twitter worth the pain?'"
+  },
+  {
+    "date": "2026-10-12",
+    "action": "replace",
+    "details": "q029 'What was 'production hell' on the Model 3 like?' archived -> q052 'Was 'funding secured' true, and why do you fight the SEC?'"
+  },
+  {
+    "date": "2026-10-12",
+    "action": "replace",
+    "details": "q048 'What role did Starlink play in Ukraine?' archived -> q053 'How should the war in Ukraine end?'"
+  },
+  {
+    "date": "2026-10-12",
+    "action": "replace",
+    "details": "q050 'Who will succeed you at your companies?' archived -> q054 'How do you handle misinformation on X? (Community Notes)'"
+  },
+  {
+    "date": "2026-10-12T20:19:50+01:00",
+    "action": "verification_pass",
+    "details": "Re-verified all 50 entries; 62 verbatim quotes added (each checked as exact substring of fetched transcript/article); verification counts {'verified': 30, 'verified_single_source': 16, 'unverified_answer': 1, 'needs_transcript_check': 1, 'weak_coverage': 2}; earnings-call sources split per call (Q4 2023 = 2024-01-24, Q2 2024 = 2024-07-23); unverifiable sources removed (Tucker Carlson 2023, AI Day 2022, IAC 2017, Starship 2024 update, WSJ CEO Council, Rogan #1169/#1609)."
+  },
+  {
+    "date": "2026-10-13T07:23:38+01:00",
+    "action": "appearance_ingested",
+    "details": "Ingested X Takeover 2026 (2026-10-10, Tesla Owners Silicon Valley at Giga Texas; full interview also reshared 2026-10-12). Transcript: elonmuskarchive.org. Updated q001, q003, q004, q005, q008, q011, q012, q013, q025, q026, q030, q041, q055. Archived q046 Hyperloop -> added q055 Terafab. No other new interviews/podcasts/X Spaces found in ~48h window (Oct 11 evening–Oct 13 morning UK); X posts and secondary news only. Coverage notes: q001 space SI/sentient sun; q003 full recovery / rapid reuse; q004 Flight 14 / next catch attempt; q005 alien ruins; q008 consciousness / sentient sun; q011 SI safety / truth-seeking / treat well; q012 AGI feel via AI video (no date); q013 truth-seeking / Cursor / Grok RL; q025 Cybercab safety / pets / geofence; q026 Optimus hands / magnets / real AI; q030 Model 3 tent / custom manufacturing; q041 hard-to-contain kid story; archived q046 Hyperloop; added q055 Terafab."
+  }
+]
