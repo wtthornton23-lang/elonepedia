@@ -38,5 +38,10 @@
     "date": "2026-10-14T07:21:32+01:00",
     "action": "no_new_appearances",
     "details": "Daily scan for ~Oct 12 evening–Oct 14 morning UK (web, YouTube, X posts/news). No new Musk interviews, podcasts, press events, earnings calls or X Spaces found. All fresh coverage (Yahoo/Benzinga robot hands, TokenPost Starship full recovery, TheEdge/GMT8 Terafab chip remarks, podcast reuploads) is from the already-ingested X Takeover 2026 (2026-10-10). Blumify items dated 13 Oct are re-transcriptions of older videos (CNBC SpaceX IPO remarks, YouTube 2026-06-12; Yahoo Finance AI/robots, 2026-01-22). Musk X posts were product promos/one-liners only. Upcoming: Tesla Roadster unveil livestream Thu 2026-10-15 7:55pm CT (Fri 01:55 UK); Walter Isaacson 'The Builders' podcast with Musk premieres 2026-10-20. No FAQ entries changed."
+  },
+  {
+    "date": "2026-10-15T07:30:00+01:00",
+    "action": "statements_ingested",
+    "details": "Daily scan for ~Oct 14 morning to Oct 15 morning UK (web, YouTube, X posts/news). No new Musk interviews, podcasts, press events, earnings calls or X Spaces. Notable primary X statements ingested: 14 Oct reply to Mykhailo Fedorov (x.com/elonmusk/status/2110445577184133456) saying Starshield limits are decided by the US military and ultimately POTUS while Starlink is commercial and limited to civilian/defensive use; 15 Oct 02:23 UTC post 'And so the slaughter continues … Time for Zelensky to go' (x.com/elonmusk/status/2110557192650641827). Coverage: BBC, CNBC, CNN, Euronews, SCMP. Updated q047 (Starlink) and q053 (Ukraine), appended only, frequency unchanged since these are X statements rather than interview answers. Skipped: Blumify 'JUST RECORDED: Elon Musk Interviewed by JP Morgan's Jamie Dimon' (transcribed 14 Oct) is the 4 Jun 2026 SpaceX IPO event (Reuters/Bloomberg), outside window and not yet ingested; candidate for backfilling q047/Starlink V3. Upcoming: Tesla Roadster unveil livestream Thu 2026-10-15 7:55pm CT (Fri 01:55 UK); Isaacson 'The Builders' podcast 2026-10-20; Tesla Q3 earnings 2026-10-21."
   }
 ]

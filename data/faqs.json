@@ -1,7 +1,7 @@
 {
   "title": "Elonepedia",
   "version": "1.1",
-  "last_updated": "2026-10-14T07:21:32+01:00",
+  "last_updated": "2026-10-15T07:30:00+01:00",
   "faqs": [
     {
       "id": "q001",
@@ -3160,9 +3160,26 @@
       "tags": [
         "starlink"
       ],
-      "answer_summary": "Discussed in passing (e.g. Starlink working on planes, a Starlink terminal factory in Bastrop). A substantive interview answer on Starlink's purpose has not yet been verified.",
-      "answer_type": "summary",
-      "quotes": [],
+      "answer_summary": "Discussed in passing (e.g. Starlink working on planes, a Starlink terminal factory in Bastrop). A substantive interview answer on Starlink's purpose has not yet been verified. In Oct 2026, responding on X to Ukraine's complaints about speed limits, he drew a line between Starlink, a commercial service SpaceX owns and controls and limits to civilian or defensive use, and Starshield, the military-grade sister system he says is owned and controlled by the US government, with any limits set by the US military and ultimately the president.",
+      "answer_type": "summary+quotes",
+      "quotes": [
+        {
+          "text": "Starlink is a commercial service owned and controlled by SpaceX. Usage of Starlink is limited to civilian or defensive activities",
+          "source": "Elon Musk on X replying to Mykhailo Fedorov about Starshield speed limits in Ukraine",
+          "url": "https://x.com/elonmusk/status/2110445577184133456",
+          "timestamp": null,
+          "transcript_kind": "official (primary X post)",
+          "verified_on": "2026-10-15"
+        },
+        {
+          "text": "Starshield systems are owned and controlled by the US government. Any limits on speed or usage are decided by the US military and ultimately POTUS.",
+          "source": "Elon Musk on X replying to Mykhailo Fedorov about Starshield speed limits in Ukraine",
+          "url": "https://x.com/elonmusk/status/2110445577184133456",
+          "timestamp": null,
+          "transcript_kind": "official (primary X post)",
+          "verified_on": "2026-10-15"
+        }
+      ],
       "sources": [
         {
           "title": "Joe Rogan Experience #2223 – Elon Musk",
@@ -3183,11 +3200,31 @@
           "transcript_kind": "third-party (Rev)",
           "covers_question": true,
           "checked": "2026-10-12"
+        },
+        {
+          "title": "Elon Musk on X replying to Mykhailo Fedorov about Starshield speed limits in Ukraine",
+          "outlet": "X (@elonmusk)",
+          "date": "2026-10-14",
+          "url": "https://x.com/elonmusk/status/2110445577184133456",
+          "transcript_url": "https://x.com/elonmusk/status/2110445577184133456",
+          "transcript_kind": "official (primary X post)",
+          "covers_question": true,
+          "checked": "2026-10-15"
+        },
+        {
+          "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+          "outlet": "BBC News",
+          "date": "2026-10-14",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo",
+          "transcript_url": null,
+          "transcript_kind": "article",
+          "covers_question": true,
+          "checked": "2026-10-15"
         }
       ],
       "frequency": 2,
       "first_asked": "2024-03-18",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-15",
       "verification": "weak_coverage",
       "updates": [
         {
@@ -3201,6 +3238,12 @@
           "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 0 verbatim quote(s) added.",
           "source": "Joe Rogan Experience #2223 – Elon Musk",
           "type": "clarification"
+        },
+        {
+          "date": "2026-10-15",
+          "summary": "Added Musk's 14 Oct 2026 X statement distinguishing commercial Starlink (civilian/defensive use only) from government-controlled Starshield, amid Ukraine speed-limit dispute. Statement on X, not an interview answer; frequency unchanged.",
+          "source": "Elon Musk on X replying to Mykhailo Fedorov about Starshield speed limits in Ukraine",
+          "type": "addition"
         }
       ]
     },
@@ -3212,7 +3255,7 @@
         "ukraine",
         "geopolitics"
       ],
-      "answer_summary": "He told Lex Fridman (Nov 2023) he expects a ceasefire close to current lines, since whoever goes on the offensive suffers far higher casualties against defence in depth.",
+      "answer_summary": "He told Lex Fridman (Nov 2023) he expects a ceasefire close to current lines, since whoever goes on the offensive suffers far higher casualties against defence in depth. In Oct 2026, amid a dispute over speed limits on Ukraine's military Starshield links, he said on X that those limits are decided by the US military and ultimately the president, not SpaceX; responding to a post claiming Zelensky would not end the war until Russia was defeated, he wrote \"And so the slaughter continues\" and \"Time for Zelensky to go\" (the BBC notes he has made similar comments before).",
       "answer_type": "summary+quotes",
       "quotes": [
         {
@@ -3222,6 +3265,22 @@
           "timestamp": "00:15:08",
           "transcript_kind": "official",
           "verified_on": "2026-10-12"
+        },
+        {
+          "text": "Time for Zelensky to go",
+          "source": "Elon Musk on X: 'And so the slaughter continues … Time for Zelensky to go'",
+          "url": "https://x.com/elonmusk/status/2110557192650641827",
+          "timestamp": null,
+          "transcript_kind": "official (primary X post)",
+          "verified_on": "2026-10-15"
+        },
+        {
+          "text": "Starshield systems are owned and controlled by the US government. Any limits on speed or usage are decided by the US military and ultimately POTUS.",
+          "source": "Elon Musk on X replying to Mykhailo Fedorov about Starshield speed limits in Ukraine",
+          "url": "https://x.com/elonmusk/status/2110445577184133456",
+          "timestamp": null,
+          "transcript_kind": "official (primary X post)",
+          "verified_on": "2026-10-15"
         }
       ],
       "sources": [
@@ -3234,17 +3293,53 @@
           "transcript_kind": "official",
           "covers_question": true,
           "checked": "2026-10-12"
+        },
+        {
+          "title": "Elon Musk on X replying to Mykhailo Fedorov about Starshield speed limits in Ukraine",
+          "outlet": "X (@elonmusk)",
+          "date": "2026-10-14",
+          "url": "https://x.com/elonmusk/status/2110445577184133456",
+          "transcript_url": "https://x.com/elonmusk/status/2110445577184133456",
+          "transcript_kind": "official (primary X post)",
+          "covers_question": true,
+          "checked": "2026-10-15"
+        },
+        {
+          "title": "Elon Musk on X: 'And so the slaughter continues … Time for Zelensky to go'",
+          "outlet": "X (@elonmusk)",
+          "date": "2026-10-15",
+          "url": "https://x.com/elonmusk/status/2110557192650641827",
+          "transcript_url": "https://x.com/elonmusk/status/2110557192650641827",
+          "transcript_kind": "official (primary X post)",
+          "covers_question": true,
+          "checked": "2026-10-15"
+        },
+        {
+          "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+          "outlet": "BBC News",
+          "date": "2026-10-14",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo",
+          "transcript_url": null,
+          "transcript_kind": "article",
+          "covers_question": true,
+          "checked": "2026-10-15"
         }
       ],
       "frequency": 1,
       "first_asked": "2023-11-09",
-      "last_updated": "2026-10-12",
-      "verification": "verified_single_source",
+      "last_updated": "2026-10-15",
+      "verification": "verified",
       "updates": [
         {
           "date": "2026-10-12",
           "summary": "Verification pass: sources re-checked against fetched transcripts/articles; reframed from unverified Starlink/Crimea claim; 1 verbatim quote(s) added.",
           "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+          "type": "addition"
+        },
+        {
+          "date": "2026-10-15",
+          "summary": "Added Musk's 14-15 Oct 2026 X statements: Starshield limits in Ukraine are set by the US military/POTUS, and 'Time for Zelensky to go' in reply to a post about Zelensky not ending the war. Appended, not a position change (consistent with his earlier calls for a negotiated end). Statements on X, not interview answers; frequency unchanged.",
+          "source": "Elon Musk on X replying to Mykhailo Fedorov about Starshield speed limits in Ukraine",
           "type": "addition"
         }
       ]
