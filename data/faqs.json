@@ -1,7 +1,7 @@
 {
   "title": "Elonepedia",
   "version": "1.1",
-  "last_updated": "2026-10-15T07:30:00+01:00",
+  "last_updated": "2026-10-16T07:30:00+01:00",
   "faqs": [
     {
       "id": "q001",
@@ -1388,56 +1388,6 @@
       ]
     },
     {
-      "id": "q019",
-      "question": "Why were so many Twitter employees laid off?",
-      "category": "X / Twitter",
-      "tags": [
-        "layoffs"
-      ],
-      "answer_summary": "He told the BBC headcount went from just under 8,000 to about 1,500, that it was painful, and that the company risked bankruptcy without immediate cost cuts.",
-      "answer_type": "summary+quotes",
-      "quotes": [
-        {
-          "text": "If the whole ship sinks, then nobody's got a job.",
-          "source": "Elon Musk BBC interview: Twitter boss on layoffs, misinfo and sleeping in the office",
-          "url": "https://www.bbc.com/news/business-65248196",
-          "timestamp": null,
-          "transcript_kind": "article",
-          "verified_on": "2026-10-12"
-        }
-      ],
-      "sources": [
-        {
-          "title": "Elon Musk BBC interview: Twitter boss on layoffs, misinfo and sleeping in the office",
-          "outlet": "BBC News",
-          "date": "2023-04-12",
-          "url": "https://www.bbc.com/news/business-65248196",
-          "transcript_url": null,
-          "transcript_kind": "article",
-          "covers_question": true,
-          "checked": "2026-10-12"
-        }
-      ],
-      "frequency": 1,
-      "first_asked": "2023-04-12",
-      "last_updated": "2026-10-12",
-      "verification": "verified",
-      "updates": [
-        {
-          "date": "2026-10-12",
-          "summary": "Initial entry compiled for Elonepedia v1.",
-          "source": "Elon Musk interview with James Clayton (Twitter Spaces)",
-          "type": "addition"
-        },
-        {
-          "date": "2026-10-12",
-          "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-          "source": "Elon Musk BBC interview: Twitter boss on layoffs, misinfo and sleeping in the office",
-          "type": "clarification"
-        }
-      ]
-    },
-    {
       "id": "q020",
       "question": "What about advertisers leaving X?",
       "category": "X / Twitter",
@@ -1787,7 +1737,7 @@
         "robotaxi",
         "cybercab"
       ],
-      "answer_summary": "At We, Robot (Oct 2024) he unveiled the Cybercab, arguing cars are used only ~10 of 168 hours a week so autonomy would greatly raise utility; on earnings calls he has said idle robotaxi fleets could also provide distributed compute. At X Takeover 2026 he said Cybercab/Robotaxi rollout is paced to avoid any injury or death that would become worldwide headlines and invite shutdown; they also prioritize not running over pets (including hard night-time kitten cases he said they solved) and scrubbing risky intersections and railroad crossings before entering new cities.",
+      "answer_summary": "At We, Robot (Oct 2024) he unveiled the Cybercab, arguing cars are used only ~10 of 168 hours a week so autonomy would greatly raise utility; on earnings calls he has said idle robotaxi fleets could also provide distributed compute. At X Takeover 2026 he said Cybercab/Robotaxi rollout is paced to avoid any injury or death that would become worldwide headlines and invite shutdown; they also prioritize not running over pets (including hard night-time kitten cases he said they solved) and scrubbing risky intersections and railroad crossings before entering new cities. At the 15 Oct 2026 Roadster unveil he said long-term it will be the only manually driven car Tesla makes — positioning Cybercab/robotaxi as the default product direction while the Roadster is the halo exception taken 'to the limits'.",
       "answer_type": "summary+quotes",
       "quotes": [
         {
@@ -1813,6 +1763,14 @@
           "timestamp": null,
           "transcript_kind": "third-party (archive transcript)",
           "verified_on": "2026-10-13"
+        },
+        {
+          "text": "This will actually be long term the only manually driven car that Tesla makes… So if it's going to be the only manually driven car, let's take it to the limits and beyond the limits.",
+          "source": "Tesla Roadster unveil, McGregor TX (quoted by Motor1)",
+          "url": "https://www.motor1.com/news/812153/tesla-roadster-last-manually-driven-model/",
+          "timestamp": null,
+          "transcript_kind": "third-party reporting of live event remarks",
+          "verified_on": "2026-10-16"
         }
       ],
       "sources": [
@@ -1845,11 +1803,21 @@
           "transcript_kind": "third-party (archive transcript)",
           "covers_question": true,
           "checked": "2026-10-13"
+        },
+        {
+          "title": "Tesla next-generation Roadster unveil (McGregor, Texas / SpaceX test site)",
+          "outlet": "Tesla livestream / multi-outlet coverage (Reuters, TechCrunch, CNBC, Axios, Motor1, Not a Tesla App)",
+          "date": "2026-10-15",
+          "url": "https://x.com/Tesla/status/2110788059008819215",
+          "transcript_url": null,
+          "transcript_kind": "primary event + reliable secondary reporting (no full official transcript yet)",
+          "covers_question": true,
+          "checked": "2026-10-16"
         }
       ],
-      "frequency": 3,
+      "frequency": 4,
       "first_asked": "2024-01-24",
-      "last_updated": "2026-10-13",
+      "last_updated": "2026-10-16",
       "verification": "verified",
       "updates": [
         {
@@ -1868,6 +1836,12 @@
           "date": "2026-10-13",
           "summary": "X Takeover 2026: expanding carefully to avoid injury/death headlines and regulatory shutdown; don't run over pets (claims solved gray-kitten-at-night case); check problematic intersections and railroad crossings before new cities; initially geo-degeofence hard cases.",
           "source": "Elon Musk: What Comes Next for Humanity (X Takeover 2026 at Giga Texas)",
+          "type": "addition"
+        },
+        {
+          "date": "2026-10-16",
+          "summary": "Roadster unveil: Musk said the Roadster will long-term be Tesla's only manually driven car (halo exception as the company shifts to autonomy/Cybercab).",
+          "source": "Tesla Roadster unveil (McGregor)",
           "type": "addition"
         }
       ]
@@ -2067,7 +2041,7 @@
         "valuation",
         "ai"
       ],
-      "answer_summary": "On the Q4 2023 call he said people should think of Tesla as an AI robotics company rather than a car company.",
+      "answer_summary": "On the Q4 2023 call he said people should think of Tesla as an AI robotics company rather than a car company. The 15 Oct 2026 Roadster unveil still showcased a human-driven halo sports car (Tesla×SpaceX thrusters/suction), but he cast it as the last/long-term-only manually driven Tesla — consistent with framing the company's future around autonomy and robotics rather than traditional carmaking.",
       "answer_type": "summary+quotes",
       "quotes": [
         {
@@ -2099,11 +2073,21 @@
           "transcript_kind": "third-party",
           "covers_question": true,
           "checked": "2026-10-12"
+        },
+        {
+          "title": "Tesla next-generation Roadster unveil (McGregor, Texas / SpaceX test site)",
+          "outlet": "Tesla livestream / multi-outlet coverage (Reuters, TechCrunch, CNBC, Axios, Motor1, Not a Tesla App)",
+          "date": "2026-10-15",
+          "url": "https://x.com/Tesla/status/2110788059008819215",
+          "transcript_url": null,
+          "transcript_kind": "primary event + reliable secondary reporting (no full official transcript yet)",
+          "covers_question": true,
+          "checked": "2026-10-16"
         }
       ],
-      "frequency": 2,
+      "frequency": 3,
       "first_asked": "2024-01-24",
-      "last_updated": "2026-10-12",
+      "last_updated": "2026-10-16",
       "verification": "verified",
       "updates": [
         {
@@ -2117,6 +2101,12 @@
           "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
           "source": "Tesla Q4 2023 earnings call",
           "type": "clarification"
+        },
+        {
+          "date": "2026-10-16",
+          "summary": "Roadster unveil reinforces AI/autonomy trajectory: halo sports car exists, but Musk said it will be the only long-term manually driven Tesla.",
+          "source": "Tesla Roadster unveil (McGregor)",
+          "type": "addition"
         }
       ]
     },
@@ -3520,6 +3510,96 @@
           "type": "addition"
         }
       ]
+    },
+    {
+      "id": "q056",
+      "question": "What is the new Tesla Roadster, and can it really fly?",
+      "category": "Tesla",
+      "tags": [
+        "roadster",
+        "spacex",
+        "thrusters",
+        "halo-car",
+        "product-unveil"
+      ],
+      "answer_summary": "At the 15 Oct 2026 unveil at SpaceX's McGregor, Texas test site, Musk framed the redesigned Roadster as a Tesla×SpaceX collaboration and 'the last best driver's car' — long-term the only manually driven Tesla, taken 'to the limits and beyond'. Demos used underbody suction fans (up to ~2 g extra grip; he joked it could 'suck the chrome off a trailer hitch') and SpaceX-style cold-gas thrusters so the car could drive upside down, hover, and flip/jump over other vehicles. Specs claimed: 0–60 mph in ~0.81 s (Thrust/Rocket trims faster), >230 mph with a goal to 'crack halfway to the speed of sound', ~300+ miles range. Three trims: Performance, Thrust (acceleration thrusters), and invite-only Rocket (full flight system). Production targeted for 2028; deposits $50k / $250k; no final price announced. He called it beyond movies/James Bond, warned success wasn't certain and it is 'not necessarily a safety optimized car', and later posted 'Turns out the future does have flying cars'.",
+      "answer_type": "summary+quotes",
+      "quotes": [
+        {
+          "text": "This will actually be long term the only manually driven car that Tesla makes… So if it's going to be the only manually driven car, let's take it to the limits and beyond the limits.",
+          "source": "Tesla Roadster unveil, McGregor TX (quoted by Motor1)",
+          "url": "https://www.motor1.com/news/812153/tesla-roadster-last-manually-driven-model/",
+          "timestamp": null,
+          "transcript_kind": "third-party reporting of live event remarks",
+          "verified_on": "2026-10-16"
+        },
+        {
+          "text": "This is the culmination of incredible work by Tesla and SpaceX engineers working closely together to make something that you haven't seen in any movie",
+          "source": "Tesla Roadster unveil, McGregor TX (quoted by Reuters)",
+          "url": "https://www.investing.com/news/stock-market-news/tesla-set-to-unveil-next-generation-roadster-sports-ev-after-years-of-delay-4951021",
+          "timestamp": null,
+          "transcript_kind": "third-party reporting of live event remarks",
+          "verified_on": "2026-10-16"
+        },
+        {
+          "text": "I think you've got to crack halfway to the speed of sound.",
+          "source": "Tesla Roadster unveil, McGregor TX (quoted by Reuters)",
+          "url": "https://www.investing.com/news/stock-market-news/tesla-set-to-unveil-next-generation-roadster-sports-ev-after-years-of-delay-4951021",
+          "timestamp": null,
+          "transcript_kind": "third-party reporting of live event remarks",
+          "verified_on": "2026-10-16"
+        },
+        {
+          "text": "This car could suck the chrome off a trailer hitch",
+          "source": "Tesla Roadster unveil, McGregor TX (quoted by Axios / Not a Tesla App)",
+          "url": "https://www.axios.com/2026/10/16/tesla-roadster-elon-musk-flying-car",
+          "timestamp": null,
+          "transcript_kind": "third-party reporting of live event remarks",
+          "verified_on": "2026-10-16"
+        },
+        {
+          "text": "Turns out the future does have flying cars",
+          "source": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2110913107094606330",
+          "timestamp": null,
+          "transcript_kind": "primary (X post)",
+          "verified_on": "2026-10-16"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Tesla next-generation Roadster unveil (McGregor, Texas / SpaceX test site)",
+          "outlet": "Tesla livestream / multi-outlet coverage (Reuters, TechCrunch, CNBC, Axios, Motor1, Not a Tesla App)",
+          "date": "2026-10-15",
+          "url": "https://x.com/Tesla/status/2110788059008819215",
+          "transcript_url": null,
+          "transcript_kind": "primary event + reliable secondary reporting (no full official transcript yet)",
+          "covers_question": true,
+          "checked": "2026-10-16"
+        },
+        {
+          "title": "Elon Musk on X: 'Turns out the future does have flying cars'",
+          "outlet": "X / Elon Musk",
+          "date": "2026-10-16",
+          "url": "https://x.com/elonmusk/status/2110913107094606330",
+          "transcript_url": null,
+          "transcript_kind": "primary (X post)",
+          "covers_question": true,
+          "checked": "2026-10-16"
+        }
+      ],
+      "frequency": 2,
+      "first_asked": "2026-10-15",
+      "last_updated": "2026-10-16",
+      "verification": "verified",
+      "updates": [
+        {
+          "date": "2026-10-16",
+          "summary": "New FAQ from Tesla Roadster unveil 2026-10-15 (major importance product appearance): SpaceX thrusters/suction demos, only long-term manually driven Tesla, production 2028, Performance/Thrust/Rocket trims.",
+          "source": "Tesla Roadster unveil (McGregor)",
+          "type": "addition"
+        }
+      ]
     }
   ],
   "archive": [
@@ -3749,6 +3829,58 @@
       ],
       "retired_date": "2026-10-13",
       "retired_reason": "Room for higher-salience 2026 topic (Terafab / chipmaking) after X Takeover 2026; Hyperloop lowest frequency and stale."
+    },
+    {
+      "id": "q019",
+      "question": "Why were so many Twitter employees laid off?",
+      "category": "X / Twitter",
+      "tags": [
+        "layoffs"
+      ],
+      "answer_summary": "He told the BBC headcount went from just under 8,000 to about 1,500, that it was painful, and that the company risked bankruptcy without immediate cost cuts.",
+      "answer_type": "summary+quotes",
+      "quotes": [
+        {
+          "text": "If the whole ship sinks, then nobody's got a job.",
+          "source": "Elon Musk BBC interview: Twitter boss on layoffs, misinfo and sleeping in the office",
+          "url": "https://www.bbc.com/news/business-65248196",
+          "timestamp": null,
+          "transcript_kind": "article",
+          "verified_on": "2026-10-12"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Elon Musk BBC interview: Twitter boss on layoffs, misinfo and sleeping in the office",
+          "outlet": "BBC News",
+          "date": "2023-04-12",
+          "url": "https://www.bbc.com/news/business-65248196",
+          "transcript_url": null,
+          "transcript_kind": "article",
+          "covers_question": true,
+          "checked": "2026-10-12"
+        }
+      ],
+      "frequency": 1,
+      "first_asked": "2023-04-12",
+      "last_updated": "2026-10-12",
+      "verification": "verified",
+      "updates": [
+        {
+          "date": "2026-10-12",
+          "summary": "Initial entry compiled for Elonepedia v1.",
+          "source": "Elon Musk interview with James Clayton (Twitter Spaces)",
+          "type": "addition"
+        },
+        {
+          "date": "2026-10-12",
+          "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
+          "source": "Elon Musk BBC interview: Twitter boss on layoffs, misinfo and sleeping in the office",
+          "type": "clarification"
+        }
+      ],
+      "retired_date": "2026-10-16",
+      "retired_reason": "Lowest-frequency/stale historical topic; replaced by Roadster FAQ after Oct 15 2026 unveil (major product appearance)."
     }
   ]
 }
