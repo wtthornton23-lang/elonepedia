@@ -1,7 +1,7 @@
 {
  "title": "Elonepedia",
  "version": "1.1",
- "last_updated": "2026-10-17T07:30:00+01:00",
+ "last_updated": "2026-10-18T07:30:00+01:00",
  "faqs": [
   {
    "id": "q001",
@@ -2459,7 +2459,7 @@
     "doge",
     "government"
    ],
-   "answer_summary": "On Hannity (Feb 2025) he said a key DOGE function was making sure presidential executive orders were carried out, arguing that a bureaucracy fighting the elected president means 'a bureaucracy and not a democracy'. He pitched the idea on Joe Rogan in Oct 2024.",
+   "answer_summary": "On Hannity (Feb 2025) he said a key DOGE function was making sure presidential executive orders were carried out, arguing that a bureaucracy fighting the elected president means 'a bureaucracy and not a democracy'. He pitched the idea on Joe Rogan in Oct 2024. In an October 2026 interview with biographer Walter Isaacson (previewed by Axios ahead of the 20 Oct release), he conceded the DOGE experiment showed the deficit could not be solved from within the government and argued the only way to solve the national debt is with AI and robots rather than by trying to save the way there.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -2499,11 +2499,21 @@
      "transcript_kind": "auto-caption",
      "covers_question": true,
      "checked": "2026-10-12"
+    },
+    {
+     "title": "Exclusive: Musk tells Isaacson \"AI and robots\" will need to fix deficit (preview of The Builders with Walter Isaacson, premiering 2026-10-20)",
+     "outlet": "Axios (Mike Allen)",
+     "date": "2026-10-17",
+     "url": "https://www.axios.com/2026/10/17/elon-musk-doge-walter-isaacson-podcast",
+     "transcript_url": null,
+     "transcript_kind": "reliable secondary reporting of unreleased podcast interview (full episode not yet released)",
+     "covers_question": true,
+     "checked": "2026-10-18"
     }
    ],
-   "frequency": 2,
+   "frequency": 3,
    "first_asked": "2024-10-28",
-   "last_updated": "2026-10-12",
+   "last_updated": "2026-10-18",
    "verification": "verified",
    "updates": [
     {
@@ -2517,6 +2527,12 @@
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 2 verbatim quote(s) added.",
      "source": "Interview of President Trump and Elon Musk by Sean Hannity",
      "type": "clarification"
+    },
+    {
+     "date": "2026-10-18",
+     "summary": "Added Musk's reflection from Walter Isaacson's 'The Builders' interview as previewed by Axios on 17 Oct 2026: DOGE could not solve the deficit from within government; only AI and robots can. Paraphrased pending the full episode (20 Oct); frequency +1 for this appearance.",
+     "source": "Axios preview of The Builders with Walter Isaacson",
+     "type": "addition"
     }
    ]
   },
@@ -2528,7 +2544,7 @@
     "doge",
     "trump"
    ],
-   "answer_summary": "He left his special-government-employee role at the end of May 2025. Days later he called the administration's tax-and-spending bill a 'disgusting abomination', sparking a public feud. On June 11, 2025 he posted that he regretted some of his posts about the President because 'they went too far'.",
+   "answer_summary": "He left his special-government-employee role at the end of May 2025. Days later he called the administration's tax-and-spending bill a 'disgusting abomination', sparking a public feud. On June 11, 2025 he posted that he regretted some of his posts about the President because 'they went too far'. Speaking to Walter Isaacson in October 2026 (as reported by Axios), he said almost no one in authority, across the presidency, Congress and the judiciary, really wants to cut spending (Rand Paul being a rare exception), that stopping wasteful spending makes a lot of enemies and Trump likes to be liked and dislikes angry calls about stopped funding. He admitted he got carried away and was gone from his companies too long, saying he should have stayed more in the background, kept it to a month or two rather than four months, and gone back to focus on AI sooner. He said his time in the Oval Office was a little seductive, called the CPAC chainsaw episode 'a weird weekend' and declined to elaborate.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -2560,11 +2576,21 @@
      "transcript_kind": "article",
      "covers_question": true,
      "checked": "2026-10-12"
+    },
+    {
+     "title": "Exclusive: Musk tells Isaacson \"AI and robots\" will need to fix deficit (preview of The Builders with Walter Isaacson, premiering 2026-10-20)",
+     "outlet": "Axios (Mike Allen)",
+     "date": "2026-10-17",
+     "url": "https://www.axios.com/2026/10/17/elon-musk-doge-walter-isaacson-podcast",
+     "transcript_url": null,
+     "transcript_kind": "reliable secondary reporting of unreleased podcast interview (full episode not yet released)",
+     "covers_question": true,
+     "checked": "2026-10-18"
     }
    ],
-   "frequency": 2,
+   "frequency": 3,
    "first_asked": "2025-06-03",
-   "last_updated": "2026-10-12",
+   "last_updated": "2026-10-18",
    "verification": "verified",
    "updates": [
     {
@@ -2584,6 +2610,12 @@
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; q036 fixed: rewritten from verified news sources (BBC, NPR); these are statements/posts, not an interview Q&A; 1 verbatim quote(s) added.",
      "source": "Musk calls Trump's tax bill a 'disgusting abomination'",
      "type": "clarification"
+    },
+    {
+     "date": "2026-10-18",
+     "summary": "Added Musk's Oct 2026 reflection (Isaacson interview, per Axios 17 Oct 2026): no appetite to cut spending in any branch, Trump dislikes the backlash from cut funding, he got carried away and stayed away from his companies too long, should have stayed in the background for a month or two and returned to AI sooner. Paraphrased pending full episode (20 Oct); frequency +1.",
+     "source": "Axios preview of The Builders with Walter Isaacson",
+     "type": "addition"
     }
    ]
   },
@@ -3092,7 +3124,7 @@
     "tunnels",
     "traffic"
    ],
-   "answer_summary": "He wants a 3D network of tunnels to alleviate congestion, calling traffic one of the most soul-destroying things.",
+   "answer_summary": "He wants a 3D network of tunnels to alleviate congestion, calling traffic one of the most soul-destroying things. In October 2026 he said on X that Steve Davis and his team deserve almost all the credit for the company's progress, and that his own role is offering engineering thoughts here and there, getting some permits unblocked, and crazy merch ideas.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -3110,6 +3142,14 @@
      "timestamp": null,
      "transcript_kind": "official",
      "verified_on": "2026-10-12"
+    },
+    {
+     "text": "Steve Davis and his team deserve almost all the credit for @BoringCompany progress.",
+     "source": "Elon Musk on X",
+     "url": "https://x.com/elonmusk/status/2111504802895061076",
+     "timestamp": "2026-10-17T17:09:09Z",
+     "transcript_kind": "primary (X post)",
+     "verified_on": "2026-10-18"
     }
    ],
    "sources": [
@@ -3122,11 +3162,21 @@
      "transcript_kind": "official",
      "covers_question": true,
      "checked": "2026-10-12"
+    },
+    {
+     "title": "Elon Musk on X (reply to @XFreeze): credit for Boring Company progress",
+     "outlet": "X / Elon Musk",
+     "date": "2026-10-17",
+     "url": "https://x.com/elonmusk/status/2111504802895061076",
+     "transcript_url": null,
+     "transcript_kind": "primary (X post)",
+     "covers_question": true,
+     "checked": "2026-10-18"
     }
    ],
    "frequency": 1,
    "first_asked": "2017-04-28",
-   "last_updated": "2026-10-12",
+   "last_updated": "2026-10-18",
    "verification": "verified_single_source",
    "updates": [
     {
@@ -3140,6 +3190,12 @@
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 2 verbatim quote(s) added.",
      "source": "The future we're building — and boring (TED2017)",
      "type": "clarification"
+    },
+    {
+     "date": "2026-10-18",
+     "summary": "Added Musk's 17 Oct 2026 X reply crediting Steve Davis and team for almost all Boring Company progress and describing his own limited role. X statement; frequency unchanged.",
+     "source": "Elon Musk on X (reply to @XFreeze, 17 Oct 2026)",
+     "type": "addition"
     }
    ]
   },
@@ -3522,7 +3578,7 @@
     "halo-car",
     "product-unveil"
    ],
-   "answer_summary": "At the 15 Oct 2026 unveil at SpaceX's McGregor, Texas test site, Musk framed the redesigned Roadster as a Tesla×SpaceX collaboration and 'the last best driver's car' — long-term the only manually driven Tesla, taken 'to the limits and beyond'. Demos used underbody suction fans (up to ~2 g extra grip; he joked it could 'suck the chrome off a trailer hitch') and SpaceX-style cold-gas thrusters so the car could drive upside down, hover, and flip/jump over other vehicles. Specs claimed: 0–60 mph in ~0.81 s (Thrust/Rocket trims faster), >230 mph with a goal to 'crack halfway to the speed of sound', ~300+ miles range. Three trims: Performance, Thrust (acceleration thrusters), and invite-only Rocket (full flight system). Production targeted for 2028; deposits $50k / $250k; no final price announced. He called it beyond movies/James Bond, warned success wasn't certain and it is 'not necessarily a safety optimized car', and later posted 'Turns out the future does have flying cars'. On 16-17 Oct he added on X that even without the thrusters the Roadster 'will crush the best Formula 1 track times' because it uses suction and active control surfaces (both banned in F1), and that he thinks it can reach a peak speed above 0.5 Mach, roughly 400 mph.",
+   "answer_summary": "At the 15 Oct 2026 unveil at SpaceX's McGregor, Texas test site, Musk framed the redesigned Roadster as a Tesla×SpaceX collaboration and 'the last best driver's car' — long-term the only manually driven Tesla, taken 'to the limits and beyond'. Demos used underbody suction fans (up to ~2 g extra grip; he joked it could 'suck the chrome off a trailer hitch') and SpaceX-style cold-gas thrusters so the car could drive upside down, hover, and flip/jump over other vehicles. Specs claimed: 0–60 mph in ~0.81 s (Thrust/Rocket trims faster), >230 mph with a goal to 'crack halfway to the speed of sound', ~300+ miles range. Three trims: Performance, Thrust (acceleration thrusters), and invite-only Rocket (full flight system). Production targeted for 2028; deposits $50k / $250k; no final price announced. He called it beyond movies/James Bond, warned success wasn't certain and it is 'not necessarily a safety optimized car', and later posted 'Turns out the future does have flying cars'. On 16-17 Oct he added on X that even without the thrusters the Roadster 'will crush the best Formula 1 track times' because it uses suction and active control surfaces (both banned in F1), and that he thinks it can reach a peak speed above 0.5 Mach, roughly 400 mph. On 17 Oct he posted that future demos would include flying over the Snake River or maybe the Grand Canyon, landing on its wheels, and exceeding half the speed of sound, and quipped that since fate maximizes for ironic entertainment it was inevitable the 'Roadster' would be a flying car.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -3580,6 +3636,22 @@
      "timestamp": null,
      "transcript_kind": "primary (X post)",
      "verified_on": "2026-10-17"
+    },
+    {
+     "text": "Future fun Roadster demos will include flying over the Snake River or maybe Grand Canyon and landing on its wheels and exceeding half the speed of sound",
+     "source": "Elon Musk on X",
+     "url": "https://x.com/elonmusk/status/2111507158215057620",
+     "timestamp": "2026-10-17T17:18:31Z",
+     "transcript_kind": "primary (X post)",
+     "verified_on": "2026-10-18"
+    },
+    {
+     "text": "Since fate maximizes for ironic entertainment, it was inevitable that the “Roadster” would be a flying car",
+     "source": "Elon Musk on X",
+     "url": "https://x.com/elonmusk/status/2111507692045148515",
+     "timestamp": "2026-10-17T17:20:38Z",
+     "transcript_kind": "primary (X post)",
+     "verified_on": "2026-10-18"
     }
    ],
    "sources": [
@@ -3622,11 +3694,31 @@
      "transcript_kind": "primary (X post)",
      "covers_question": true,
      "checked": "2026-10-17"
+    },
+    {
+     "title": "Elon Musk on X: future Roadster demos (Snake River / Grand Canyon)",
+     "outlet": "X / Elon Musk",
+     "date": "2026-10-17",
+     "url": "https://x.com/elonmusk/status/2111507158215057620",
+     "transcript_url": null,
+     "transcript_kind": "primary (X post)",
+     "covers_question": true,
+     "checked": "2026-10-18"
+    },
+    {
+     "title": "Elon Musk on X: 'the “Roadster” would be a flying car'",
+     "outlet": "X / Elon Musk",
+     "date": "2026-10-17",
+     "url": "https://x.com/elonmusk/status/2111507692045148515",
+     "transcript_url": null,
+     "transcript_kind": "primary (X post)",
+     "covers_question": true,
+     "checked": "2026-10-18"
     }
    ],
    "frequency": 2,
    "first_asked": "2026-10-15",
-   "last_updated": "2026-10-17",
+   "last_updated": "2026-10-18",
    "verification": "verified",
    "updates": [
     {
@@ -3639,6 +3731,12 @@
      "date": "2026-10-17",
      "summary": "Added Musk's 16-17 Oct 2026 X statements: Roadster would beat F1 track times even without thrusters thanks to suction and active aero (banned in F1), and a targeted peak speed above 0.5 Mach (~400 mph), up from the 'crack halfway to the speed of sound' goal at the unveil. X statements, not interview answers; frequency unchanged.",
      "source": "Elon Musk on X (replies to Tobi Lütke and Jesse Watters)",
+     "type": "addition"
+    },
+    {
+     "date": "2026-10-18",
+     "summary": "Added Musk's 17 Oct 2026 X posts: planned future demos (flying over the Snake River or Grand Canyon, landing on its wheels, exceeding half the speed of sound) and the 'fate maximizes for ironic entertainment' flying-car remark. X statements; frequency unchanged.",
+     "source": "Elon Musk on X (17 Oct 2026)",
      "type": "addition"
     }
    ]
