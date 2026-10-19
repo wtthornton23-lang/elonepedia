@@ -1,7 +1,7 @@
 {
  "title": "Elonepedia",
  "version": "1.1",
- "last_updated": "2026-10-18T07:30:00+01:00",
+ "last_updated": "2026-10-19T07:40:00+01:00",
  "faqs": [
   {
    "id": "q001",
@@ -2041,7 +2041,7 @@
     "valuation",
     "ai"
    ],
-   "answer_summary": "On the Q4 2023 call he said people should think of Tesla as an AI robotics company rather than a car company. The 15 Oct 2026 Roadster unveil still showcased a human-driven halo sports car (Tesla×SpaceX thrusters/suction), but he cast it as the last/long-term-only manually driven Tesla — consistent with framing the company's future around autonomy and robotics rather than traditional carmaking.",
+   "answer_summary": "On the Q4 2023 call he said people should think of Tesla as an AI robotics company rather than a car company. The 15 Oct 2026 Roadster unveil still showcased a human-driven halo sports car (Tesla×SpaceX thrusters/suction), but he cast it as the last/long-term-only manually driven Tesla — consistent with framing the company's future around autonomy and robotics rather than traditional carmaking. On 18 Oct 2026 he wrote on X that Optimus and Cybercab 'will be the vast majority of Tesla's value', and that the only things that will scale economically to Kardashev-II size and beyond are superintelligence, robots, solar power and mass to space, adding that if you have the first two, the rest will follow.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -2051,6 +2051,14 @@
      "timestamp": null,
      "transcript_kind": "third-party",
      "verified_on": "2026-10-12"
+    },
+    {
+     "text": "Optimus and Cybercab will be the vast majority of Tesla’s value.",
+     "source": "Elon Musk on X (reply to @Teslaconomics, 18 Oct 2026)",
+     "url": "https://x.com/elonmusk/status/2111683964721037767",
+     "timestamp": null,
+     "transcript_kind": "primary (X post)",
+     "verified_on": "2026-10-19"
     }
    ],
    "sources": [
@@ -2083,11 +2091,21 @@
      "transcript_kind": "primary event + reliable secondary reporting (no full official transcript yet)",
      "covers_question": true,
      "checked": "2026-10-16"
+    },
+    {
+     "title": "Elon Musk on X: 'Optimus and Cybercab will be the vast majority of Tesla's value'",
+     "outlet": "X / Elon Musk",
+     "date": "2026-10-18",
+     "url": "https://x.com/elonmusk/status/2111683964721037767",
+     "transcript_url": null,
+     "transcript_kind": "primary (X post)",
+     "covers_question": true,
+     "checked": "2026-10-19"
     }
    ],
    "frequency": 3,
    "first_asked": "2024-01-24",
-   "last_updated": "2026-10-16",
+   "last_updated": "2026-10-19",
    "verification": "verified",
    "updates": [
     {
@@ -2106,6 +2124,12 @@
      "date": "2026-10-16",
      "summary": "Roadster unveil reinforces AI/autonomy trajectory: halo sports car exists, but Musk said it will be the only long-term manually driven Tesla.",
      "source": "Tesla Roadster unveil (McGregor)",
+     "type": "addition"
+    },
+    {
+     "date": "2026-10-19",
+     "summary": "Added Musk's 18 Oct 2026 X reply: Optimus and Cybercab will be most of Tesla's value; only superintelligence, robots, solar power and mass to space scale to Kardashev-II size, and the first two bring the rest. Reinforces, not changes, the AI/robotics-company position. X statement; frequency unchanged.",
+     "source": "Elon Musk on X (18 Oct 2026)",
      "type": "addition"
     }
    ]
@@ -3578,7 +3602,7 @@
     "halo-car",
     "product-unveil"
    ],
-   "answer_summary": "At the 15 Oct 2026 unveil at SpaceX's McGregor, Texas test site, Musk framed the redesigned Roadster as a Tesla×SpaceX collaboration and 'the last best driver's car' — long-term the only manually driven Tesla, taken 'to the limits and beyond'. Demos used underbody suction fans (up to ~2 g extra grip; he joked it could 'suck the chrome off a trailer hitch') and SpaceX-style cold-gas thrusters so the car could drive upside down, hover, and flip/jump over other vehicles. Specs claimed: 0–60 mph in ~0.81 s (Thrust/Rocket trims faster), >230 mph with a goal to 'crack halfway to the speed of sound', ~300+ miles range. Three trims: Performance, Thrust (acceleration thrusters), and invite-only Rocket (full flight system). Production targeted for 2028; deposits $50k / $250k; no final price announced. He called it beyond movies/James Bond, warned success wasn't certain and it is 'not necessarily a safety optimized car', and later posted 'Turns out the future does have flying cars'. On 16-17 Oct he added on X that even without the thrusters the Roadster 'will crush the best Formula 1 track times' because it uses suction and active control surfaces (both banned in F1), and that he thinks it can reach a peak speed above 0.5 Mach, roughly 400 mph. On 17 Oct he posted that future demos would include flying over the Snake River or maybe the Grand Canyon, landing on its wheels, and exceeding half the speed of sound, and quipped that since fate maximizes for ironic entertainment it was inevitable the 'Roadster' would be a flying car.",
+   "answer_summary": "At the 15 Oct 2026 unveil at SpaceX's McGregor, Texas test site, Musk framed the redesigned Roadster as a Tesla×SpaceX collaboration and 'the last best driver's car' — long-term the only manually driven Tesla, taken 'to the limits and beyond'. Demos used underbody suction fans (up to ~2 g extra grip; he joked it could 'suck the chrome off a trailer hitch') and SpaceX-style cold-gas thrusters so the car could drive upside down, hover, and flip/jump over other vehicles. Specs claimed: 0–60 mph in ~0.81 s (Thrust/Rocket trims faster), >230 mph with a goal to 'crack halfway to the speed of sound', ~300+ miles range. Three trims: Performance, Thrust (acceleration thrusters), and invite-only Rocket (full flight system). Production targeted for 2028; deposits $50k / $250k; no final price announced. He called it beyond movies/James Bond, warned success wasn't certain and it is 'not necessarily a safety optimized car', and later posted 'Turns out the future does have flying cars'. On 16-17 Oct he added on X that even without the thrusters the Roadster 'will crush the best Formula 1 track times' because it uses suction and active control surfaces (both banned in F1), and that he thinks it can reach a peak speed above 0.5 Mach, roughly 400 mph. On 17 Oct he posted that future demos would include flying over the Snake River or maybe the Grand Canyon, landing on its wheels, and exceeding half the speed of sound, and quipped that since fate maximizes for ironic entertainment it was inevitable the 'Roadster' would be a flying car. On 18 Oct he posted that the new Roadster 'accelerates faster than a fighter jet taking off from an aircraft carrier'.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -3714,11 +3738,21 @@
      "transcript_kind": "primary (X post)",
      "covers_question": true,
      "checked": "2026-10-18"
+    },
+    {
+     "title": "Elon Musk on X: Roadster 'accelerates faster than a fighter jet taking off from an aircraft carrier'",
+     "outlet": "X / Elon Musk",
+     "date": "2026-10-18",
+     "url": "https://x.com/elonmusk/status/2111838943016833235",
+     "transcript_url": null,
+     "transcript_kind": "primary (X post)",
+     "covers_question": true,
+     "checked": "2026-10-19"
     }
    ],
    "frequency": 2,
    "first_asked": "2026-10-15",
-   "last_updated": "2026-10-18",
+   "last_updated": "2026-10-19",
    "verification": "verified",
    "updates": [
     {
@@ -3737,6 +3771,12 @@
      "date": "2026-10-18",
      "summary": "Added Musk's 17 Oct 2026 X posts: planned future demos (flying over the Snake River or Grand Canyon, landing on its wheels, exceeding half the speed of sound) and the 'fate maximizes for ironic entertainment' flying-car remark. X statements; frequency unchanged.",
      "source": "Elon Musk on X (17 Oct 2026)",
+     "type": "addition"
+    },
+    {
+     "date": "2026-10-19",
+     "summary": "Added Musk's 18 Oct 2026 X post comparing Roadster acceleration to a fighter jet launching from an aircraft carrier (quoting a fan post comparing its >80 kN cold-gas thrust to an F-16). X statement; frequency unchanged.",
+     "source": "Elon Musk on X (18 Oct 2026)",
      "type": "addition"
     }
    ]
