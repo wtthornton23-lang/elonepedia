@@ -1,7 +1,7 @@
 {
  "title": "Elonepedia",
  "version": "1.1",
- "last_updated": "2026-10-19T07:40:00+01:00",
+ "last_updated": "2026-10-20T08:05:00+01:00",
  "faqs": [
   {
    "id": "q001",
@@ -1193,6 +1193,117 @@
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
      "source": "Lex Fridman Podcast #49: Elon Musk – Neuralink, AI, Autopilot, and the Pale Blue Dot",
      "type": "clarification"
+    }
+   ]
+  },
+  {
+   "id": "q057",
+   "question": "Will AI and robots take all our jobs? What is 'universal high income'?",
+   "category": "AI & xAI",
+   "tags": [
+    "jobs",
+    "universal-high-income",
+    "abundance",
+    "economy"
+   ],
+   "answer_summary": "Asked by Rishi Sunak at the UK AI Safety Summit (Nov 2023) what AI means for people's jobs, he called AI 'the most disruptive force in history' and said there will come a point where no job is needed: you can have a job for personal satisfaction, but AI will be able to do everything. He said the result would not be universal basic income but 'universal high income', with no shortage of goods and services, and that the hard question becomes how people find meaning in life. On 19 Oct 2026, responding to Anthropic's plan to put shares into a public-benefit fund for AI disruption, he posted that next year he will give one of his SpaceX shares to every kid in America, 'the first of many', and corrected a follower's 'universal basic income' to '*universal high income'.",
+   "answer_type": "summary+quotes",
+   "quotes": [
+    {
+     "text": "there will come a point where no job is needed",
+     "source": "In Conversation with Rishi Sunak (UK AI Safety Summit, Lancaster House)",
+     "url": "https://elonmuskarchive.org/video/in-conversation-with-rishi-sunak-2023-11-02",
+     "timestamp": null,
+     "transcript_kind": "third-party (archive transcript; matches YouTube auto-captions)",
+     "verified_on": "2026-10-20"
+    },
+    {
+     "text": "We won't have universal basic income, we'll have universal high income.",
+     "source": "In Conversation with Rishi Sunak (UK AI Safety Summit, Lancaster House)",
+     "url": "https://elonmuskarchive.org/video/in-conversation-with-rishi-sunak-2023-11-02",
+     "timestamp": null,
+     "transcript_kind": "third-party (archive transcript; matches YouTube auto-captions)",
+     "verified_on": "2026-10-20"
+    },
+    {
+     "text": "Next year, I will give one of my SpaceX shares to every kid in America. This will be the first of many.",
+     "source": "Elon Musk on X",
+     "url": "https://x.com/elonmusk/status/2112089556615123114",
+     "timestamp": "2026-10-19T07:52:45Z",
+     "transcript_kind": "primary (X post)",
+     "verified_on": "2026-10-20"
+    },
+    {
+     "text": "*universal high income",
+     "source": "Elon Musk on X",
+     "url": "https://x.com/elonmusk/status/2112093799694372952",
+     "timestamp": "2026-10-19T08:09:37Z",
+     "transcript_kind": "primary (X post)",
+     "verified_on": "2026-10-20"
+    }
+   ],
+   "sources": [
+    {
+     "title": "In Conversation with Rishi Sunak (UK AI Safety Summit)",
+     "outlet": "UK Prime Minister's Office / Elon Musk Archive",
+     "date": "2023-11-02",
+     "url": "https://www.youtube.com/watch?v=R2meHtrO1n8",
+     "transcript_url": "https://elonmuskarchive.org/video/in-conversation-with-rishi-sunak-2023-11-02",
+     "transcript_kind": "third-party (archive transcript; matches YouTube auto-captions)",
+     "covers_question": true,
+     "checked": "2026-10-20"
+    },
+    {
+     "title": "Elon Musk on X: 'Next year, I will give one of my SpaceX shares to every kid in America'",
+     "outlet": "X / Elon Musk",
+     "date": "2026-10-19",
+     "url": "https://x.com/elonmusk/status/2112089556615123114",
+     "transcript_url": null,
+     "transcript_kind": "primary (X post)",
+     "covers_question": true,
+     "checked": "2026-10-20"
+    },
+    {
+     "title": "Elon Musk on X: '*universal high income' (reply correcting 'universal basic income')",
+     "outlet": "X / Elon Musk",
+     "date": "2026-10-19",
+     "url": "https://x.com/elonmusk/status/2112093799694372952",
+     "transcript_url": null,
+     "transcript_kind": "primary (X post)",
+     "covers_question": true,
+     "checked": "2026-10-20"
+    },
+    {
+     "title": "Elon Musk vows to donate SpaceX shares to every child in America",
+     "outlet": "CNBC (Robert Frank)",
+     "date": "2026-10-19",
+     "url": "https://www.cnbc.com/video/2026/10/19/elon-musk-vows-to-donate-spacex-shares-to-every-child-in-america.html",
+     "transcript_url": null,
+     "transcript_kind": "news video",
+     "covers_question": true,
+     "checked": "2026-10-20"
+    },
+    {
+     "title": "Musk pledges to give away one SpaceX share to every U.S. child",
+     "outlet": "CBS News (Jo Ling Kent)",
+     "date": "2026-10-19",
+     "url": "https://www.youtube.com/watch?v=KgDrQo5ljj0",
+     "transcript_url": null,
+     "transcript_kind": "news video (reports the pledge was a reply to Anthropic's public-benefit fund)",
+     "covers_question": true,
+     "checked": "2026-10-20"
+    }
+   ],
+   "frequency": 2,
+   "first_asked": "2023-11-02",
+   "last_updated": "2026-10-20",
+   "verification": "verified",
+   "updates": [
+    {
+     "date": "2026-10-20",
+     "summary": "New entry: rising topic after Musk's 19 Oct 2026 pledge to give one SpaceX share to every American child (in response to Anthropic's public-benefit fund) and his '*universal high income' reply; grounded in his Nov 2023 answer to Rishi Sunak (quotes checked against the archive transcript, which matches YouTube auto-captions).",
+     "source": "Sunak conversation (2023) and Elon Musk on X (19 Oct 2026)",
+     "type": "addition"
     }
    ]
   },
@@ -3090,57 +3201,6 @@
    ]
   },
   {
-   "id": "q044",
-   "question": "Why did you sell your houses / possessions?",
-   "category": "Personal Life",
-   "tags": [
-    "wealth",
-    "possessions"
-   ],
-   "answer_summary": "In 2020 he told Joe Rogan he was slightly sad about it but that possessions weigh you down and are an 'attack vector' for critics.",
-   "answer_type": "summary+quotes",
-   "quotes": [
-    {
-     "text": "i think possessions kind of weigh you down Then they're kind of an attack vector",
-     "source": "Joe Rogan Experience #1470 – Elon Musk",
-     "url": "https://pickscribe.com/v/RcYjXbSJBN8",
-     "timestamp": null,
-     "transcript_kind": "auto-caption",
-     "verified_on": "2026-10-12"
-    }
-   ],
-   "sources": [
-    {
-     "title": "Joe Rogan Experience #1470 – Elon Musk",
-     "outlet": "The Joe Rogan Experience",
-     "date": "2020-05-07",
-     "url": "https://www.youtube.com/watch?v=RcYjXbSJBN8",
-     "transcript_url": "https://pickscribe.com/v/RcYjXbSJBN8",
-     "transcript_kind": "auto-caption",
-     "covers_question": true,
-     "checked": "2026-10-12"
-    }
-   ],
-   "frequency": 1,
-   "first_asked": "2020-05-07",
-   "last_updated": "2026-10-12",
-   "verification": "verified_single_source",
-   "updates": [
-    {
-     "date": "2026-10-12",
-     "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "Elon Musk talks Twitter, Tesla and how his brain works (TED2022)",
-     "type": "addition"
-    },
-    {
-     "date": "2026-10-12",
-     "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-     "source": "Joe Rogan Experience #1470 – Elon Musk",
-     "type": "clarification"
-    }
-   ]
-  },
-  {
    "id": "q045",
    "question": "What is The Boring Company and why tunnels?",
    "category": "Boring Company",
@@ -4061,6 +4121,59 @@
    ],
    "retired_date": "2026-10-16",
    "retired_reason": "Lowest-frequency/stale historical topic; replaced by Roadster FAQ after Oct 15 2026 unveil (major product appearance)."
+  },
+  {
+   "id": "q044",
+   "question": "Why did you sell your houses / possessions?",
+   "category": "Personal Life",
+   "tags": [
+    "wealth",
+    "possessions"
+   ],
+   "answer_summary": "In 2020 he told Joe Rogan he was slightly sad about it but that possessions weigh you down and are an 'attack vector' for critics.",
+   "answer_type": "summary+quotes",
+   "quotes": [
+    {
+     "text": "i think possessions kind of weigh you down Then they're kind of an attack vector",
+     "source": "Joe Rogan Experience #1470 – Elon Musk",
+     "url": "https://pickscribe.com/v/RcYjXbSJBN8",
+     "timestamp": null,
+     "transcript_kind": "auto-caption",
+     "verified_on": "2026-10-12"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Joe Rogan Experience #1470 – Elon Musk",
+     "outlet": "The Joe Rogan Experience",
+     "date": "2020-05-07",
+     "url": "https://www.youtube.com/watch?v=RcYjXbSJBN8",
+     "transcript_url": "https://pickscribe.com/v/RcYjXbSJBN8",
+     "transcript_kind": "auto-caption",
+     "covers_question": true,
+     "checked": "2026-10-12"
+    }
+   ],
+   "frequency": 1,
+   "first_asked": "2020-05-07",
+   "last_updated": "2026-10-12",
+   "verification": "verified_single_source",
+   "updates": [
+    {
+     "date": "2026-10-12",
+     "summary": "Initial entry compiled for Elonepedia v1.",
+     "source": "Elon Musk talks Twitter, Tesla and how his brain works (TED2022)",
+     "type": "addition"
+    },
+    {
+     "date": "2026-10-12",
+     "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
+     "source": "Joe Rogan Experience #1470 – Elon Musk",
+     "type": "clarification"
+    }
+   ],
+   "retired_date": "2026-10-20",
+   "retired_reason": "Lowest-frequency/stale historical topic (single 2020 source); replaced by AI jobs / universal high income FAQ after Musk's 19 Oct 2026 SpaceX-share pledge."
   }
  ]
 }
