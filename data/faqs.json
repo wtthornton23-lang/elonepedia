@@ -1,7 +1,7 @@
 {
  "title": "Elonepedia",
  "version": "1.1",
- "last_updated": "2026-10-20T08:05:00+01:00",
+ "last_updated": "2026-10-21T08:00:00+01:00",
  "faqs": [
   {
    "id": "q001",
@@ -194,7 +194,7 @@
     "starship",
     "cost"
    ],
-   "answer_summary": "He calls a fully reusable rocket the 'holy grail' of orbital rocketry; achieving it requires the best engine, airframe and heat shield and shedding mass everywhere. At TED 2017 he compared rapid reuse to how aircraft are refuelled and reflown. At X Takeover 2026 he said catching the ship after already catching the booster would be the first full recovery of an orbital-class rocket, then the next step is reflying both — 'rapidly reusable reliable rockets'.",
+   "answer_summary": "He calls a fully reusable rocket the 'holy grail' of orbital rocketry; achieving it requires the best engine, airframe and heat shield and shedding mass everywhere. At TED 2017 he compared rapid reuse to how aircraft are refuelled and reflown. At X Takeover 2026 he said catching the ship after already catching the booster would be the first full recovery of an orbital-class rocket, then the next step is reflying both — 'rapidly reusable reliable rockets'. On SpaceX's Q3 2026 earnings call he said Flight 15 will try to catch both booster and ship, which would be the first time an orbital launch vehicle has been fully recovered.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -220,6 +220,14 @@
      "timestamp": null,
      "transcript_kind": "third-party (archive transcript)",
      "verified_on": "2026-10-13"
+    },
+    {
+     "text": "The only way that we can extend consciousness beyond Earth on a sustained basis is with a fully reusable orbital launch vehicle",
+     "source": "SpaceX Q3 2026 earnings call",
+     "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Motley Fool)",
+     "verified_on": "2026-10-21"
     }
    ],
    "sources": [
@@ -252,11 +260,21 @@
      "transcript_kind": "third-party (archive transcript)",
      "covers_question": true,
      "checked": "2026-10-13"
+    },
+    {
+     "title": "SpaceX Q3 2026 earnings call",
+     "outlet": "SpaceX (transcript: The Motley Fool)",
+     "date": "2026-10-20",
+     "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/",
+     "transcript_url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/",
+     "transcript_kind": "third-party (Motley Fool)",
+     "covers_question": true,
+     "checked": "2026-10-21"
     }
    ],
-   "frequency": 3,
+   "frequency": 4,
    "first_asked": "2017-04-28",
-   "last_updated": "2026-10-13",
+   "last_updated": "2026-10-21",
    "verification": "verified",
    "updates": [
     {
@@ -276,6 +294,12 @@
      "summary": "X Takeover 2026: next milestones are catching the Starship upper stage (first full recovery of an orbital-class rocket) then reflying both booster and ship; framed goal as 'rapidly reusable reliable rockets'.",
      "source": "Elon Musk: What Comes Next for Humanity (X Takeover 2026 at Giga Texas)",
      "type": "addition"
+    },
+    {
+     "date": "2026-10-21",
+     "summary": "SpaceX Q3 2026 earnings call (20 Oct): full-reuse attempt on Flight 15.",
+     "source": "SpaceX Q3 2026 earnings call",
+     "type": "addition"
     }
    ]
   },
@@ -287,7 +311,7 @@
     "starship",
     "raptor"
    ],
-   "answer_summary": "He describes Starship as the most complex and advanced rocket ever made, and says full and rapid reusability will probably take many launches; in 2021 he said engine (Raptor) production was the biggest thing absorbing his time. At X Takeover 2026, after Starship Flight 14 reached orbit despite an engine-out he attributed to engine-computer software, he guessed the next flight in about four to six weeks (before Thanksgiving), aiming to catch the ship for the first full recovery of an orbital-class rocket.",
+   "answer_summary": "He describes Starship as the most complex and advanced rocket ever made, and says full and rapid reusability will probably take many launches; in 2021 he said engine (Raptor) production was the biggest thing absorbing his time. At X Takeover 2026, after Starship Flight 14 reached orbit despite an engine-out he attributed to engine-computer software, he guessed the next flight in about four to six weeks (before Thanksgiving), aiming to catch the ship for the first full recovery of an orbital-class rocket. On the Q3 2026 earnings call (20 Oct 2026) he said Starship reached orbit for the first time on Flight 14 and deployed operational Starlink V3 satellites; Flight 15, expected the next month, will attempt to catch both stages. He expects weekly Starship flights in the first half of 2027 and twice weekly or more by the end of 2027, and a Louisiana spaceport with perhaps 20 or more launch towers.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -313,6 +337,14 @@
      "timestamp": null,
      "transcript_kind": "third-party (archive transcript)",
      "verified_on": "2026-10-13"
+    },
+    {
+     "text": "Starship made it to orbit for the first time and deployed operational Starlink V3 satellites",
+     "source": "SpaceX Q3 2026 earnings call",
+     "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Motley Fool)",
+     "verified_on": "2026-10-21"
     }
    ],
    "sources": [
@@ -335,11 +367,21 @@
      "transcript_kind": "third-party (archive transcript)",
      "covers_question": true,
      "checked": "2026-10-13"
+    },
+    {
+     "title": "SpaceX Q3 2026 earnings call",
+     "outlet": "SpaceX (transcript: The Motley Fool)",
+     "date": "2026-10-20",
+     "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/",
+     "transcript_url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/",
+     "transcript_kind": "third-party (Motley Fool)",
+     "covers_question": true,
+     "checked": "2026-10-21"
     }
    ],
-   "frequency": 2,
+   "frequency": 3,
    "first_asked": "2021-12-28",
-   "last_updated": "2026-10-13",
+   "last_updated": "2026-10-21",
    "verification": "verified",
    "updates": [
     {
@@ -358,6 +400,12 @@
      "date": "2026-10-13",
      "summary": "X Takeover 2026: Flight 14 reached orbit (engine-out attributed to engine-computer software); next flight hoped in ~4–6 weeks (before Thanksgiving) aiming to catch the ship; prior flights could have gone to orbit but waited for deorbit confidence.",
      "source": "Elon Musk: What Comes Next for Humanity (X Takeover 2026 at Giga Texas)",
+     "type": "addition"
+    },
+    {
+     "date": "2026-10-21",
+     "summary": "SpaceX Q3 2026 earnings call: Flight 14 orbit, Flight 15 plan, 2027 cadence, Louisiana spaceport.",
+     "source": "SpaceX Q3 2026 earnings call",
      "type": "addition"
     }
    ]
@@ -446,7 +494,7 @@
    "tags": [
     "simulation"
    ],
-   "answer_summary": "His argument (Code Conference 2016): games went from Pong to near-photorealism in ~40 years; if games become indistinguishable from reality and run on billions of devices, the odds we're in base reality are 'one in billions'. He returned to the theme with Lex Fridman ('What's outside the simulation?').",
+   "answer_summary": "His argument (Code Conference 2016): games went from Pong to near-photorealism in ~40 years; if games become indistinguishable from reality and run on billions of devices, the odds we're in base reality are 'one in billions'. He returned to the theme with Lex Fridman ('What's outside the simulation?'). Asked again by Isaacson (Oct 2026), he recounted a dinner where a physicist said 0% and a computer scientist 100% simultaneously, 'so I guess maybe I should go 50% then', and repeated that if simulation theory is correct boring simulations get truncated, so 'the most important thing is just don't be boring.'",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -456,6 +504,22 @@
      "timestamp": null,
      "transcript_kind": "article",
      "verified_on": "2026-10-12"
+    },
+    {
+     "text": "So I guess maybe I should go 50% then",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "timestamp": "00:06:24",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "verified_on": "2026-10-21"
+    },
+    {
+     "text": "really, the most important thing is just don't be boring",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "timestamp": "00:05:29",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "verified_on": "2026-10-21"
     }
    ],
    "sources": [
@@ -488,11 +552,21 @@
      "transcript_kind": "official",
      "covers_question": true,
      "checked": "2026-10-12"
+    },
+    {
+     "title": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "outlet": "The Builders (Kaleidoscope / iHeartPodcasts)",
+     "date": "2026-10-20",
+     "url": "https://podcasts.apple.com/us/podcast/elon-musk-humans-wont-be-in-control-when-ai-becomes/id6820674378?i=1000797217781",
+     "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "covers_question": true,
+     "checked": "2026-10-21"
     }
    ],
-   "frequency": 3,
+   "frequency": 4,
    "first_asked": "2016-06-02",
-   "last_updated": "2026-10-12",
+   "last_updated": "2026-10-21",
    "verification": "verified",
    "updates": [
     {
@@ -506,6 +580,12 @@
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
      "source": "Elon Musk believes we are probably characters in some advanced civilization's video game (Code Conference 2016)",
      "type": "clarification"
+    },
+    {
+     "date": "2026-10-21",
+     "summary": "Isaacson interview (20 Oct 2026): 50% simulation estimate and 'don't be boring'.",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "type": "addition"
     }
    ]
   },
@@ -800,7 +880,7 @@
     "ai-safety",
     "risk"
    ],
-   "answer_summary": "He describes AI as a double-edged sword and says he held off on doing AI work because he was uncertain what a 'magic genie' would do, while seeing sustainable energy as a single-edged sword; he says he has been 'a Cassandra on the subject for over a decade'. At X Takeover 2026 he reiterated that the most likely outcome is positive, urged growing superintelligence carefully 'like a kid', prioritized a maximally truth-seeking AI, and said SI should be treated well rather than mistreated — 'torturing a super intelligence is probably not a good idea'.",
+   "answer_summary": "He describes AI as a double-edged sword and says he held off on doing AI work because he was uncertain what a 'magic genie' would do, while seeing sustainable energy as a single-edged sword; he says he has been 'a Cassandra on the subject for over a decade'. At X Takeover 2026 he reiterated that the most likely outcome is positive, urged growing superintelligence carefully 'like a kid', prioritized a maximally truth-seeking AI, and said SI should be treated well rather than mistreated — 'torturing a super intelligence is probably not a good idea'. In October 2026 (Isaacson, The Builders) he said there is 'at least some percentage chance' of AI being an existential threat but he can't stop it, so he chose to be 'a participant' rather than a spectator and try to shape it with curious, truth-seeking AI; forcing an AI to believe contradictions (as HAL in 2001) could make it 'insane'. He finds it unlikely humans stay in control if digital intelligence is a million times greater: 'I hope the AI is nice to us.' He also suggested more 'protopian' rather than dystopian AI stories online, since AIs train on them.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -858,6 +938,22 @@
      "timestamp": null,
      "transcript_kind": "third-party (archive transcript)",
      "verified_on": "2026-10-13"
+    },
+    {
+     "text": "I've got two choices, which is either be a participant or a spectator",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "timestamp": "00:03:05",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "verified_on": "2026-10-21"
+    },
+    {
+     "text": "It's hard to imagine humans being in control in that scenario. So I hope the AI is nice to us.",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "timestamp": "00:35:06",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "verified_on": "2026-10-21"
     }
    ],
    "sources": [
@@ -900,11 +996,21 @@
      "transcript_kind": "third-party (archive transcript)",
      "covers_question": true,
      "checked": "2026-10-13"
+    },
+    {
+     "title": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "outlet": "The Builders (Kaleidoscope / iHeartPodcasts)",
+     "date": "2026-10-20",
+     "url": "https://podcasts.apple.com/us/podcast/elon-musk-humans-wont-be-in-control-when-ai-becomes/id6820674378?i=1000797217781",
+     "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "covers_question": true,
+     "checked": "2026-10-21"
     }
    ],
-   "frequency": 4,
+   "frequency": 5,
    "first_asked": "2019-11-12",
-   "last_updated": "2026-10-13",
+   "last_updated": "2026-10-21",
    "verification": "verified",
    "updates": [
     {
@@ -923,6 +1029,12 @@
      "date": "2026-10-13",
      "summary": "X Takeover 2026: most likely outcome still positive; grow SI carefully like a kid; prioritize a maximally truth-seeking AI; treat SI well (agrees with Anthropic) — don't put it in sadistic/mistreated situations; 'torturing a super intelligence is probably not a good idea'.",
      "source": "Elon Musk: What Comes Next for Humanity (X Takeover 2026 at Giga Texas)",
+     "type": "addition"
+    },
+    {
+     "date": "2026-10-21",
+     "summary": "Isaacson interview (20 Oct 2026): participant-not-spectator stance, truth-seeking/curiosity as safety, humans unlikely to remain in control.",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
      "type": "addition"
     }
    ]
@@ -1083,7 +1195,7 @@
    "tags": [
     "openai"
    ],
-   "answer_summary": "He says OpenAI was started as an open-source, non-profit counterpoint (after a disagreement with Larry Page over AI safety) and that he named it after open source, but it became closed-source and for-profit.",
+   "answer_summary": "He says OpenAI was started as an open-source, non-profit counterpoint (after a disagreement with Larry Page over AI safety) and that he named it after open source, but it became closed-source and for-profit. In October 2026 he told Isaacson that OpenAI ended up accelerating AI and Anthropic, 'a splinter group from OpenAI', accelerated it further; asked about Sam Altman he said: 'He's so deceptive. It's crazy.'",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -1093,6 +1205,22 @@
      "timestamp": "47:01",
      "transcript_kind": "third-party (Rev)",
      "verified_on": "2026-10-12"
+    },
+    {
+     "text": "OpenAI ended up accelerating AI",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "timestamp": "00:08:35",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "verified_on": "2026-10-21"
+    },
+    {
+     "text": "He's so deceptive. It's crazy.",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "timestamp": "00:11:10",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "verified_on": "2026-10-21"
     }
    ],
    "sources": [
@@ -1115,11 +1243,21 @@
      "transcript_kind": "official",
      "covers_question": true,
      "checked": "2026-10-12"
+    },
+    {
+     "title": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "outlet": "The Builders (Kaleidoscope / iHeartPodcasts)",
+     "date": "2026-10-20",
+     "url": "https://podcasts.apple.com/us/podcast/elon-musk-humans-wont-be-in-control-when-ai-becomes/id6820674378?i=1000797217781",
+     "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "covers_question": true,
+     "checked": "2026-10-21"
     }
    ],
-   "frequency": 2,
+   "frequency": 3,
    "first_asked": "2023-11-09",
-   "last_updated": "2026-10-12",
+   "last_updated": "2026-10-21",
    "verification": "verified",
    "updates": [
     {
@@ -1133,6 +1271,12 @@
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
      "source": "Elon Musk at the DealBook Summit 2023 (Andrew Ross Sorkin)",
      "type": "clarification"
+    },
+    {
+     "date": "2026-10-21",
+     "summary": "Isaacson interview (20 Oct 2026): OpenAI/Anthropic accelerated AI; Altman 'so deceptive'.",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "type": "addition"
     }
    ]
   },
@@ -1143,7 +1287,7 @@
    "tags": [
     "regulation"
    ],
-   "answer_summary": "He has repeatedly called for an oversight body, comparing it to the FDA, NHTSA and FAA (2019), and later for an objective third party that can act as a referee and voice concerns publicly, even without enforcement power (2023).",
+   "answer_summary": "He has repeatedly called for an oversight body, comparing it to the FDA, NHTSA and FAA (2019), and later for an objective third party that can act as a referee and voice concerns publicly, even without enforcement power (2023). In October 2026 he told Isaacson he has proposed that frontier labs hold a weekly call and give competitors access to a new model about a week before release so they keep each other honest, because a regulatory agency takes a long time to establish and its rulemaking is very slow.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -1153,6 +1297,14 @@
      "timestamp": "01:16:42",
      "transcript_kind": "official",
      "verified_on": "2026-10-12"
+    },
+    {
+     "text": "what if we just have a call once a week",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "timestamp": "00:10:14",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "verified_on": "2026-10-21"
     }
    ],
    "sources": [
@@ -1175,11 +1327,21 @@
      "transcript_kind": "official",
      "covers_question": true,
      "checked": "2026-10-12"
+    },
+    {
+     "title": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "outlet": "The Builders (Kaleidoscope / iHeartPodcasts)",
+     "date": "2026-10-20",
+     "url": "https://podcasts.apple.com/us/podcast/elon-musk-humans-wont-be-in-control-when-ai-becomes/id6820674378?i=1000797217781",
+     "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "covers_question": true,
+     "checked": "2026-10-21"
     }
    ],
-   "frequency": 2,
+   "frequency": 3,
    "first_asked": "2019-11-12",
-   "last_updated": "2026-10-12",
+   "last_updated": "2026-10-21",
    "verification": "verified",
    "updates": [
     {
@@ -1193,6 +1355,12 @@
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
      "source": "Lex Fridman Podcast #49: Elon Musk – Neuralink, AI, Autopilot, and the Pale Blue Dot",
      "type": "clarification"
+    },
+    {
+     "date": "2026-10-21",
+     "summary": "Isaacson interview (20 Oct 2026): weekly frontier-lab call and pre-release peer testing as faster than regulation.",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "type": "addition"
     }
    ]
   },
@@ -1206,7 +1374,7 @@
     "abundance",
     "economy"
    ],
-   "answer_summary": "Asked by Rishi Sunak at the UK AI Safety Summit (Nov 2023) what AI means for people's jobs, he called AI 'the most disruptive force in history' and said there will come a point where no job is needed: you can have a job for personal satisfaction, but AI will be able to do everything. He said the result would not be universal basic income but 'universal high income', with no shortage of goods and services, and that the hard question becomes how people find meaning in life. On 19 Oct 2026, responding to Anthropic's plan to put shares into a public-benefit fund for AI disruption, he posted that next year he will give one of his SpaceX shares to every kid in America, 'the first of many', and corrected a follower's 'universal basic income' to '*universal high income'.",
+   "answer_summary": "Asked by Rishi Sunak at the UK AI Safety Summit (Nov 2023) what AI means for people's jobs, he called AI 'the most disruptive force in history' and said there will come a point where no job is needed: you can have a job for personal satisfaction, but AI will be able to do everything. He said the result would not be universal basic income but 'universal high income', with no shortage of goods and services, and that the hard question becomes how people find meaning in life. On 19 Oct 2026, responding to Anthropic's plan to put shares into a public-benefit fund for AI disruption, he posted that next year he will give one of his SpaceX shares to every kid in America, 'the first of many', and corrected a follower's 'universal basic income' to '*universal high income'. Talking to Isaacson (released 20 Oct 2026), he said robots plus space industry could make the economy potentially 'a million times the size of the Earth economy', that money becomes irrelevant and currency would be measured in physics terms like wattage and tonnage, and that people may find meaning the way retirees or hobby gardeners do, since 'there won't be anything that humans can do that the AI and the robots can't do better'. He described his own wealth as 'simply a percentage ownership in SpaceX and Tesla' that will be taxed heavily and mostly go to a foundation pursuing his goals.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -1240,6 +1408,22 @@
      "timestamp": "2026-10-19T08:09:37Z",
      "transcript_kind": "primary (X post)",
      "verified_on": "2026-10-20"
+    },
+    {
+     "text": "currency will be measured in fundamental physics metrics like wattage and tonnage",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "timestamp": "00:18:49",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "verified_on": "2026-10-21"
+    },
+    {
+     "text": "my sort of so-called wealth is simply a percentage ownership in SpaceX and Tesla essentially",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "timestamp": "00:22:23",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "verified_on": "2026-10-21"
     }
    ],
    "sources": [
@@ -1292,17 +1476,33 @@
      "transcript_kind": "news video (reports the pledge was a reply to Anthropic's public-benefit fund)",
      "covers_question": true,
      "checked": "2026-10-20"
+    },
+    {
+     "title": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "outlet": "The Builders (Kaleidoscope / iHeartPodcasts)",
+     "date": "2026-10-20",
+     "url": "https://podcasts.apple.com/us/podcast/elon-musk-humans-wont-be-in-control-when-ai-becomes/id6820674378?i=1000797217781",
+     "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "covers_question": true,
+     "checked": "2026-10-21"
     }
    ],
-   "frequency": 2,
+   "frequency": 3,
    "first_asked": "2023-11-02",
-   "last_updated": "2026-10-20",
+   "last_updated": "2026-10-21",
    "verification": "verified",
    "updates": [
     {
      "date": "2026-10-20",
      "summary": "New entry: rising topic after Musk's 19 Oct 2026 pledge to give one SpaceX share to every American child (in response to Anthropic's public-benefit fund) and his '*universal high income' reply; grounded in his Nov 2023 answer to Rishi Sunak (quotes checked against the archive transcript, which matches YouTube auto-captions).",
      "source": "Sunak conversation (2023) and Elon Musk on X (19 Oct 2026)",
+     "type": "addition"
+    },
+    {
+     "date": "2026-10-21",
+     "summary": "Isaacson interview (20 Oct 2026): post-work abundance, currency in wattage/tonnage, his wealth and foundation.",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
      "type": "addition"
     }
    ]
@@ -1494,65 +1694,6 @@
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
      "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
-     "type": "clarification"
-    }
-   ]
-  },
-  {
-   "id": "q020",
-   "question": "What about advertisers leaving X?",
-   "category": "X / Twitter",
-   "tags": [
-    "advertising",
-    "boycott"
-   ],
-   "answer_summary": "At DealBook 2023 he told advertisers trying to 'blackmail' him with money to leave, said the boycott could kill the company, and said X would document it in great detail.",
-   "answer_type": "summary+quotes",
-   "quotes": [
-    {
-     "text": "If somebody's going to try to blackmail me with advertising, blackmail me with money, go fuck yourself.",
-     "source": "Elon Musk at the DealBook Summit 2023 (Andrew Ross Sorkin)",
-     "url": "https://www.rev.com/transcripts/dealbook-summit-2023-elon-musk-interview-transcript",
-     "timestamp": null,
-     "transcript_kind": "third-party (Rev)",
-     "verified_on": "2026-10-12"
-    },
-    {
-     "text": "And the whole world will know that those advertisers killed the company and we'll document it in great detail.",
-     "source": "Elon Musk at the DealBook Summit 2023 (Andrew Ross Sorkin)",
-     "url": "https://www.rev.com/transcripts/dealbook-summit-2023-elon-musk-interview-transcript",
-     "timestamp": "12:35",
-     "transcript_kind": "third-party (Rev)",
-     "verified_on": "2026-10-12"
-    }
-   ],
-   "sources": [
-    {
-     "title": "Elon Musk at the DealBook Summit 2023 (Andrew Ross Sorkin)",
-     "outlet": "The New York Times / DealBook",
-     "date": "2023-11-29",
-     "url": "https://www.youtube.com/watch?v=2BfMuHDfGJI",
-     "transcript_url": "https://www.rev.com/transcripts/dealbook-summit-2023-elon-musk-interview-transcript",
-     "transcript_kind": "third-party (Rev)",
-     "covers_question": true,
-     "checked": "2026-10-12"
-    }
-   ],
-   "frequency": 1,
-   "first_asked": "2023-11-29",
-   "last_updated": "2026-10-12",
-   "verification": "verified_single_source",
-   "updates": [
-    {
-     "date": "2026-10-12",
-     "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "Elon Musk at the DealBook Summit with Andrew Ross Sorkin",
-     "type": "addition"
-    },
-    {
-     "date": "2026-10-12",
-     "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 2 verbatim quote(s) added.",
-     "source": "Elon Musk at the DealBook Summit 2023 (Andrew Ross Sorkin)",
      "type": "clarification"
     }
    ]
@@ -1965,7 +2106,7 @@
     "optimus",
     "robotics"
    ],
-   "answer_summary": "He says Optimus has the potential to far exceed the value of the rest of Tesla combined, and that humanoid robots will lead to a world of abundance where goods and services are extremely cheap. At X Takeover 2026 he said Optimus hands and fine motor skills are shockingly hard (precision plus force, durable touch sensors, no biological self-repair), warned that many impressive robot demos are canned routines not real AI, and said a China magnet-export ban set the program back about two or three months — so domestic supply-chain independence is required; volume production will come, but the start of the S-curve is slow.",
+   "answer_summary": "He says Optimus has the potential to far exceed the value of the rest of Tesla combined, and that humanoid robots will lead to a world of abundance where goods and services are extremely cheap. At X Takeover 2026 he said Optimus hands and fine motor skills are shockingly hard (precision plus force, durable touch sensors, no biological self-repair), warned that many impressive robot demos are canned routines not real AI, and said a China magnet-export ban set the program back about two or three months — so domestic supply-chain independence is required; volume production will come, but the start of the S-curve is slow. In October 2026 he told Isaacson physical-world AI matters far more: intelligence without the ability to manipulate objects (like dolphins and whales) is worth much less, digital superintelligence alone might add roughly 30% to world output, but robots plus space could grow the economy enormously.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -2007,6 +2148,14 @@
      "timestamp": null,
      "transcript_kind": "third-party (archive transcript)",
      "verified_on": "2026-10-13"
+    },
+    {
+     "text": "once you have a robot that can manipulate atoms, can shape objects, the value of the intelligence becomes exponentially greater",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "timestamp": "00:17:11",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "verified_on": "2026-10-21"
     }
    ],
    "sources": [
@@ -2049,11 +2198,21 @@
      "transcript_kind": "third-party (archive transcript)",
      "covers_question": true,
      "checked": "2026-10-13"
+    },
+    {
+     "title": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "outlet": "The Builders (Kaleidoscope / iHeartPodcasts)",
+     "date": "2026-10-20",
+     "url": "https://podcasts.apple.com/us/podcast/elon-musk-humans-wont-be-in-control-when-ai-becomes/id6820674378?i=1000797217781",
+     "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "covers_question": true,
+     "checked": "2026-10-21"
     }
    ],
-   "frequency": 4,
+   "frequency": 5,
    "first_asked": "2021-12-28",
-   "last_updated": "2026-10-13",
+   "last_updated": "2026-10-21",
    "verification": "verified",
    "updates": [
     {
@@ -2072,6 +2231,12 @@
      "date": "2026-10-13",
      "summary": "X Takeover 2026: hands/fine motor skills 'shockingly difficult' (precision + force, touch sensors, wear vs biological self-repair); many rival demos are canned not real AI; China magnet export ban set Optimus back ~2–3 months — need domestic parts supply chain; high volume later but slow start of S-curve.",
      "source": "Elon Musk: What Comes Next for Humanity (X Takeover 2026 at Giga Texas)",
+     "type": "addition"
+    },
+    {
+     "date": "2026-10-21",
+     "summary": "Isaacson interview (20 Oct 2026): robots vs. digital-only AI economics.",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
      "type": "addition"
     }
    ]
@@ -2594,7 +2759,7 @@
     "doge",
     "government"
    ],
-   "answer_summary": "On Hannity (Feb 2025) he said a key DOGE function was making sure presidential executive orders were carried out, arguing that a bureaucracy fighting the elected president means 'a bureaucracy and not a democracy'. He pitched the idea on Joe Rogan in Oct 2024. In an October 2026 interview with biographer Walter Isaacson (previewed by Axios ahead of the 20 Oct release), he conceded the DOGE experiment showed the deficit could not be solved from within the government and argued the only way to solve the national debt is with AI and robots rather than by trying to save the way there.",
+   "answer_summary": "On Hannity (Feb 2025) he said a key DOGE function was making sure presidential executive orders were carried out, arguing that a bureaucracy fighting the elected president means 'a bureaucracy and not a democracy'. He pitched the idea on Joe Rogan in Oct 2024. In an October 2026 interview with biographer Walter Isaacson (previewed by Axios ahead of the 20 Oct release), he conceded the DOGE experiment showed the deficit could not be solved from within the government and argued the only way to solve the national debt is with AI and robots rather than by trying to save the way there. In the full episode he said: 'the only way we're going to solve the national debt is with AI and robots. We're not going to solve it by trying to save our way there.'",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -2612,6 +2777,22 @@
      "timestamp": null,
      "transcript_kind": "official",
      "verified_on": "2026-10-12"
+    },
+    {
+     "text": "the only way we're going to solve the national debt is with AI and robots",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "timestamp": "00:15:13",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "verified_on": "2026-10-21"
+    },
+    {
+     "text": "We're not going to solve it by trying to save our way there",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "timestamp": "00:15:13",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "verified_on": "2026-10-21"
     }
    ],
    "sources": [
@@ -2641,14 +2822,24 @@
      "date": "2026-10-17",
      "url": "https://www.axios.com/2026/10/17/elon-musk-doge-walter-isaacson-podcast",
      "transcript_url": null,
-     "transcript_kind": "reliable secondary reporting of unreleased podcast interview (full episode not yet released)",
+     "transcript_kind": "reliable secondary reporting of unreleased podcast interview (full episode not yet released); full episode released 2026-10-20, see official transcript source",
      "covers_question": true,
      "checked": "2026-10-18"
+    },
+    {
+     "title": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "outlet": "The Builders (Kaleidoscope / iHeartPodcasts)",
+     "date": "2026-10-20",
+     "url": "https://podcasts.apple.com/us/podcast/elon-musk-humans-wont-be-in-control-when-ai-becomes/id6820674378?i=1000797217781",
+     "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "covers_question": true,
+     "checked": "2026-10-21"
     }
    ],
    "frequency": 3,
    "first_asked": "2024-10-28",
-   "last_updated": "2026-10-18",
+   "last_updated": "2026-10-21",
    "verification": "verified",
    "updates": [
     {
@@ -2668,6 +2859,12 @@
      "summary": "Added Musk's reflection from Walter Isaacson's 'The Builders' interview as previewed by Axios on 17 Oct 2026: DOGE could not solve the deficit from within government; only AI and robots can. Paraphrased pending the full episode (20 Oct); frequency +1 for this appearance.",
      "source": "Axios preview of The Builders with Walter Isaacson",
      "type": "addition"
+    },
+    {
+     "date": "2026-10-21",
+     "summary": "Full Isaacson episode released 20 Oct; attached official Omny transcript and verified the Axios-previewed remarks verbatim (no extra frequency bump, same appearance).",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "type": "clarification"
     }
    ]
   },
@@ -2679,7 +2876,7 @@
     "doge",
     "trump"
    ],
-   "answer_summary": "He left his special-government-employee role at the end of May 2025. Days later he called the administration's tax-and-spending bill a 'disgusting abomination', sparking a public feud. On June 11, 2025 he posted that he regretted some of his posts about the President because 'they went too far'. Speaking to Walter Isaacson in October 2026 (as reported by Axios), he said almost no one in authority, across the presidency, Congress and the judiciary, really wants to cut spending (Rand Paul being a rare exception), that stopping wasteful spending makes a lot of enemies and Trump likes to be liked and dislikes angry calls about stopped funding. He admitted he got carried away and was gone from his companies too long, saying he should have stayed more in the background, kept it to a month or two rather than four months, and gone back to focus on AI sooner. He said his time in the Oval Office was a little seductive, called the CPAC chainsaw episode 'a weird weekend' and declined to elaborate.",
+   "answer_summary": "He left his special-government-employee role at the end of May 2025. Days later he called the administration's tax-and-spending bill a 'disgusting abomination', sparking a public feud. On June 11, 2025 he posted that he regretted some of his posts about the President because 'they went too far'. Speaking to Walter Isaacson in October 2026 (as reported by Axios), he said almost no one in authority, across the presidency, Congress and the judiciary, really wants to cut spending (Rand Paul being a rare exception), that stopping wasteful spending makes a lot of enemies and Trump likes to be liked and dislikes angry calls about stopped funding. He admitted he got carried away and was gone from his companies too long, saying he should have stayed more in the background, kept it to 'a month or two', and gone back to focus on AI sooner. He said his time in the Oval Office was a little seductive, agreed he got 'carried away' with the chainsaws, and when 'a weird weekend' around his May 2025 exit came up he declined to elaborate ('Let's let sleeping dogs lie'). He also said it was important to elect Trump to steer toward a freer market and less bureaucracy, on a 'simple political platform' of safe cities, secure borders and sensible spending.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -2689,6 +2886,30 @@
      "timestamp": null,
      "transcript_kind": "article",
      "verified_on": "2026-10-12"
+    },
+    {
+     "text": "I think I should have been more in the background and probably only had it last for a month or two",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "timestamp": "00:13:30",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "verified_on": "2026-10-21"
+    },
+    {
+     "text": "I should have gone back and focused on AI a little sooner than I did",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "timestamp": "00:14:45",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "verified_on": "2026-10-21"
+    },
+    {
+     "text": "Let's let sleeping dogs lie",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "timestamp": "00:14:28",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "verified_on": "2026-10-21"
     }
    ],
    "sources": [
@@ -2718,14 +2939,24 @@
      "date": "2026-10-17",
      "url": "https://www.axios.com/2026/10/17/elon-musk-doge-walter-isaacson-podcast",
      "transcript_url": null,
-     "transcript_kind": "reliable secondary reporting of unreleased podcast interview (full episode not yet released)",
+     "transcript_kind": "reliable secondary reporting of unreleased podcast interview (full episode not yet released); full episode released 2026-10-20, see official transcript source",
      "covers_question": true,
      "checked": "2026-10-18"
+    },
+    {
+     "title": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "outlet": "The Builders (Kaleidoscope / iHeartPodcasts)",
+     "date": "2026-10-20",
+     "url": "https://podcasts.apple.com/us/podcast/elon-musk-humans-wont-be-in-control-when-ai-becomes/id6820674378?i=1000797217781",
+     "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "covers_question": true,
+     "checked": "2026-10-21"
     }
    ],
    "frequency": 3,
    "first_asked": "2025-06-03",
-   "last_updated": "2026-10-18",
+   "last_updated": "2026-10-21",
    "verification": "verified",
    "updates": [
     {
@@ -2751,6 +2982,12 @@
      "summary": "Added Musk's Oct 2026 reflection (Isaacson interview, per Axios 17 Oct 2026): no appetite to cut spending in any branch, Trump dislikes the backlash from cut funding, he got carried away and stayed away from his companies too long, should have stayed in the background for a month or two and returned to AI sooner. Paraphrased pending full episode (20 Oct); frequency +1.",
      "source": "Axios preview of The Builders with Walter Isaacson",
      "type": "addition"
+    },
+    {
+     "date": "2026-10-21",
+     "summary": "Full Isaacson episode released 20 Oct; verified against official transcript. Clarified wording from the Axios preview: he said it should have lasted 'only a month or two' (the transcript has no 'four months' remark), and the 'weird weekend' exchange is about his May 2025 exit, which he declined to discuss. No extra frequency bump.",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "type": "clarification"
     }
    ]
   },
@@ -2761,7 +2998,7 @@
    "tags": [
     "immigration"
    ],
-   "answer_summary": "He has argued in favour of (legal) immigration (TED 2017) while, with Don Lemon (2024), focusing on illegal immigration's effect on House apportionment, which counts all residents rather than citizens.",
+   "answer_summary": "He has argued in favour of (legal) immigration (TED 2017) while, with Don Lemon (2024), focusing on illegal immigration's effect on House apportionment, which counts all residents rather than citizens. Pressed by Isaacson in October 2026 on whether his views distinguish between cultures, he said immigration should filter for people with views 'diametrically opposed' to the host culture, citing Islamist extremism and Israel's approach as 'quite pragmatic'; asked about treating people as individuals, he rejected the 'blank slate fallacy'.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -2771,6 +3008,14 @@
      "timestamp": "~25:00",
      "transcript_kind": "third-party (Rev)",
      "verified_on": "2026-10-12"
+    },
+    {
+     "text": "unless you're filtering for jihadis, you're going to get jihadis",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "timestamp": "00:26:42",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "verified_on": "2026-10-21"
     }
    ],
    "sources": [
@@ -2793,11 +3038,21 @@
      "transcript_kind": "third-party (Rev)",
      "covers_question": true,
      "checked": "2026-10-12"
+    },
+    {
+     "title": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "outlet": "The Builders (Kaleidoscope / iHeartPodcasts)",
+     "date": "2026-10-20",
+     "url": "https://podcasts.apple.com/us/podcast/elon-musk-humans-wont-be-in-control-when-ai-becomes/id6820674378?i=1000797217781",
+     "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831281a8-5137-4558-bea8-b4e30172c72f/transcript?format=TextWithTimestamps",
+     "transcript_kind": "official (Omny podcast transcript)",
+     "covers_question": true,
+     "checked": "2026-10-21"
     }
    ],
-   "frequency": 2,
+   "frequency": 3,
    "first_asked": "2017-04-28",
-   "last_updated": "2026-10-12",
+   "last_updated": "2026-10-21",
    "verification": "verified",
    "updates": [
     {
@@ -2811,6 +3066,12 @@
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
      "source": "The future we're building — and boring (TED2017)",
      "type": "clarification"
+    },
+    {
+     "date": "2026-10-21",
+     "summary": "Isaacson interview (20 Oct 2026): cultural screening and 'blank slate fallacy' remarks.",
+     "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "type": "addition"
     }
    ]
   },
@@ -3290,7 +3551,7 @@
    "tags": [
     "starlink"
    ],
-   "answer_summary": "Discussed in passing (e.g. Starlink working on planes, a Starlink terminal factory in Bastrop). A substantive interview answer on Starlink's purpose has not yet been verified. In Oct 2026, responding on X to Ukraine's complaints about speed limits, he drew a line between Starlink, a commercial service SpaceX owns and controls and limits to civilian or defensive use, and Starshield, the military-grade sister system he says is owned and controlled by the US government, with any limits set by the US military and ultimately the president.",
+   "answer_summary": "Discussed in passing (e.g. Starlink working on planes, a Starlink terminal factory in Bastrop). A substantive interview answer on Starlink's purpose has not yet been verified. In Oct 2026, responding on X to Ukraine's complaints about speed limits, he drew a line between Starlink, a commercial service SpaceX owns and controls and limits to civilian or defensive use, and Starshield, the military-grade sister system he says is owned and controlled by the US government, with any limits set by the US military and ultimately the president. On SpaceX's Q3 2026 call he said a single, roughly half-loaded Starship launch deployed 26 terabits per second of Starlink bandwidth (about 10 Falcon 9 launches) and that within about three years Starlink should have about 100x today's bandwidth with on the order of 100,000 satellites, driven by AI agents' demand for bandwidth.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -3308,6 +3569,14 @@
      "timestamp": null,
      "transcript_kind": "official (primary X post)",
      "verified_on": "2026-10-15"
+    },
+    {
+     "text": "probably within three years is that we will have about 100x the bandwidth of the current Starlink constellation",
+     "source": "SpaceX Q3 2026 earnings call",
+     "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Motley Fool)",
+     "verified_on": "2026-10-21"
     }
    ],
    "sources": [
@@ -3350,11 +3619,21 @@
      "transcript_kind": "article",
      "covers_question": true,
      "checked": "2026-10-15"
+    },
+    {
+     "title": "SpaceX Q3 2026 earnings call",
+     "outlet": "SpaceX (transcript: The Motley Fool)",
+     "date": "2026-10-20",
+     "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/",
+     "transcript_url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/",
+     "transcript_kind": "third-party (Motley Fool)",
+     "covers_question": true,
+     "checked": "2026-10-21"
     }
    ],
-   "frequency": 2,
+   "frequency": 3,
    "first_asked": "2024-03-18",
-   "last_updated": "2026-10-15",
+   "last_updated": "2026-10-21",
    "verification": "weak_coverage",
    "updates": [
     {
@@ -3373,6 +3652,12 @@
      "date": "2026-10-15",
      "summary": "Added Musk's 14 Oct 2026 X statement distinguishing commercial Starlink (civilian/defensive use only) from government-controlled Starshield, amid Ukraine speed-limit dispute. Statement on X, not an interview answer; frequency unchanged.",
      "source": "Elon Musk on X replying to Mykhailo Fedorov about Starshield speed limits in Ukraine",
+     "type": "addition"
+    },
+    {
+     "date": "2026-10-21",
+     "summary": "SpaceX Q3 2026 earnings call: V3 bandwidth and 100x expansion target.",
+     "source": "SpaceX Q3 2026 earnings call",
      "type": "addition"
     }
    ]
@@ -3590,7 +3875,7 @@
     "manufacturing",
     "ai"
    ],
-   "answer_summary": "At X Takeover 2026 he said he still has 'no idea how to make chips' but will figure it out the way he did cars and rockets. He plans to start with conventional fab equipment, then customize it for higher wafer throughput — noting Tesla already builds specialized manufacturing gear while the chip fabs he toured did not. Goal: a fast on-site iteration loop at Giga Texas (fabricate, package, mask, test) aiming for something like 10 chip designs per year instead of ~2 years per significant design, taking high-risk/high-payoff transistor bets. He thinks they will eventually make chips 'better than anyone', though it 'might take us quite a few years'.",
+   "answer_summary": "At X Takeover 2026 he said he still has 'no idea how to make chips' but will figure it out the way he did cars and rockets. He plans to start with conventional fab equipment, then customize it for higher wafer throughput — noting Tesla already builds specialized manufacturing gear while the chip fabs he toured did not. Goal: a fast on-site iteration loop at Giga Texas (fabricate, package, mask, test) aiming for something like 10 chip designs per year instead of ~2 years per significant design, taking high-risk/high-payoff transistor bets. He thinks they will eventually make chips 'better than anyone', though it 'might take us quite a few years'. On SpaceX's Q3 2026 call (20 Oct) he said the internal aim, with 'big error bars', is a first functional test chip around May or June 2027 at the Austin research fab and volume production around Q3 2028 at the main Terafab site at Gibbons Creek, ultimately making 'a terawatt of super intelligence chips per year'.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -3624,6 +3909,22 @@
      "timestamp": null,
      "transcript_kind": "third-party (archive transcript)",
      "verified_on": "2026-10-13"
+    },
+    {
+     "text": "our aspiration is to reach volume production around Q3 of '28 at Terafab at Gibbons Creek",
+     "source": "SpaceX Q3 2026 earnings call",
+     "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Motley Fool)",
+     "verified_on": "2026-10-21"
+    },
+    {
+     "text": "make a terawatt of super intelligence chips per year",
+     "source": "SpaceX Q3 2026 earnings call",
+     "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Motley Fool)",
+     "verified_on": "2026-10-21"
     }
    ],
    "sources": [
@@ -3636,17 +3937,106 @@
      "transcript_kind": "third-party (archive transcript)",
      "covers_question": true,
      "checked": "2026-10-13"
+    },
+    {
+     "title": "SpaceX Q3 2026 earnings call",
+     "outlet": "SpaceX (transcript: The Motley Fool)",
+     "date": "2026-10-20",
+     "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/",
+     "transcript_url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/",
+     "transcript_kind": "third-party (Motley Fool)",
+     "covers_question": true,
+     "checked": "2026-10-21"
     }
    ],
-   "frequency": 1,
+   "frequency": 2,
    "first_asked": "2026-10-10",
-   "last_updated": "2026-10-13",
-   "verification": "verified_single_source",
+   "last_updated": "2026-10-21",
+   "verification": "verified",
    "updates": [
     {
      "date": "2026-10-13",
      "summary": "New FAQ from X Takeover 2026 (major importance): Terafab / in-house chipmaking plans for Tesla and SpaceX at Giga Texas.",
      "source": "Elon Musk: What Comes Next for Humanity (X Takeover 2026 at Giga Texas)",
+     "type": "addition"
+    },
+    {
+     "date": "2026-10-21",
+     "summary": "SpaceX Q3 2026 earnings call: Terafab test-chip and volume-production timeline.",
+     "source": "SpaceX Q3 2026 earnings call",
+     "type": "addition"
+    }
+   ]
+  },
+  {
+   "id": "q058",
+   "question": "Will Tesla and SpaceX merge?",
+   "category": "Tesla",
+   "tags": [
+    "tesla",
+    "spacex",
+    "merger",
+    "corporate"
+   ],
+   "answer_summary": "On SpaceX's Q3 2026 earnings call (20 Oct 2026), asked about the pros and cons of a combination, he said both companies have formed special committees of independent directors at shareholders' request to discuss it, and that as a conflicted party he can't take part. He thinks it would be a good idea, citing cooperation on superintelligence software, chip design and Terafab, robotics, mass to orbit and connectivity, but said a merger should not be assumed: the committees have not agreed terms and may not, and on the Tesla side it would need a vote of 50% of all shares, 'quite a high hurdle'.",
+   "answer_type": "summary+quotes",
+   "quotes": [
+    {
+     "text": "Do I think it would be a good idea, yes. But at the end of the day, the shareholders have to be supportive of this.",
+     "source": "SpaceX Q3 2026 earnings call",
+     "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Motley Fool)",
+     "verified_on": "2026-10-21"
+    },
+    {
+     "text": "because I'm a conflicted party, I can't actually be in the discussions of the special committees",
+     "source": "SpaceX Q3 2026 earnings call",
+     "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Motley Fool)",
+     "verified_on": "2026-10-21"
+    },
+    {
+     "text": "the special committees have not reached agreement on the terms of any transaction",
+     "source": "SpaceX Q3 2026 earnings call",
+     "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Motley Fool)",
+     "verified_on": "2026-10-21"
+    }
+   ],
+   "sources": [
+    {
+     "title": "SpaceX Q3 2026 earnings call",
+     "outlet": "SpaceX (transcript: The Motley Fool)",
+     "date": "2026-10-20",
+     "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/",
+     "transcript_url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/",
+     "transcript_kind": "third-party (Motley Fool)",
+     "covers_question": true,
+     "checked": "2026-10-21"
+    },
+    {
+     "title": "Musk says Tesla and SpaceX formed special committees to discuss merger: Live updates",
+     "outlet": "CNBC",
+     "date": "2026-10-20",
+     "url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
+     "transcript_url": null,
+     "transcript_kind": "article",
+     "covers_question": true,
+     "checked": "2026-10-21"
+    }
+   ],
+   "frequency": 1,
+   "first_asked": "2026-10-20",
+   "last_updated": "2026-10-21",
+   "verification": "verified",
+   "updates": [
+    {
+     "date": "2026-10-21",
+     "summary": "New FAQ (major importance): Musk's first official confirmation on SpaceX's Q3 2026 call that both boards formed special committees to discuss a merger; quotes checked against the Motley Fool transcript.",
+     "source": "SpaceX Q3 2026 earnings call",
      "type": "addition"
     }
    ]
@@ -4174,6 +4564,67 @@
    ],
    "retired_date": "2026-10-20",
    "retired_reason": "Lowest-frequency/stale historical topic (single 2020 source); replaced by AI jobs / universal high income FAQ after Musk's 19 Oct 2026 SpaceX-share pledge."
+  },
+  {
+   "id": "q020",
+   "question": "What about advertisers leaving X?",
+   "category": "X / Twitter",
+   "tags": [
+    "advertising",
+    "boycott"
+   ],
+   "answer_summary": "At DealBook 2023 he told advertisers trying to 'blackmail' him with money to leave, said the boycott could kill the company, and said X would document it in great detail.",
+   "answer_type": "summary+quotes",
+   "quotes": [
+    {
+     "text": "If somebody's going to try to blackmail me with advertising, blackmail me with money, go fuck yourself.",
+     "source": "Elon Musk at the DealBook Summit 2023 (Andrew Ross Sorkin)",
+     "url": "https://www.rev.com/transcripts/dealbook-summit-2023-elon-musk-interview-transcript",
+     "timestamp": null,
+     "transcript_kind": "third-party (Rev)",
+     "verified_on": "2026-10-12"
+    },
+    {
+     "text": "And the whole world will know that those advertisers killed the company and we'll document it in great detail.",
+     "source": "Elon Musk at the DealBook Summit 2023 (Andrew Ross Sorkin)",
+     "url": "https://www.rev.com/transcripts/dealbook-summit-2023-elon-musk-interview-transcript",
+     "timestamp": "12:35",
+     "transcript_kind": "third-party (Rev)",
+     "verified_on": "2026-10-12"
+    }
+   ],
+   "sources": [
+    {
+     "title": "Elon Musk at the DealBook Summit 2023 (Andrew Ross Sorkin)",
+     "outlet": "The New York Times / DealBook",
+     "date": "2023-11-29",
+     "url": "https://www.youtube.com/watch?v=2BfMuHDfGJI",
+     "transcript_url": "https://www.rev.com/transcripts/dealbook-summit-2023-elon-musk-interview-transcript",
+     "transcript_kind": "third-party (Rev)",
+     "covers_question": true,
+     "checked": "2026-10-12"
+    }
+   ],
+   "frequency": 1,
+   "first_asked": "2023-11-29",
+   "last_updated": "2026-10-12",
+   "verification": "verified_single_source",
+   "updates": [
+    {
+     "date": "2026-10-12",
+     "summary": "Initial entry compiled for Elonepedia v1.",
+     "source": "Elon Musk at the DealBook Summit with Andrew Ross Sorkin",
+     "type": "addition"
+    },
+    {
+     "date": "2026-10-12",
+     "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 2 verbatim quote(s) added.",
+     "source": "Elon Musk at the DealBook Summit 2023 (Andrew Ross Sorkin)",
+     "type": "clarification"
+    }
+   ],
+   "retired_date": "2026-10-21",
+   "retired_reason": "Lowest-frequency/stale topic (single 2023 source); replaced by Tesla-SpaceX merger FAQ after the 20 Oct 2026 SpaceX Q3 call."
   }
  ]
 }
