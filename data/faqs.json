@@ -1,7 +1,7 @@
 {
  "title": "Elonepedia",
  "version": "1.1",
- "last_updated": "2026-10-21T08:00:00+01:00",
+ "last_updated": "2026-10-22T08:00:00+01:00",
  "faqs": [
   {
    "id": "q001",
@@ -1831,7 +1831,7 @@
     "autonomy",
     "timelines"
    ],
-   "answer_summary": "He has repeatedly given near-term targets. In 2021 he said self-driving turned out 'way harder' than he expected; in the Q2 2024 call he described FSD 12.5 as a step-change improvement. Note: these are forward-looking claims that have historically slipped.",
+   "answer_summary": "He has repeatedly given near-term targets. In 2021 he said self-driving turned out 'way harder' than he expected; in the Q2 2024 call he described FSD 12.5 as a step-change improvement. Note: these are forward-looking claims that have historically slipped. On Tesla's Q3 2026 call (21 Oct) he called FSD the biggest driver of vehicle demand, said there is 'really no competitor for FSD in any car that you can buy', and said Tesla is approved in many European countries and hoping for EU-wide approval, maybe within a few months, adding he would be surprised if it takes longer than Q1 2027 though the timing isn't in Tesla's control. On the same call Tesla AI head Ashok Elluswamy said the first customer-owned cars could join the Robotaxi fleet around Q2 2027.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -1849,6 +1849,14 @@
      "timestamp": null,
      "transcript_kind": "third-party",
      "verified_on": "2026-10-12"
+    },
+    {
+     "text": "I would be surprised if it takes longer than Q1",
+     "source": "Tesla Q3 2026 earnings call",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Quartr)",
+     "verified_on": "2026-10-22"
     }
    ],
    "sources": [
@@ -1881,11 +1889,21 @@
      "transcript_kind": "auto-caption",
      "covers_question": true,
      "checked": "2026-10-12"
+    },
+    {
+     "title": "Tesla Q3 2026 earnings call",
+     "outlet": "Tesla (transcript: Quartr via Stock Analysis)",
+     "date": "2026-10-21",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "transcript_url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "transcript_kind": "third-party (Quartr)",
+     "covers_question": true,
+     "checked": "2026-10-22"
     }
    ],
-   "frequency": 3,
+   "frequency": 4,
    "first_asked": "2019-04-12",
-   "last_updated": "2026-10-12",
+   "last_updated": "2026-10-22",
    "verification": "verified",
    "updates": [
     {
@@ -1899,6 +1917,12 @@
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 2 verbatim quote(s) added.",
      "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "type": "clarification"
+    },
+    {
+     "date": "2026-10-22",
+     "summary": "Tesla Q3 2026 call: FSD as demand driver; EU-wide approval expected by about Q1 2027.",
+     "source": "Tesla Q3 2026 earnings call",
+     "type": "addition"
     }
    ]
   },
@@ -1989,7 +2013,7 @@
     "robotaxi",
     "cybercab"
    ],
-   "answer_summary": "At We, Robot (Oct 2024) he unveiled the Cybercab, arguing cars are used only ~10 of 168 hours a week so autonomy would greatly raise utility; on earnings calls he has said idle robotaxi fleets could also provide distributed compute. At X Takeover 2026 he said Cybercab/Robotaxi rollout is paced to avoid any injury or death that would become worldwide headlines and invite shutdown; they also prioritize not running over pets (including hard night-time kitten cases he said they solved) and scrubbing risky intersections and railroad crossings before entering new cities. At the 15 Oct 2026 Roadster unveil he said long-term it will be the only manually driven car Tesla makes — positioning Cybercab/robotaxi as the default product direction while the Roadster is the halo exception taken 'to the limits'.",
+   "answer_summary": "At We, Robot (Oct 2024) he unveiled the Cybercab, arguing cars are used only ~10 of 168 hours a week so autonomy would greatly raise utility; on earnings calls he has said idle robotaxi fleets could also provide distributed compute. At X Takeover 2026 he said Cybercab/Robotaxi rollout is paced to avoid any injury or death that would become worldwide headlines and invite shutdown; they also prioritize not running over pets (including hard night-time kitten cases he said they solved) and scrubbing risky intersections and railroad crossings before entering new cities. At the 15 Oct 2026 Roadster unveil he said long-term it will be the only manually driven car Tesla makes — positioning Cybercab/robotaxi as the default product direction while the Roadster is the halo exception taken 'to the limits'. On Tesla's Q3 2026 call (21 Oct) he said fully autonomous miles are growing extremely fast week over week and the Austin Cybercab fleet has grown by a factor of 10 since launch about a month earlier. He said Cybercab will mostly be Tesla-owned and offered as transport as a service, while cars like the 3, Y and Roadster are the ones people own, and predicted that unless governments stop it to protect domestic industry, Tesla will do a majority of all passenger miles on Earth wherever it can operate freely.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -2023,6 +2047,22 @@
      "timestamp": null,
      "transcript_kind": "third-party reporting of live event remarks",
      "verified_on": "2026-10-16"
+    },
+    {
+     "text": "The Cybercab fleet in Austin, for example, has grown by a factor of 10 since launch about a month ago.",
+     "source": "Tesla Q3 2026 earnings call",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Quartr)",
+     "verified_on": "2026-10-22"
+    },
+    {
+     "text": "I think Tesla will end up doing a majority of all passenger miles on Earth in any country where it is allowed to operate freely.",
+     "source": "Tesla Q3 2026 earnings call",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Quartr)",
+     "verified_on": "2026-10-22"
     }
    ],
    "sources": [
@@ -2065,11 +2105,21 @@
      "transcript_kind": "primary event + reliable secondary reporting (no full official transcript yet)",
      "covers_question": true,
      "checked": "2026-10-16"
+    },
+    {
+     "title": "Tesla Q3 2026 earnings call",
+     "outlet": "Tesla (transcript: Quartr via Stock Analysis)",
+     "date": "2026-10-21",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "transcript_url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "transcript_kind": "third-party (Quartr)",
+     "covers_question": true,
+     "checked": "2026-10-22"
     }
    ],
-   "frequency": 4,
+   "frequency": 5,
    "first_asked": "2024-01-24",
-   "last_updated": "2026-10-16",
+   "last_updated": "2026-10-22",
    "verification": "verified",
    "updates": [
     {
@@ -2095,6 +2145,12 @@
      "summary": "Roadster unveil: Musk said the Roadster will long-term be Tesla's only manually driven car (halo exception as the company shifts to autonomy/Cybercab).",
      "source": "Tesla Roadster unveil (McGregor)",
      "type": "addition"
+    },
+    {
+     "date": "2026-10-22",
+     "summary": "Tesla Q3 2026 call: Austin Cybercab fleet up 10x in a month, Cybercab mainly Tesla-owned transport-as-a-service, majority-of-passenger-miles prediction.",
+     "source": "Tesla Q3 2026 earnings call",
+     "type": "addition"
     }
    ]
   },
@@ -2106,7 +2162,7 @@
     "optimus",
     "robotics"
    ],
-   "answer_summary": "He says Optimus has the potential to far exceed the value of the rest of Tesla combined, and that humanoid robots will lead to a world of abundance where goods and services are extremely cheap. At X Takeover 2026 he said Optimus hands and fine motor skills are shockingly hard (precision plus force, durable touch sensors, no biological self-repair), warned that many impressive robot demos are canned routines not real AI, and said a China magnet-export ban set the program back about two or three months — so domestic supply-chain independence is required; volume production will come, but the start of the S-curve is slow. In October 2026 he told Isaacson physical-world AI matters far more: intelligence without the ability to manipulate objects (like dolphins and whales) is worth much less, digital superintelligence alone might add roughly 30% to world output, but robots plus space could grow the economy enormously.",
+   "answer_summary": "He says Optimus has the potential to far exceed the value of the rest of Tesla combined, and that humanoid robots will lead to a world of abundance where goods and services are extremely cheap. At X Takeover 2026 he said Optimus hands and fine motor skills are shockingly hard (precision plus force, durable touch sensors, no biological self-repair), warned that many impressive robot demos are canned routines not real AI, and said a China magnet-export ban set the program back about two or three months — so domestic supply-chain independence is required; volume production will come, but the start of the S-curve is slow. In October 2026 he told Isaacson physical-world AI matters far more: intelligence without the ability to manipulate objects (like dolphins and whales) is worth much less, digital superintelligence alone might add roughly 30% to world output, but robots plus space could grow the economy enormously. On Tesla's Q3 2026 call (21 Oct) he said early production has started on the high-volume Optimus line in Fremont, where most of a million-unit-per-year line has landed, but it will take at least a year, maybe longer, to reach that rate because parts of the design are still changing; he expects the AI, electromechanical design and durability to be solved around the end of 2027, which is when Tesla would start delivering Optimus to outside companies, first for dangerous, repetitive, round-the-clock industrial work and later for homes. He said the hand, especially the fingers, is the hardest remaining hardware problem, that Optimus has no car-style data fleet so Tesla needs on the order of 10,000 to 20,000 bots doing self-play in an 'Optimus Academy', that the AI5 chip (about an order of magnitude more compute than AI4) should go into Optimus around April 2027, and that a non-pre-programmed demo video may come in a month or two. He called its usefulness roughly dexterity times AI software times chip hardware, with Optimus robots eventually building Optimus robots, and repeated that humanoid robots will be the biggest product on Earth.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -2156,6 +2212,30 @@
      "timestamp": "00:17:11",
      "transcript_kind": "official (Omny podcast transcript)",
      "verified_on": "2026-10-21"
+    },
+    {
+     "text": "I remain convinced that Optimus will be the biggest product on Earth",
+     "source": "Tesla Q3 2026 earnings call",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Quartr)",
+     "verified_on": "2026-10-22"
+    },
+    {
+     "text": "there's 10,000 things that have to go right for production of the robot",
+     "source": "Tesla Q3 2026 earnings call",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Quartr)",
+     "verified_on": "2026-10-22"
+    },
+    {
+     "text": "I think at some point there will be more humanoid robots on Earth than there are humans.",
+     "source": "Tesla Q3 2026 earnings call",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Quartr)",
+     "verified_on": "2026-10-22"
     }
    ],
    "sources": [
@@ -2208,11 +2288,21 @@
      "transcript_kind": "official (Omny podcast transcript)",
      "covers_question": true,
      "checked": "2026-10-21"
+    },
+    {
+     "title": "Tesla Q3 2026 earnings call",
+     "outlet": "Tesla (transcript: Quartr via Stock Analysis)",
+     "date": "2026-10-21",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "transcript_url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "transcript_kind": "third-party (Quartr)",
+     "covers_question": true,
+     "checked": "2026-10-22"
     }
    ],
-   "frequency": 5,
+   "frequency": 6,
    "first_asked": "2021-12-28",
-   "last_updated": "2026-10-21",
+   "last_updated": "2026-10-22",
    "verification": "verified",
    "updates": [
     {
@@ -2237,6 +2327,12 @@
      "date": "2026-10-21",
      "summary": "Isaacson interview (20 Oct 2026): robots vs. digital-only AI economics.",
      "source": "The Builders with Walter Isaacson: Elon Musk, \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+     "type": "addition"
+    },
+    {
+     "date": "2026-10-22",
+     "summary": "Tesla Q3 2026 call: Fremont early production, ~end-2027 external deliveries, hand is hardest part, self-play Optimus Academy, AI5 integration ~Apr 2027, demo video soon.",
+     "source": "Tesla Q3 2026 earnings call",
      "type": "addition"
     }
    ]
@@ -2453,7 +2549,7 @@
    "tags": [
     "manufacturing"
    ],
-   "answer_summary": "He has often said 'prototypes are easy, production is hard'; in 2021 his biggest time sink at SpaceX was Raptor engine production, not design. At X Takeover 2026 he retold the 2018 Model 3 general-assembly crisis: a parking-lot tent line on a slight incline so underpowered conveyors could move cars downhill, lifting production about 30% in three weeks. He also argued that touring chip fabs showed little custom equipment compared with Tesla factories, which is why he sees room to improve wafer throughput with customized tools.",
+   "answer_summary": "He has often said 'prototypes are easy, production is hard'; in 2021 his biggest time sink at SpaceX was Raptor engine production, not design. At X Takeover 2026 he retold the 2018 Model 3 general-assembly crisis: a parking-lot tent line on a slight incline so underpowered conveyors could move cars downhill, lifting production about 30% in three weeks. He also argued that touring chip fabs showed little custom equipment compared with Tesla factories, which is why he sees room to improve wafer throughput with customized tools. Explaining Optimus on Tesla's Q3 2026 call (21 Oct), he said production of a radically new product moves only 'as fast as the slowest, least lucky' of roughly 10,000 things that must go right, and that you have to build a huge global supply chain and a very big domestic factory, not just make a batch and ship them.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -2479,6 +2575,14 @@
      "timestamp": null,
      "transcript_kind": "third-party (archive transcript)",
      "verified_on": "2026-10-13"
+    },
+    {
+     "text": "it'll move as fast as the slowest, least lucky of the 10,000",
+     "source": "Tesla Q3 2026 earnings call",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Quartr)",
+     "verified_on": "2026-10-22"
     }
    ],
    "sources": [
@@ -2501,11 +2605,21 @@
      "transcript_kind": "third-party (archive transcript)",
      "covers_question": true,
      "checked": "2026-10-13"
+    },
+    {
+     "title": "Tesla Q3 2026 earnings call",
+     "outlet": "Tesla (transcript: Quartr via Stock Analysis)",
+     "date": "2026-10-21",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "transcript_url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "transcript_kind": "third-party (Quartr)",
+     "covers_question": true,
+     "checked": "2026-10-22"
     }
    ],
-   "frequency": 2,
+   "frequency": 3,
    "first_asked": "2021-12-28",
-   "last_updated": "2026-10-13",
+   "last_updated": "2026-10-22",
    "verification": "verified",
    "updates": [
     {
@@ -2525,6 +2639,12 @@
      "summary": "X Takeover 2026: retold Model 3 'tent in the parking lot' general-assembly choke point — used incline so underpowered line could move cars, ~30% production increase in three weeks; also argued chip fabs lack custom equipment Tesla uses to improve process.",
      "source": "Elon Musk: What Comes Next for Humanity (X Takeover 2026 at Giga Texas)",
      "type": "addition"
+    },
+    {
+     "date": "2026-10-22",
+     "summary": "Tesla Q3 2026 call: new-product ramps limited by the least lucky of ~10,000 parts and processes.",
+     "source": "Tesla Q3 2026 earnings call",
+     "type": "addition"
     }
    ]
   },
@@ -2537,7 +2657,7 @@
     "batteries",
     "solar"
    ],
-   "answer_summary": "At TED 2017 he discussed the Gigafactory producing on the order of 100 GWh of batteries a year; he describes utility-scale Megapack, home Powerwall and solar as Tesla's sustainable-energy stack.",
+   "answer_summary": "At TED 2017 he discussed the Gigafactory producing on the order of 100 GWh of batteries a year; he describes utility-scale Megapack, home Powerwall and solar as Tesla's sustainable-energy stack. On Tesla's Q3 2026 call (21 Oct) he said energy demand is very strong, Megapacks are almost sold out for 2027 and Tesla is ramping production as fast as possible with gross margins expected to rise; asked about a 'Megapod' distributed-power and compute product, he said it is early days and Tesla should have a better sense by the end of Q1 or Q2 2027.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -2547,6 +2667,14 @@
      "timestamp": null,
      "transcript_kind": "auto-caption",
      "verified_on": "2026-10-12"
+    },
+    {
+     "text": "We are actually almost sold out of all Megapacks for 2027",
+     "source": "Tesla Q3 2026 earnings call",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Quartr)",
+     "verified_on": "2026-10-22"
     }
    ],
    "sources": [
@@ -2569,11 +2697,21 @@
      "transcript_kind": "auto-caption",
      "covers_question": true,
      "checked": "2026-10-12"
+    },
+    {
+     "title": "Tesla Q3 2026 earnings call",
+     "outlet": "Tesla (transcript: Quartr via Stock Analysis)",
+     "date": "2026-10-21",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "transcript_url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "transcript_kind": "third-party (Quartr)",
+     "covers_question": true,
+     "checked": "2026-10-22"
     }
    ],
-   "frequency": 2,
+   "frequency": 3,
    "first_asked": "2017-04-28",
-   "last_updated": "2026-10-12",
+   "last_updated": "2026-10-22",
    "verification": "verified",
    "updates": [
     {
@@ -2587,6 +2725,12 @@
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
      "source": "The future we're building — and boring (TED2017)",
      "type": "clarification"
+    },
+    {
+     "date": "2026-10-22",
+     "summary": "Tesla Q3 2026 call: Megapacks almost sold out for 2027; Megapod still early.",
+     "source": "Tesla Q3 2026 earnings call",
+     "type": "addition"
     }
    ]
   },
@@ -3875,7 +4019,7 @@
     "manufacturing",
     "ai"
    ],
-   "answer_summary": "At X Takeover 2026 he said he still has 'no idea how to make chips' but will figure it out the way he did cars and rockets. He plans to start with conventional fab equipment, then customize it for higher wafer throughput — noting Tesla already builds specialized manufacturing gear while the chip fabs he toured did not. Goal: a fast on-site iteration loop at Giga Texas (fabricate, package, mask, test) aiming for something like 10 chip designs per year instead of ~2 years per significant design, taking high-risk/high-payoff transistor bets. He thinks they will eventually make chips 'better than anyone', though it 'might take us quite a few years'. On SpaceX's Q3 2026 call (20 Oct) he said the internal aim, with 'big error bars', is a first functional test chip around May or June 2027 at the Austin research fab and volume production around Q3 2028 at the main Terafab site at Gibbons Creek, ultimately making 'a terawatt of super intelligence chips per year'.",
+   "answer_summary": "At X Takeover 2026 he said he still has 'no idea how to make chips' but will figure it out the way he did cars and rockets. He plans to start with conventional fab equipment, then customize it for higher wafer throughput — noting Tesla already builds specialized manufacturing gear while the chip fabs he toured did not. Goal: a fast on-site iteration loop at Giga Texas (fabricate, package, mask, test) aiming for something like 10 chip designs per year instead of ~2 years per significant design, taking high-risk/high-payoff transistor bets. He thinks they will eventually make chips 'better than anyone', though it 'might take us quite a few years'. On SpaceX's Q3 2026 call (20 Oct) he said the internal aim, with 'big error bars', is a first functional test chip around May or June 2027 at the Austin research fab and volume production around Q3 2028 at the main Terafab site at Gibbons Creek, ultimately making 'a terawatt of super intelligence chips per year'. On Tesla's Q3 2026 call (21 Oct) he repeated that the Austin research fab will begin commissioning machinery in the first half of 2027, aiming for a first test chip around May or June and a useful chip at volume around Q3 2028. He said Terafab will cost 'tens of billions' in capital equipment through early 2028 and probably more than $100 billion long term, with the Tesla and SpaceX split still to be worked out, and called it likely 'the most valuable building in the world', needed especially to scale Optimus.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -3925,6 +4069,22 @@
      "timestamp": null,
      "transcript_kind": "third-party (Motley Fool)",
      "verified_on": "2026-10-21"
+    },
+    {
+     "text": "the Terafab I think will be the most valuable building in the world",
+     "source": "Tesla Q3 2026 earnings call",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Quartr)",
+     "verified_on": "2026-10-22"
+    },
+    {
+     "text": "Then it'll probably be north of $100 billion long term.",
+     "source": "Tesla Q3 2026 earnings call",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Quartr)",
+     "verified_on": "2026-10-22"
     }
    ],
    "sources": [
@@ -3947,11 +4107,21 @@
      "transcript_kind": "third-party (Motley Fool)",
      "covers_question": true,
      "checked": "2026-10-21"
+    },
+    {
+     "title": "Tesla Q3 2026 earnings call",
+     "outlet": "Tesla (transcript: Quartr via Stock Analysis)",
+     "date": "2026-10-21",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "transcript_url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "transcript_kind": "third-party (Quartr)",
+     "covers_question": true,
+     "checked": "2026-10-22"
     }
    ],
-   "frequency": 2,
+   "frequency": 3,
    "first_asked": "2026-10-10",
-   "last_updated": "2026-10-21",
+   "last_updated": "2026-10-22",
    "verification": "verified",
    "updates": [
     {
@@ -3964,6 +4134,12 @@
      "date": "2026-10-21",
      "summary": "SpaceX Q3 2026 earnings call: Terafab test-chip and volume-production timeline.",
      "source": "SpaceX Q3 2026 earnings call",
+     "type": "addition"
+    },
+    {
+     "date": "2026-10-22",
+     "summary": "Tesla Q3 2026 call: Terafab capital needs (tens of billions to 2028, >$100B long term), 'most valuable building in the world'.",
+     "source": "Tesla Q3 2026 earnings call",
      "type": "addition"
     }
    ]
@@ -3978,7 +4154,7 @@
     "merger",
     "corporate"
    ],
-   "answer_summary": "On SpaceX's Q3 2026 earnings call (20 Oct 2026), asked about the pros and cons of a combination, he said both companies have formed special committees of independent directors at shareholders' request to discuss it, and that as a conflicted party he can't take part. He thinks it would be a good idea, citing cooperation on superintelligence software, chip design and Terafab, robotics, mass to orbit and connectivity, but said a merger should not be assumed: the committees have not agreed terms and may not, and on the Tesla side it would need a vote of 50% of all shares, 'quite a high hurdle'.",
+   "answer_summary": "On SpaceX's Q3 2026 earnings call (20 Oct 2026), asked about the pros and cons of a combination, he said both companies have formed special committees of independent directors at shareholders' request to discuss it, and that as a conflicted party he can't take part. He thinks it would be a good idea, citing cooperation on superintelligence software, chip design and Terafab, robotics, mass to orbit and connectivity, but said a merger should not be assumed: the committees have not agreed terms and may not, and on the Tesla side it would need a vote of 50% of all shares, 'quite a high hurdle'. On Tesla's Q3 2026 call the next day he declined to add anything, saying he had said everything that should be said on the SpaceX call ('tap dancing through a minefield'), and Tesla took no merger questions.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -4004,6 +4180,14 @@
      "timestamp": null,
      "transcript_kind": "third-party (Motley Fool)",
      "verified_on": "2026-10-21"
+    },
+    {
+     "text": "tap dancing through a minefield there",
+     "source": "Tesla Q3 2026 earnings call",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Quartr)",
+     "verified_on": "2026-10-22"
     }
    ],
    "sources": [
@@ -4026,11 +4210,21 @@
      "transcript_kind": "article",
      "covers_question": true,
      "checked": "2026-10-21"
+    },
+    {
+     "title": "Tesla Q3 2026 earnings call",
+     "outlet": "Tesla (transcript: Quartr via Stock Analysis)",
+     "date": "2026-10-21",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "transcript_url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "transcript_kind": "third-party (Quartr)",
+     "covers_question": true,
+     "checked": "2026-10-22"
     }
    ],
    "frequency": 1,
    "first_asked": "2026-10-20",
-   "last_updated": "2026-10-21",
+   "last_updated": "2026-10-22",
    "verification": "verified",
    "updates": [
     {
@@ -4038,6 +4232,12 @@
      "summary": "New FAQ (major importance): Musk's first official confirmation on SpaceX's Q3 2026 call that both boards formed special committees to discuss a merger; quotes checked against the Motley Fool transcript.",
      "source": "SpaceX Q3 2026 earnings call",
      "type": "addition"
+    },
+    {
+     "date": "2026-10-22",
+     "summary": "Tesla Q3 2026 call: Musk and Tesla declined further merger comment. No frequency bump (no answer given).",
+     "source": "Tesla Q3 2026 earnings call",
+     "type": "clarification"
     }
    ]
   },
@@ -4052,7 +4252,7 @@
     "halo-car",
     "product-unveil"
    ],
-   "answer_summary": "At the 15 Oct 2026 unveil at SpaceX's McGregor, Texas test site, Musk framed the redesigned Roadster as a Tesla×SpaceX collaboration and 'the last best driver's car' — long-term the only manually driven Tesla, taken 'to the limits and beyond'. Demos used underbody suction fans (up to ~2 g extra grip; he joked it could 'suck the chrome off a trailer hitch') and SpaceX-style cold-gas thrusters so the car could drive upside down, hover, and flip/jump over other vehicles. Specs claimed: 0–60 mph in ~0.81 s (Thrust/Rocket trims faster), >230 mph with a goal to 'crack halfway to the speed of sound', ~300+ miles range. Three trims: Performance, Thrust (acceleration thrusters), and invite-only Rocket (full flight system). Production targeted for 2028; deposits $50k / $250k; no final price announced. He called it beyond movies/James Bond, warned success wasn't certain and it is 'not necessarily a safety optimized car', and later posted 'Turns out the future does have flying cars'. On 16-17 Oct he added on X that even without the thrusters the Roadster 'will crush the best Formula 1 track times' because it uses suction and active control surfaces (both banned in F1), and that he thinks it can reach a peak speed above 0.5 Mach, roughly 400 mph. On 17 Oct he posted that future demos would include flying over the Snake River or maybe the Grand Canyon, landing on its wheels, and exceeding half the speed of sound, and quipped that since fate maximizes for ironic entertainment it was inevitable the 'Roadster' would be a flying car. On 18 Oct he posted that the new Roadster 'accelerates faster than a fighter jet taking off from an aircraft carrier'.",
+   "answer_summary": "At the 15 Oct 2026 unveil at SpaceX's McGregor, Texas test site, Musk framed the redesigned Roadster as a Tesla×SpaceX collaboration and 'the last best driver's car' — long-term the only manually driven Tesla, taken 'to the limits and beyond'. Demos used underbody suction fans (up to ~2 g extra grip; he joked it could 'suck the chrome off a trailer hitch') and SpaceX-style cold-gas thrusters so the car could drive upside down, hover, and flip/jump over other vehicles. Specs claimed: 0–60 mph in ~0.81 s (Thrust/Rocket trims faster), >230 mph with a goal to 'crack halfway to the speed of sound', ~300+ miles range. Three trims: Performance, Thrust (acceleration thrusters), and invite-only Rocket (full flight system). Production targeted for 2028; deposits $50k / $250k; no final price announced. He called it beyond movies/James Bond, warned success wasn't certain and it is 'not necessarily a safety optimized car', and later posted 'Turns out the future does have flying cars'. On 16-17 Oct he added on X that even without the thrusters the Roadster 'will crush the best Formula 1 track times' because it uses suction and active control surfaces (both banned in F1), and that he thinks it can reach a peak speed above 0.5 Mach, roughly 400 mph. On 17 Oct he posted that future demos would include flying over the Snake River or maybe the Grand Canyon, landing on its wheels, and exceeding half the speed of sound, and quipped that since fate maximizes for ironic entertainment it was inevitable the 'Roadster' would be a flying car. On 18 Oct he posted that the new Roadster 'accelerates faster than a fighter jet taking off from an aircraft carrier'. On Tesla's Q3 2026 call (21 Oct) he called the Roadster demo 'arguably the coolest demo of any product ever'.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -4126,6 +4326,14 @@
      "timestamp": "2026-10-17T17:20:38Z",
      "transcript_kind": "primary (X post)",
      "verified_on": "2026-10-18"
+    },
+    {
+     "text": "arguably the coolest demo of any product ever",
+     "source": "Tesla Q3 2026 earnings call",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "timestamp": null,
+     "transcript_kind": "third-party (Quartr)",
+     "verified_on": "2026-10-22"
     }
    ],
    "sources": [
@@ -4198,11 +4406,21 @@
      "transcript_kind": "primary (X post)",
      "covers_question": true,
      "checked": "2026-10-19"
+    },
+    {
+     "title": "Tesla Q3 2026 earnings call",
+     "outlet": "Tesla (transcript: Quartr via Stock Analysis)",
+     "date": "2026-10-21",
+     "url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "transcript_url": "https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/",
+     "transcript_kind": "third-party (Quartr)",
+     "covers_question": true,
+     "checked": "2026-10-22"
     }
    ],
    "frequency": 2,
    "first_asked": "2026-10-15",
-   "last_updated": "2026-10-19",
+   "last_updated": "2026-10-22",
    "verification": "verified",
    "updates": [
     {
@@ -4228,6 +4446,12 @@
      "summary": "Added Musk's 18 Oct 2026 X post comparing Roadster acceleration to a fighter jet launching from an aircraft carrier (quoting a fan post comparing its >80 kN cold-gas thrust to an F-16). X statement; frequency unchanged.",
      "source": "Elon Musk on X (18 Oct 2026)",
      "type": "addition"
+    },
+    {
+     "date": "2026-10-22",
+     "summary": "Tesla Q3 2026 call: passing mention of the Roadster demo. No frequency bump.",
+     "source": "Tesla Q3 2026 earnings call",
+     "type": "clarification"
     }
    ]
   }
