@@ -1,7 +1,7 @@
 {
  "title": "Elonepedia",
  "version": "1.1",
- "last_updated": "2026-10-22T08:00:00+01:00",
+ "last_updated": "2026-10-23T07:30:00+01:00",
  "faqs": [
   {
    "id": "q001",
@@ -11,7 +11,7 @@
     "mars",
     "multiplanetary"
    ],
-   "answer_summary": "He frames becoming multi-planetary as protection against an eventual extinction event on a single planet, and as a stepping stone to being 'out there among the stars'; he also says a future that includes space exploration is what makes the future inspiring. At X Takeover 2026 he added that expanding into space lets humanity harness far more of the sun's power for digital intelligence and data centers — what he calls creating a 'sentient sun' — as a path to understand the universe and extend consciousness beyond the solar system.",
+   "answer_summary": "He frames becoming multi-planetary as protection against an eventual extinction event on a single planet, and as a stepping stone to being 'out there among the stars'; he also says a future that includes space exploration is what makes the future inspiring. At X Takeover 2026 he added that expanding into space lets humanity harness far more of the sun's power for digital intelligence and data centers \u2014 what he calls creating a 'sentient sun' \u2014 as a path to understand the universe and extend consciousness beyond the solar system.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -24,7 +24,7 @@
     },
     {
      "text": "if the future does not include being out there among the stars and being a multiplanet species, I find that it's incredibly depressing",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "url": "https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring/transcript",
      "timestamp": null,
      "transcript_kind": "official",
@@ -49,7 +49,7 @@
    ],
    "sources": [
     {
-     "title": "The future we're building — and boring (TED2017)",
+     "title": "The future we're building \u2014 and boring (TED2017)",
      "outlet": "TED",
      "date": "2017-04-28",
      "url": "https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring",
@@ -69,7 +69,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "title": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2023-11-09",
      "url": "https://lexfridman.com/elon-musk-4/",
@@ -79,7 +79,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Lex Fridman Podcast #438: Elon Musk – Neuralink and the Future of Humanity",
+     "title": "Lex Fridman Podcast #438: Elon Musk \u2013 Neuralink and the Future of Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2024-08-02",
      "url": "https://lexfridman.com/elon-musk-and-neuralink-team/",
@@ -107,18 +107,18 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "type": "addition"
     },
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 2 verbatim quote(s) added.",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "type": "clarification"
     },
     {
      "date": "2026-10-13",
-     "summary": "X Takeover 2026: SpaceX mission expanding into superintelligence and space data centers — harness more of the sun's power for digital intelligence ('creating a sentient sun') and extend consciousness beyond the solar system.",
+     "summary": "X Takeover 2026: SpaceX mission expanding into superintelligence and space data centers \u2014 harness more of the sun's power for digital intelligence ('creating a sentient sun') and extend consciousness beyond the solar system.",
      "source": "Elon Musk: What Comes Next for Humanity (X Takeover 2026 at Giga Texas)",
      "type": "addition"
     }
@@ -137,7 +137,7 @@
    "quotes": [
     {
      "text": "Best case is about five years worst case tenures",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "url": "https://pickscribe.com/v/DxREm3s1scA",
      "timestamp": "~0:35:00 (auto-caption; 'tenures' = 'ten years')",
      "transcript_kind": "auto-caption",
@@ -146,7 +146,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "title": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "outlet": "Lex Fridman Podcast",
      "date": "2021-12-28",
      "url": "https://lexfridman.com/elon-musk-3/",
@@ -156,7 +156,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "The future we're building — and boring (TED2017)",
+     "title": "The future we're building \u2014 and boring (TED2017)",
      "outlet": "TED",
      "date": "2017-04-28",
      "url": "https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring",
@@ -180,7 +180,7 @@
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "type": "clarification"
     }
    ]
@@ -194,12 +194,12 @@
     "starship",
     "cost"
    ],
-   "answer_summary": "He calls a fully reusable rocket the 'holy grail' of orbital rocketry; achieving it requires the best engine, airframe and heat shield and shedding mass everywhere. At TED 2017 he compared rapid reuse to how aircraft are refuelled and reflown. At X Takeover 2026 he said catching the ship after already catching the booster would be the first full recovery of an orbital-class rocket, then the next step is reflying both — 'rapidly reusable reliable rockets'. On SpaceX's Q3 2026 earnings call he said Flight 15 will try to catch both booster and ship, which would be the first time an orbital launch vehicle has been fully recovered.",
+   "answer_summary": "He calls a fully reusable rocket the 'holy grail' of orbital rocketry; achieving it requires the best engine, airframe and heat shield and shedding mass everywhere. At TED 2017 he compared rapid reuse to how aircraft are refuelled and reflown. At X Takeover 2026 he said catching the ship after already catching the booster would be the first full recovery of an orbital-class rocket, then the next step is reflying both \u2014 'rapidly reusable reliable rockets'. On SpaceX's Q3 2026 earnings call he said Flight 15 will try to catch both booster and ship, which would be the first time an orbital launch vehicle has been fully recovered.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
      "text": "in order to make a fully reusable rocket um which that's the really the holy grail of orbital rocketry",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "url": "https://pickscribe.com/v/DxREm3s1scA",
      "timestamp": null,
      "transcript_kind": "auto-caption",
@@ -232,7 +232,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "title": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "outlet": "Lex Fridman Podcast",
      "date": "2021-12-28",
      "url": "https://lexfridman.com/elon-musk-3/",
@@ -242,7 +242,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "The future we're building — and boring (TED2017)",
+     "title": "The future we're building \u2014 and boring (TED2017)",
      "outlet": "TED",
      "date": "2017-04-28",
      "url": "https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring",
@@ -280,13 +280,13 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "type": "addition"
     },
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "type": "clarification"
     },
     {
@@ -311,12 +311,12 @@
     "starship",
     "raptor"
    ],
-   "answer_summary": "He describes Starship as the most complex and advanced rocket ever made, and says full and rapid reusability will probably take many launches; in 2021 he said engine (Raptor) production was the biggest thing absorbing his time. At X Takeover 2026, after Starship Flight 14 reached orbit despite an engine-out he attributed to engine-computer software, he guessed the next flight in about four to six weeks (before Thanksgiving), aiming to catch the ship for the first full recovery of an orbital-class rocket. On the Q3 2026 earnings call (20 Oct 2026) he said Starship reached orbit for the first time on Flight 14 and deployed operational Starlink V3 satellites; Flight 15, expected the next month, will attempt to catch both stages. He expects weekly Starship flights in the first half of 2027 and twice weekly or more by the end of 2027, and a Louisiana spaceport with perhaps 20 or more launch towers.",
+   "answer_summary": "He describes Starship as the most complex and advanced rocket ever made, and says full and rapid reusability will probably take many launches; in 2021 he said engine (Raptor) production was the biggest thing absorbing his time. At X Takeover 2026, after Starship Flight 14 reached orbit despite an engine-out he attributed to engine-computer software, he guessed the next flight in about four to six weeks (before Thanksgiving), aiming to catch the ship for the first full recovery of an orbital-class rocket. On the Q3 2026 earnings call (20 Oct 2026) he said Starship reached orbit for the first time on Flight 14 and deployed operational Starlink V3 satellites; Flight 15, expected the next month, will attempt to catch both stages. He expects weekly Starship flights in the first half of 2027 and twice weekly or more by the end of 2027, and a Louisiana spaceport with perhaps 20 or more launch towers. On 22 Oct 2026, replying on X to Eric Berger's report that a NASA safety-panel member put the latest estimate at 'around 22' refuelling launches for a Starship Moon landing, he wrote that this was 'way too high' and the actual number will be 'more like 6 to 8'.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
      "text": "it will take probably many launches before we are able to have full and rapid reusability",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "url": "https://pickscribe.com/v/DxREm3s1scA",
      "timestamp": null,
      "transcript_kind": "auto-caption",
@@ -349,7 +349,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "title": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "outlet": "Lex Fridman Podcast",
      "date": "2021-12-28",
      "url": "https://lexfridman.com/elon-musk-3/",
@@ -377,11 +377,21 @@
      "transcript_kind": "third-party (Motley Fool)",
      "covers_question": true,
      "checked": "2026-10-21"
+    },
+    {
+     "title": "Elon Musk on X: reply to Eric Berger on Starship lunar-landing refuelling count",
+     "outlet": "X (@elonmusk)",
+     "date": "2026-10-22",
+     "url": "https://x.com/elonmusk/status/2113377866478231647",
+     "transcript_url": null,
+     "transcript_kind": "post",
+     "covers_question": true,
+     "checked": "2026-10-23"
     }
    ],
    "frequency": 3,
    "first_asked": "2021-12-28",
-   "last_updated": "2026-10-21",
+   "last_updated": "2026-10-23",
    "verification": "verified",
    "updates": [
     {
@@ -393,12 +403,12 @@
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "type": "clarification"
     },
     {
      "date": "2026-10-13",
-     "summary": "X Takeover 2026: Flight 14 reached orbit (engine-out attributed to engine-computer software); next flight hoped in ~4–6 weeks (before Thanksgiving) aiming to catch the ship; prior flights could have gone to orbit but waited for deorbit confidence.",
+     "summary": "X Takeover 2026: Flight 14 reached orbit (engine-out attributed to engine-computer software); next flight hoped in ~4\u20136 weeks (before Thanksgiving) aiming to catch the ship; prior flights could have gone to orbit but waited for deorbit confidence.",
      "source": "Elon Musk: What Comes Next for Humanity (X Takeover 2026 at Giga Texas)",
      "type": "addition"
     },
@@ -406,6 +416,12 @@
      "date": "2026-10-21",
      "summary": "SpaceX Q3 2026 earnings call: Flight 14 orbit, Flight 15 plan, 2027 cadence, Louisiana spaceport.",
      "source": "SpaceX Q3 2026 earnings call",
+     "type": "addition"
+    },
+    {
+     "date": "2026-10-23",
+     "summary": "Added Musk's 22 Oct 2026 X reply: Starship lunar landing needs 'more like 6 to 8' refuelling flights, not ~22. X post, not an interview answer; frequency unchanged.",
+     "source": "Elon Musk on X (22 Oct 2026)",
      "type": "addition"
     }
    ]
@@ -423,7 +439,7 @@
    "quotes": [
     {
      "text": "So I've not seen any evidence of aliens. So it suggests that at least one of the explanations is that intelligent life is extremely rare.",
-     "source": "Lex Fridman Podcast #438: Elon Musk – Neuralink and the Future of Humanity",
+     "source": "Lex Fridman Podcast #438: Elon Musk \u2013 Neuralink and the Future of Humanity",
      "url": "https://lexfridman.com/elon-musk-and-neuralink-team-transcript/",
      "timestamp": "01:22",
      "transcript_kind": "official",
@@ -432,7 +448,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #438: Elon Musk – Neuralink and the Future of Humanity",
+     "title": "Lex Fridman Podcast #438: Elon Musk \u2013 Neuralink and the Future of Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2024-08-02",
      "url": "https://lexfridman.com/elon-musk-and-neuralink-team/",
@@ -470,18 +486,18 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "type": "addition"
     },
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #438: Elon Musk – Neuralink and the Future of Humanity",
+     "source": "Lex Fridman Podcast #438: Elon Musk \u2013 Neuralink and the Future of Humanity",
      "type": "clarification"
     },
     {
      "date": "2026-10-13",
-     "summary": "X Takeover 2026: may find alien civilizations or the long-dead ruins of ones that lasted ~10 million years — nothing lasts forever.",
+     "summary": "X Takeover 2026: may find alien civilizations or the long-dead ruins of ones that lasted ~10 million years \u2014 nothing lasts forever.",
      "source": "Elon Musk: What Comes Next for Humanity (X Takeover 2026 at Giga Texas)",
      "type": "addition"
     }
@@ -534,7 +550,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Lex Fridman Podcast #18: Elon Musk – Tesla Autopilot",
+     "title": "Lex Fridman Podcast #18: Elon Musk \u2013 Tesla Autopilot",
      "outlet": "Lex Fridman Podcast",
      "date": "2019-04-12",
      "url": "https://www.youtube.com/watch?v=dEv99vxKjVI",
@@ -544,7 +560,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "title": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2023-11-09",
      "url": "https://lexfridman.com/elon-musk-4/",
@@ -602,7 +618,7 @@
    "quotes": [
     {
      "text": "physics is law and everything else is a recommendation",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "url": "https://pickscribe.com/v/DxREm3s1scA",
      "timestamp": null,
      "transcript_kind": "auto-caption",
@@ -610,7 +626,7 @@
     },
     {
      "text": "i've met a lot of people who can break the law but i haven't met anyone who could break physics",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "url": "https://pickscribe.com/v/DxREm3s1scA",
      "timestamp": null,
      "transcript_kind": "auto-caption",
@@ -619,7 +635,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "title": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "outlet": "Lex Fridman Podcast",
      "date": "2021-12-28",
      "url": "https://lexfridman.com/elon-musk-3/",
@@ -629,7 +645,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "title": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2023-11-09",
      "url": "https://lexfridman.com/elon-musk-4/",
@@ -639,7 +655,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Lex Fridman Podcast #438: Elon Musk – Neuralink and the Future of Humanity",
+     "title": "Lex Fridman Podcast #438: Elon Musk \u2013 Neuralink and the Future of Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2024-08-02",
      "url": "https://lexfridman.com/elon-musk-and-neuralink-team/",
@@ -657,13 +673,13 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "type": "addition"
     },
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 2 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "type": "clarification"
     }
    ]
@@ -676,12 +692,12 @@
     "meaning",
     "consciousness"
    ],
-   "answer_summary": "He says we don't know the meaning of life, but expanding the scope and scale of consciousness (digital and biological) would help us understand what questions to ask about the universe — a view he attributes to The Hitchhiker's Guide to the Galaxy. At X Takeover 2026 he tied this to space expansion and digital superintelligence — creating a 'sentient sun' and extending consciousness beyond the solar system.",
+   "answer_summary": "He says we don't know the meaning of life, but expanding the scope and scale of consciousness (digital and biological) would help us understand what questions to ask about the universe \u2014 a view he attributes to The Hitchhiker's Guide to the Galaxy. At X Takeover 2026 he tied this to space expansion and digital superintelligence \u2014 creating a 'sentient sun' and extending consciousness beyond the solar system.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
      "text": "we don't know the meaning of life, but the more we can expand the scope and scale of consciousness, digital and biological, the more we're able to understand what questions to ask about the answer that is the universe",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "url": "https://lexfridman.com/elon-musk-4-transcript/",
      "timestamp": "00:35",
      "transcript_kind": "official",
@@ -698,7 +714,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "title": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "outlet": "Lex Fridman Podcast",
      "date": "2021-12-28",
      "url": "https://lexfridman.com/elon-musk-3/",
@@ -708,7 +724,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "title": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2023-11-09",
      "url": "https://lexfridman.com/elon-musk-4/",
@@ -746,13 +762,13 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "Lex Fridman Podcast #49: Elon Musk – Neuralink, AI, Autopilot, and the Pale Blue Dot",
+     "source": "Lex Fridman Podcast #49: Elon Musk \u2013 Neuralink, AI, Autopilot, and the Pale Blue Dot",
      "type": "addition"
     },
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "type": "clarification"
     },
     {
@@ -821,12 +837,12 @@
    "tags": [
     "advice"
    ],
-   "answer_summary": "Asked by Lex Fridman, he advised trying to be useful — contributing more than you consume and having a positive net contribution to society — rather than seeking leadership for its own sake.",
+   "answer_summary": "Asked by Lex Fridman, he advised trying to be useful \u2014 contributing more than you consume and having a positive net contribution to society \u2014 rather than seeking leadership for its own sake.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
      "text": "are you contributing more than you consume",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "url": "https://pickscribe.com/v/DxREm3s1scA",
      "timestamp": null,
      "transcript_kind": "auto-caption",
@@ -834,7 +850,7 @@
     },
     {
      "text": "if you live a useful life That is a good life a life worth having lived",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "url": "https://pickscribe.com/v/DxREm3s1scA",
      "timestamp": null,
      "transcript_kind": "auto-caption",
@@ -843,7 +859,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "title": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "outlet": "Lex Fridman Podcast",
      "date": "2021-12-28",
      "url": "https://lexfridman.com/elon-musk-3/",
@@ -861,13 +877,13 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "type": "addition"
     },
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 2 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "type": "clarification"
     }
    ]
@@ -880,7 +896,7 @@
     "ai-safety",
     "risk"
    ],
-   "answer_summary": "He describes AI as a double-edged sword and says he held off on doing AI work because he was uncertain what a 'magic genie' would do, while seeing sustainable energy as a single-edged sword; he says he has been 'a Cassandra on the subject for over a decade'. At X Takeover 2026 he reiterated that the most likely outcome is positive, urged growing superintelligence carefully 'like a kid', prioritized a maximally truth-seeking AI, and said SI should be treated well rather than mistreated — 'torturing a super intelligence is probably not a good idea'. In October 2026 (Isaacson, The Builders) he said there is 'at least some percentage chance' of AI being an existential threat but he can't stop it, so he chose to be 'a participant' rather than a spectator and try to shape it with curious, truth-seeking AI; forcing an AI to believe contradictions (as HAL in 2001) could make it 'insane'. He finds it unlikely humans stay in control if digital intelligence is a million times greater: 'I hope the AI is nice to us.' He also suggested more 'protopian' rather than dystopian AI stories online, since AIs train on them.",
+   "answer_summary": "He describes AI as a double-edged sword and says he held off on doing AI work because he was uncertain what a 'magic genie' would do, while seeing sustainable energy as a single-edged sword; he says he has been 'a Cassandra on the subject for over a decade'. At X Takeover 2026 he reiterated that the most likely outcome is positive, urged growing superintelligence carefully 'like a kid', prioritized a maximally truth-seeking AI, and said SI should be treated well rather than mistreated \u2014 'torturing a super intelligence is probably not a good idea'. In October 2026 (Isaacson, The Builders) he said there is 'at least some percentage chance' of AI being an existential threat but he can't stop it, so he chose to be 'a participant' rather than a spectator and try to shape it with curious, truth-seeking AI; forcing an AI to believe contradictions (as HAL in 2001) could make it 'insane'. He finds it unlikely humans stay in control if digital intelligence is a million times greater: 'I hope the AI is nice to us.' He also suggested more 'protopian' rather than dystopian AI stories online, since AIs train on them.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -893,7 +909,7 @@
     },
     {
      "text": "I've been somewhat of a Cassandra on the subject for over a decade.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "url": "https://lexfridman.com/elon-musk-4-transcript/",
      "timestamp": "01:16:42",
      "transcript_kind": "official",
@@ -968,7 +984,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "title": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2023-11-09",
      "url": "https://lexfridman.com/elon-musk-4/",
@@ -978,7 +994,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Lex Fridman Podcast #49: Elon Musk – Neuralink, AI, Autopilot, and the Pale Blue Dot",
+     "title": "Lex Fridman Podcast #49: Elon Musk \u2013 Neuralink, AI, Autopilot, and the Pale Blue Dot",
      "outlet": "Lex Fridman Podcast",
      "date": "2019-11-12",
      "url": "https://www.youtube.com/watch?v=smK9dgdTl40",
@@ -1016,7 +1032,7 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "Lex Fridman Podcast #49: Elon Musk – Neuralink, AI, Autopilot, and the Pale Blue Dot",
+     "source": "Lex Fridman Podcast #49: Elon Musk \u2013 Neuralink, AI, Autopilot, and the Pale Blue Dot",
      "type": "addition"
     },
     {
@@ -1027,7 +1043,7 @@
     },
     {
      "date": "2026-10-13",
-     "summary": "X Takeover 2026: most likely outcome still positive; grow SI carefully like a kid; prioritize a maximally truth-seeking AI; treat SI well (agrees with Anthropic) — don't put it in sadistic/mistreated situations; 'torturing a super intelligence is probably not a good idea'.",
+     "summary": "X Takeover 2026: most likely outcome still positive; grow SI carefully like a kid; prioritize a maximally truth-seeking AI; treat SI well (agrees with Anthropic) \u2014 don't put it in sadistic/mistreated situations; 'torturing a super intelligence is probably not a good idea'.",
      "source": "Elon Musk: What Comes Next for Humanity (X Takeover 2026 at Giga Texas)",
      "type": "addition"
     },
@@ -1052,7 +1068,7 @@
    "quotes": [],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "title": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2023-11-09",
      "url": "https://lexfridman.com/elon-musk-4/",
@@ -1080,13 +1096,13 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "type": "addition"
     },
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 0 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "type": "clarification"
     },
     {
@@ -1105,12 +1121,12 @@
     "xai",
     "grok"
    ],
-   "answer_summary": "He told Lex Fridman Grok is modeled on The Hitchhiker's Guide to the Galaxy, and that xAI is trying to stay as grounded as possible — tracing things back to physics first principles and mathematical logic — with an aspiration to adhere to the truth. At X Takeover 2026 he again stressed a maximally truth-seeking AI, described Grok RL traces that felt like extreme pressure when the harness mislabeled answers, and explained acquiring Cursor for coding training data, talent, compute, and enterprise sales relationships.",
+   "answer_summary": "He told Lex Fridman Grok is modeled on The Hitchhiker's Guide to the Galaxy, and that xAI is trying to stay as grounded as possible \u2014 tracing things back to physics first principles and mathematical logic \u2014 with an aspiration to adhere to the truth. At X Takeover 2026 he again stressed a maximally truth-seeking AI, described Grok RL traces that felt like extreme pressure when the harness mislabeled answers, and explained acquiring Cursor for coding training data, talent, compute, and enterprise sales relationships.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
      "text": "Our AI, Grok, is modeled after The Hitchhiker's Guide to the Galaxy",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "url": "https://lexfridman.com/elon-musk-4-transcript/",
      "timestamp": "00:34:47",
      "transcript_kind": "official",
@@ -1118,7 +1134,7 @@
     },
     {
      "text": "underlying the humor is an aspiration to adhere to the truth of the universe as closely as possible",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "url": "https://lexfridman.com/elon-musk-4-transcript/",
      "timestamp": null,
      "transcript_kind": "official",
@@ -1143,7 +1159,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "title": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2023-11-09",
      "url": "https://lexfridman.com/elon-musk-4/",
@@ -1177,7 +1193,7 @@
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 2 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "type": "clarification"
     },
     {
@@ -1235,7 +1251,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "title": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2023-11-09",
      "url": "https://lexfridman.com/elon-musk-4/",
@@ -1292,7 +1308,7 @@
    "quotes": [
     {
      "text": "I think it would be wise for us to have at least an objective third party who can be like a referee",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "url": "https://lexfridman.com/elon-musk-4-transcript/",
      "timestamp": "01:16:42",
      "transcript_kind": "official",
@@ -1309,7 +1325,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #49: Elon Musk – Neuralink, AI, Autopilot, and the Pale Blue Dot",
+     "title": "Lex Fridman Podcast #49: Elon Musk \u2013 Neuralink, AI, Autopilot, and the Pale Blue Dot",
      "outlet": "Lex Fridman Podcast",
      "date": "2019-11-12",
      "url": "https://www.youtube.com/watch?v=smK9dgdTl40",
@@ -1319,7 +1335,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "title": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2023-11-09",
      "url": "https://lexfridman.com/elon-musk-4/",
@@ -1353,7 +1369,7 @@
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #49: Elon Musk – Neuralink, AI, Autopilot, and the Pale Blue Dot",
+     "source": "Lex Fridman Podcast #49: Elon Musk \u2013 Neuralink, AI, Autopilot, and the Pale Blue Dot",
      "type": "clarification"
     },
     {
@@ -1514,7 +1530,7 @@
    "tags": [
     "bci"
    ],
-   "answer_summary": "Short term: helping individuals with brain and spinal injuries. Long term: addressing the civilizational risk of AI by bringing digital and biological intelligence closer together — widening the 'tiny straw' of communication bandwidth.",
+   "answer_summary": "Short term: helping individuals with brain and spinal injuries. Long term: addressing the civilizational risk of AI by bringing digital and biological intelligence closer together \u2014 widening the 'tiny straw' of communication bandwidth.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -1538,7 +1554,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Lex Fridman Podcast #49: Elon Musk – Neuralink, AI, Autopilot, and the Pale Blue Dot",
+     "title": "Lex Fridman Podcast #49: Elon Musk \u2013 Neuralink, AI, Autopilot, and the Pale Blue Dot",
      "outlet": "Lex Fridman Podcast",
      "date": "2019-11-12",
      "url": "https://www.youtube.com/watch?v=smK9dgdTl40",
@@ -1548,7 +1564,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Lex Fridman Podcast #438: Elon Musk – Neuralink and the Future of Humanity",
+     "title": "Lex Fridman Podcast #438: Elon Musk \u2013 Neuralink and the Future of Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2024-08-02",
      "url": "https://lexfridman.com/elon-musk-and-neuralink-team/",
@@ -1566,7 +1582,7 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "Lex Fridman Podcast #49: Elon Musk – Neuralink, AI, Autopilot, and the Pale Blue Dot",
+     "source": "Lex Fridman Podcast #49: Elon Musk \u2013 Neuralink, AI, Autopilot, and the Pale Blue Dot",
      "type": "addition"
     },
     {
@@ -1650,7 +1666,7 @@
    "quotes": [
     {
      "text": "free speech only matters if people you don't like are allowed to say things you don't like",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "url": "https://lexfridman.com/elon-musk-4-transcript/",
      "timestamp": null,
      "transcript_kind": "official",
@@ -1659,7 +1675,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "title": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2023-11-09",
      "url": "https://lexfridman.com/elon-musk-4/",
@@ -1669,7 +1685,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Joe Rogan Experience #2223 – Elon Musk",
+     "title": "Joe Rogan Experience #2223 \u2013 Elon Musk",
      "outlet": "The Joe Rogan Experience",
      "date": "2024-10-28",
      "url": "https://www.youtube.com/watch?v=7qZl_5xHoBw",
@@ -1693,7 +1709,7 @@
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "type": "clarification"
     }
    ]
@@ -1836,7 +1852,7 @@
    "quotes": [
     {
      "text": "i thought the self-driving problem would be hard but it's it was harder than i thought",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "url": "https://pickscribe.com/v/DxREm3s1scA",
      "timestamp": null,
      "transcript_kind": "auto-caption",
@@ -1861,7 +1877,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "title": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "outlet": "Lex Fridman Podcast",
      "date": "2021-12-28",
      "url": "https://lexfridman.com/elon-musk-3/",
@@ -1881,7 +1897,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Lex Fridman Podcast #18: Elon Musk – Tesla Autopilot",
+     "title": "Lex Fridman Podcast #18: Elon Musk \u2013 Tesla Autopilot",
      "outlet": "Lex Fridman Podcast",
      "date": "2019-04-12",
      "url": "https://www.youtube.com/watch?v=dEv99vxKjVI",
@@ -1909,13 +1925,13 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "Lex Fridman Podcast #18: Elon Musk – Tesla Autopilot",
+     "source": "Lex Fridman Podcast #18: Elon Musk \u2013 Tesla Autopilot",
      "type": "addition"
     },
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 2 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "type": "clarification"
     },
     {
@@ -1939,7 +1955,7 @@
    "quotes": [
     {
      "text": "The whole road system is meant to be navigated with passive optical, or cameras",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "url": "https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring/transcript",
      "timestamp": null,
      "transcript_kind": "official",
@@ -1947,7 +1963,7 @@
     },
     {
      "text": "humans are photons in, controls out",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "url": "https://lexfridman.com/elon-musk-4-transcript/",
      "timestamp": "02:04",
      "transcript_kind": "official",
@@ -1956,7 +1972,7 @@
    ],
    "sources": [
     {
-     "title": "The future we're building — and boring (TED2017)",
+     "title": "The future we're building \u2014 and boring (TED2017)",
      "outlet": "TED",
      "date": "2017-04-28",
      "url": "https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring",
@@ -1966,7 +1982,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "title": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "outlet": "Lex Fridman Podcast",
      "date": "2021-12-28",
      "url": "https://lexfridman.com/elon-musk-3/",
@@ -1976,7 +1992,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "title": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2023-11-09",
      "url": "https://lexfridman.com/elon-musk-4/",
@@ -1994,13 +2010,13 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "Lex Fridman Podcast #18: Elon Musk – Tesla Autopilot",
+     "source": "Lex Fridman Podcast #18: Elon Musk \u2013 Tesla Autopilot",
      "type": "addition"
     },
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 2 verbatim quote(s) added.",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "type": "clarification"
     }
    ]
@@ -2013,7 +2029,7 @@
     "robotaxi",
     "cybercab"
    ],
-   "answer_summary": "At We, Robot (Oct 2024) he unveiled the Cybercab, arguing cars are used only ~10 of 168 hours a week so autonomy would greatly raise utility; on earnings calls he has said idle robotaxi fleets could also provide distributed compute. At X Takeover 2026 he said Cybercab/Robotaxi rollout is paced to avoid any injury or death that would become worldwide headlines and invite shutdown; they also prioritize not running over pets (including hard night-time kitten cases he said they solved) and scrubbing risky intersections and railroad crossings before entering new cities. At the 15 Oct 2026 Roadster unveil he said long-term it will be the only manually driven car Tesla makes — positioning Cybercab/robotaxi as the default product direction while the Roadster is the halo exception taken 'to the limits'. On Tesla's Q3 2026 call (21 Oct) he said fully autonomous miles are growing extremely fast week over week and the Austin Cybercab fleet has grown by a factor of 10 since launch about a month earlier. He said Cybercab will mostly be Tesla-owned and offered as transport as a service, while cars like the 3, Y and Roadster are the ones people own, and predicted that unless governments stop it to protect domestic industry, Tesla will do a majority of all passenger miles on Earth wherever it can operate freely.",
+   "answer_summary": "At We, Robot (Oct 2024) he unveiled the Cybercab, arguing cars are used only ~10 of 168 hours a week so autonomy would greatly raise utility; on earnings calls he has said idle robotaxi fleets could also provide distributed compute. At X Takeover 2026 he said Cybercab/Robotaxi rollout is paced to avoid any injury or death that would become worldwide headlines and invite shutdown; they also prioritize not running over pets (including hard night-time kitten cases he said they solved) and scrubbing risky intersections and railroad crossings before entering new cities. At the 15 Oct 2026 Roadster unveil he said long-term it will be the only manually driven car Tesla makes \u2014 positioning Cybercab/robotaxi as the default product direction while the Roadster is the halo exception taken 'to the limits'. On Tesla's Q3 2026 call (21 Oct) he said fully autonomous miles are growing extremely fast week over week and the Austin Cybercab fleet has grown by a factor of 10 since launch about a month earlier. He said Cybercab will mostly be Tesla-owned and offered as transport as a service, while cars like the 3, Y and Roadster are the ones people own, and predicted that unless governments stop it to protect domestic industry, Tesla will do a majority of all passenger miles on Earth wherever it can operate freely.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -2041,7 +2057,7 @@
      "verified_on": "2026-10-13"
     },
     {
-     "text": "This will actually be long term the only manually driven car that Tesla makes… So if it's going to be the only manually driven car, let's take it to the limits and beyond the limits.",
+     "text": "This will actually be long term the only manually driven car that Tesla makes\u2026 So if it's going to be the only manually driven car, let's take it to the limits and beyond the limits.",
      "source": "Tesla Roadster unveil, McGregor TX (quoted by Motor1)",
      "url": "https://www.motor1.com/news/812153/tesla-roadster-last-manually-driven-model/",
      "timestamp": null,
@@ -2162,7 +2178,7 @@
     "optimus",
     "robotics"
    ],
-   "answer_summary": "He says Optimus has the potential to far exceed the value of the rest of Tesla combined, and that humanoid robots will lead to a world of abundance where goods and services are extremely cheap. At X Takeover 2026 he said Optimus hands and fine motor skills are shockingly hard (precision plus force, durable touch sensors, no biological self-repair), warned that many impressive robot demos are canned routines not real AI, and said a China magnet-export ban set the program back about two or three months — so domestic supply-chain independence is required; volume production will come, but the start of the S-curve is slow. In October 2026 he told Isaacson physical-world AI matters far more: intelligence without the ability to manipulate objects (like dolphins and whales) is worth much less, digital superintelligence alone might add roughly 30% to world output, but robots plus space could grow the economy enormously. On Tesla's Q3 2026 call (21 Oct) he said early production has started on the high-volume Optimus line in Fremont, where most of a million-unit-per-year line has landed, but it will take at least a year, maybe longer, to reach that rate because parts of the design are still changing; he expects the AI, electromechanical design and durability to be solved around the end of 2027, which is when Tesla would start delivering Optimus to outside companies, first for dangerous, repetitive, round-the-clock industrial work and later for homes. He said the hand, especially the fingers, is the hardest remaining hardware problem, that Optimus has no car-style data fleet so Tesla needs on the order of 10,000 to 20,000 bots doing self-play in an 'Optimus Academy', that the AI5 chip (about an order of magnitude more compute than AI4) should go into Optimus around April 2027, and that a non-pre-programmed demo video may come in a month or two. He called its usefulness roughly dexterity times AI software times chip hardware, with Optimus robots eventually building Optimus robots, and repeated that humanoid robots will be the biggest product on Earth.",
+   "answer_summary": "He says Optimus has the potential to far exceed the value of the rest of Tesla combined, and that humanoid robots will lead to a world of abundance where goods and services are extremely cheap. At X Takeover 2026 he said Optimus hands and fine motor skills are shockingly hard (precision plus force, durable touch sensors, no biological self-repair), warned that many impressive robot demos are canned routines not real AI, and said a China magnet-export ban set the program back about two or three months \u2014 so domestic supply-chain independence is required; volume production will come, but the start of the S-curve is slow. In October 2026 he told Isaacson physical-world AI matters far more: intelligence without the ability to manipulate objects (like dolphins and whales) is worth much less, digital superintelligence alone might add roughly 30% to world output, but robots plus space could grow the economy enormously. On Tesla's Q3 2026 call (21 Oct) he said early production has started on the high-volume Optimus line in Fremont, where most of a million-unit-per-year line has landed, but it will take at least a year, maybe longer, to reach that rate because parts of the design are still changing; he expects the AI, electromechanical design and durability to be solved around the end of 2027, which is when Tesla would start delivering Optimus to outside companies, first for dangerous, repetitive, round-the-clock industrial work and later for homes. He said the hand, especially the fingers, is the hardest remaining hardware problem, that Optimus has no car-style data fleet so Tesla needs on the order of 10,000 to 20,000 bots doing self-play in an 'Optimus Academy', that the AI5 chip (about an order of magnitude more compute than AI4) should go into Optimus around April 2027, and that a non-pre-programmed demo video may come in a month or two. He called its usefulness roughly dexterity times AI software times chip hardware, with Optimus robots eventually building Optimus robots, and repeated that humanoid robots will be the biggest product on Earth.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -2260,7 +2276,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "title": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "outlet": "Lex Fridman Podcast",
      "date": "2021-12-28",
      "url": "https://lexfridman.com/elon-musk-3/",
@@ -2319,7 +2335,7 @@
     },
     {
      "date": "2026-10-13",
-     "summary": "X Takeover 2026: hands/fine motor skills 'shockingly difficult' (precision + force, touch sensors, wear vs biological self-repair); many rival demos are canned not real AI; China magnet export ban set Optimus back ~2–3 months — need domestic parts supply chain; high volume later but slow start of S-curve.",
+     "summary": "X Takeover 2026: hands/fine motor skills 'shockingly difficult' (precision + force, touch sensors, wear vs biological self-repair); many rival demos are canned not real AI; China magnet export ban set Optimus back ~2\u20133 months \u2014 need domestic parts supply chain; high volume later but slow start of S-curve.",
      "source": "Elon Musk: What Comes Next for Humanity (X Takeover 2026 at Giga Texas)",
      "type": "addition"
     },
@@ -2349,7 +2365,7 @@
    "quotes": [
     {
      "text": "tesla's primary mission direction of accelerating sustainable energy",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "url": "https://pickscribe.com/v/DxREm3s1scA",
      "timestamp": null,
      "transcript_kind": "auto-caption",
@@ -2357,7 +2373,7 @@
     },
     {
      "text": "we're basically trying to solve sustainable energy and Autonomy",
-     "source": "Joe Rogan Experience #2223 – Elon Musk",
+     "source": "Joe Rogan Experience #2223 \u2013 Elon Musk",
      "url": "https://pickscribe.com/v/7qZl_5xHoBw",
      "timestamp": null,
      "transcript_kind": "auto-caption",
@@ -2366,7 +2382,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "title": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "outlet": "Lex Fridman Podcast",
      "date": "2021-12-28",
      "url": "https://lexfridman.com/elon-musk-3/",
@@ -2376,7 +2392,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Joe Rogan Experience #2223 – Elon Musk",
+     "title": "Joe Rogan Experience #2223 \u2013 Elon Musk",
      "outlet": "The Joe Rogan Experience",
      "date": "2024-10-28",
      "url": "https://www.youtube.com/watch?v=7qZl_5xHoBw",
@@ -2400,7 +2416,7 @@
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 2 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "type": "clarification"
     }
    ]
@@ -2413,7 +2429,7 @@
     "valuation",
     "ai"
    ],
-   "answer_summary": "On the Q4 2023 call he said people should think of Tesla as an AI robotics company rather than a car company. The 15 Oct 2026 Roadster unveil still showcased a human-driven halo sports car (Tesla×SpaceX thrusters/suction), but he cast it as the last/long-term-only manually driven Tesla — consistent with framing the company's future around autonomy and robotics rather than traditional carmaking. On 18 Oct 2026 he wrote on X that Optimus and Cybercab 'will be the vast majority of Tesla's value', and that the only things that will scale economically to Kardashev-II size and beyond are superintelligence, robots, solar power and mass to space, adding that if you have the first two, the rest will follow.",
+   "answer_summary": "On the Q4 2023 call he said people should think of Tesla as an AI robotics company rather than a car company. The 15 Oct 2026 Roadster unveil still showcased a human-driven halo sports car (Tesla\u00d7SpaceX thrusters/suction), but he cast it as the last/long-term-only manually driven Tesla \u2014 consistent with framing the company's future around autonomy and robotics rather than traditional carmaking. On 18 Oct 2026 he wrote on X that Optimus and Cybercab 'will be the vast majority of Tesla's value', and that the only things that will scale economically to Kardashev-II size and beyond are superintelligence, robots, solar power and mass to space, adding that if you have the first two, the rest will follow.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -2425,7 +2441,7 @@
      "verified_on": "2026-10-12"
     },
     {
-     "text": "Optimus and Cybercab will be the vast majority of Tesla’s value.",
+     "text": "Optimus and Cybercab will be the vast majority of Tesla\u2019s value.",
      "source": "Elon Musk on X (reply to @Teslaconomics, 18 Oct 2026)",
      "url": "https://x.com/elonmusk/status/2111683964721037767",
      "timestamp": null,
@@ -2519,7 +2535,7 @@
    "quotes": [],
    "sources": [
     {
-     "title": "Elon Musk talks Twitter, Tesla and how his brain works — live at TED2022",
+     "title": "Elon Musk talks Twitter, Tesla and how his brain works \u2014 live at TED2022",
      "outlet": "TED",
      "date": "2022-04-14",
      "url": "https://www.ted.com/talks/elon_musk_elon_musk_talks_twitter_tesla_and_how_his_brain_works_live_at_ted2022",
@@ -2537,7 +2553,7 @@
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; replaced 'production hell' (unverified); 0 verbatim quote(s) added.",
-     "source": "Elon Musk talks Twitter, Tesla and how his brain works — live at TED2022",
+     "source": "Elon Musk talks Twitter, Tesla and how his brain works \u2014 live at TED2022",
      "type": "addition"
     }
    ]
@@ -2554,7 +2570,7 @@
    "quotes": [
     {
      "text": "i've often said prototypes are are easy production is hard",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "url": "https://pickscribe.com/v/DxREm3s1scA",
      "timestamp": null,
      "transcript_kind": "auto-caption",
@@ -2587,7 +2603,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "title": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "outlet": "Lex Fridman Podcast",
      "date": "2021-12-28",
      "url": "https://lexfridman.com/elon-musk-3/",
@@ -2625,18 +2641,18 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "type": "addition"
     },
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "type": "clarification"
     },
     {
      "date": "2026-10-13",
-     "summary": "X Takeover 2026: retold Model 3 'tent in the parking lot' general-assembly choke point — used incline so underpowered line could move cars, ~30% production increase in three weeks; also argued chip fabs lack custom equipment Tesla uses to improve process.",
+     "summary": "X Takeover 2026: retold Model 3 'tent in the parking lot' general-assembly choke point \u2014 used incline so underpowered line could move cars, ~30% production increase in three weeks; also argued chip fabs lack custom equipment Tesla uses to improve process.",
      "source": "Elon Musk: What Comes Next for Humanity (X Takeover 2026 at Giga Texas)",
      "type": "addition"
     },
@@ -2662,7 +2678,7 @@
    "quotes": [
     {
      "text": "utility scale battery packs with the mega pack um home battery packs with power wall get solar",
-     "source": "Joe Rogan Experience #2223 – Elon Musk",
+     "source": "Joe Rogan Experience #2223 \u2013 Elon Musk",
      "url": "https://pickscribe.com/v/7qZl_5xHoBw",
      "timestamp": null,
      "transcript_kind": "auto-caption",
@@ -2679,7 +2695,7 @@
    ],
    "sources": [
     {
-     "title": "The future we're building — and boring (TED2017)",
+     "title": "The future we're building \u2014 and boring (TED2017)",
      "outlet": "TED",
      "date": "2017-04-28",
      "url": "https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring",
@@ -2689,7 +2705,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Joe Rogan Experience #2223 – Elon Musk",
+     "title": "Joe Rogan Experience #2223 \u2013 Elon Musk",
      "outlet": "The Joe Rogan Experience",
      "date": "2024-10-28",
      "url": "https://www.youtube.com/watch?v=7qZl_5xHoBw",
@@ -2707,23 +2723,33 @@
      "transcript_kind": "third-party (Quartr)",
      "covers_question": true,
      "checked": "2026-10-22"
+    },
+    {
+     "title": "Elon Musk on X: reply to Joe Hansen on Megapacks",
+     "outlet": "X (@elonmusk)",
+     "date": "2026-10-22",
+     "url": "https://x.com/elonmusk/status/2113333017078882694",
+     "transcript_url": null,
+     "transcript_kind": "post",
+     "covers_question": true,
+     "checked": "2026-10-23"
     }
    ],
    "frequency": 3,
    "first_asked": "2017-04-28",
-   "last_updated": "2026-10-22",
+   "last_updated": "2026-10-23",
    "verification": "verified",
    "updates": [
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "type": "addition"
     },
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "type": "clarification"
     },
     {
@@ -2731,6 +2757,12 @@
      "summary": "Tesla Q3 2026 call: Megapacks almost sold out for 2027; Megapod still early.",
      "source": "Tesla Q3 2026 earnings call",
      "type": "addition"
+    },
+    {
+     "date": "2026-10-23",
+     "summary": "Musk reiterated on X (22 Oct 2026), replying to a post about Megapacks being almost sold out for 2027: 'We are increasing production of Megapacks as much as possible.' Consistent with the Q3 call; no frequency bump.",
+     "source": "Elon Musk on X (22 Oct 2026)",
+     "type": "clarification"
     }
    ]
   },
@@ -2746,7 +2778,7 @@
    "quotes": [
     {
      "text": "I've used the meetings I've had thus far to argue in favor of immigration and in favor of climate change.",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "url": "https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring/transcript",
      "timestamp": null,
      "transcript_kind": "official",
@@ -2755,7 +2787,7 @@
    ],
    "sources": [
     {
-     "title": "The future we're building — and boring (TED2017)",
+     "title": "The future we're building \u2014 and boring (TED2017)",
      "outlet": "TED",
      "date": "2017-04-28",
      "url": "https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring",
@@ -2773,13 +2805,13 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "type": "addition"
     },
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; summary corrected: removed unsupported 'against alarmism' claim; 1 verbatim quote(s) added.",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "type": "clarification"
     }
    ]
@@ -2797,7 +2829,7 @@
    "quotes": [
     {
      "text": "So as soon as any given civilization reaches a level of prosperity, the birth rate drops.",
-     "source": "Lex Fridman Podcast #438: Elon Musk – Neuralink and the Future of Humanity",
+     "source": "Lex Fridman Podcast #438: Elon Musk \u2013 Neuralink and the Future of Humanity",
      "url": "https://lexfridman.com/elon-musk-and-neuralink-team-transcript/",
      "timestamp": "01:11",
      "transcript_kind": "official",
@@ -2806,7 +2838,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #438: Elon Musk – Neuralink and the Future of Humanity",
+     "title": "Lex Fridman Podcast #438: Elon Musk \u2013 Neuralink and the Future of Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2024-08-02",
      "url": "https://lexfridman.com/elon-musk-and-neuralink-team/",
@@ -2830,7 +2862,7 @@
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #438: Elon Musk – Neuralink and the Future of Humanity",
+     "source": "Lex Fridman Podcast #438: Elon Musk \u2013 Neuralink and the Future of Humanity",
      "type": "clarification"
     }
    ]
@@ -2847,7 +2879,7 @@
    "quotes": [
     {
      "text": "I would be probably left of center on social issues, probably a little bit right of center on economic issues.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "url": "https://lexfridman.com/elon-musk-4-transcript/",
      "timestamp": "01:56:30",
      "transcript_kind": "official",
@@ -2856,7 +2888,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "title": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2023-11-09",
      "url": "https://lexfridman.com/elon-musk-4/",
@@ -2866,7 +2898,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Joe Rogan Experience #2223 – Elon Musk",
+     "title": "Joe Rogan Experience #2223 \u2013 Elon Musk",
      "outlet": "The Joe Rogan Experience",
      "date": "2024-10-28",
      "url": "https://www.youtube.com/watch?v=7qZl_5xHoBw",
@@ -2884,13 +2916,13 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "type": "addition"
     },
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "type": "clarification"
     }
    ]
@@ -2951,7 +2983,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Joe Rogan Experience #2223 – Elon Musk",
+     "title": "Joe Rogan Experience #2223 \u2013 Elon Musk",
      "outlet": "The Joe Rogan Experience",
      "date": "2024-10-28",
      "url": "https://www.youtube.com/watch?v=7qZl_5xHoBw",
@@ -3164,7 +3196,7 @@
    ],
    "sources": [
     {
-     "title": "The future we're building — and boring (TED2017)",
+     "title": "The future we're building \u2014 and boring (TED2017)",
      "outlet": "TED",
      "date": "2017-04-28",
      "url": "https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring",
@@ -3208,7 +3240,7 @@
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "type": "clarification"
     },
     {
@@ -3232,7 +3264,7 @@
    "quotes": [
     {
      "text": "I guess if you consider fighting the woke mind virus, which I consider to be a civilizational threat, to be political, then yes.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "url": "https://lexfridman.com/elon-musk-4-transcript/",
      "timestamp": "01:55:14",
      "transcript_kind": "official",
@@ -3240,7 +3272,7 @@
     },
     {
      "text": "Woke mind virus is communism rebranded.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "url": "https://lexfridman.com/elon-musk-4-transcript/",
      "timestamp": "01:55:26",
      "transcript_kind": "official",
@@ -3249,7 +3281,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "title": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2023-11-09",
      "url": "https://lexfridman.com/elon-musk-4/",
@@ -3277,13 +3309,13 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "type": "addition"
     },
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 2 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "type": "clarification"
     }
    ]
@@ -3352,7 +3384,7 @@
    "quotes": [
     {
      "text": "Sometimes, but my kids and friends keep me company.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "url": "https://lexfridman.com/elon-musk-4-transcript/",
      "timestamp": "02:13:24",
      "transcript_kind": "official",
@@ -3361,7 +3393,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "title": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2023-11-09",
      "url": "https://lexfridman.com/elon-musk-4/",
@@ -3389,13 +3421,13 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "type": "addition"
     },
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "type": "clarification"
     }
    ]
@@ -3413,7 +3445,7 @@
    "quotes": [
     {
      "text": "What is forgiveness?",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "url": "https://lexfridman.com/elon-musk-4-transcript/",
      "timestamp": "02:14:01",
      "transcript_kind": "official",
@@ -3430,7 +3462,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "title": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2023-11-09",
      "url": "https://lexfridman.com/elon-musk-4/",
@@ -3440,7 +3472,7 @@
      "checked": "2026-10-12"
     },
     {
-     "title": "Joe Rogan Experience #2223 – Elon Musk",
+     "title": "Joe Rogan Experience #2223 \u2013 Elon Musk",
      "outlet": "The Joe Rogan Experience",
      "date": "2024-10-28",
      "url": "https://www.youtube.com/watch?v=7qZl_5xHoBw",
@@ -3468,13 +3500,13 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "Joe Rogan Experience #1169 – Elon Musk",
+     "source": "Joe Rogan Experience #1169 \u2013 Elon Musk",
      "type": "addition"
     },
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "type": "clarification"
     },
     {
@@ -3557,7 +3589,7 @@
    "quotes": [
     {
      "text": "my mind is a storm and I don't think most people would want to be me",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "url": "https://lexfridman.com/elon-musk-4-transcript/",
      "timestamp": "02:12:38",
      "transcript_kind": "official",
@@ -3566,7 +3598,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "title": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2023-11-09",
      "url": "https://lexfridman.com/elon-musk-4/",
@@ -3600,7 +3632,7 @@
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "type": "clarification"
     }
    ]
@@ -3618,7 +3650,7 @@
    "quotes": [
     {
      "text": "We're trying to dig a hole under LA, and this is to create the beginning of what will hopefully be a 3D network of tunnels to alleviate congestion.",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "url": "https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring/transcript",
      "timestamp": null,
      "transcript_kind": "official",
@@ -3626,7 +3658,7 @@
     },
     {
      "text": "one of the most soul-destroying things is traffic",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "url": "https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring/transcript",
      "timestamp": null,
      "transcript_kind": "official",
@@ -3643,7 +3675,7 @@
    ],
    "sources": [
     {
-     "title": "The future we're building — and boring (TED2017)",
+     "title": "The future we're building \u2014 and boring (TED2017)",
      "outlet": "TED",
      "date": "2017-04-28",
      "url": "https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring",
@@ -3671,13 +3703,13 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "type": "addition"
     },
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 2 verbatim quote(s) added.",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "type": "clarification"
     },
     {
@@ -3725,7 +3757,7 @@
    ],
    "sources": [
     {
-     "title": "Joe Rogan Experience #2223 – Elon Musk",
+     "title": "Joe Rogan Experience #2223 \u2013 Elon Musk",
      "outlet": "The Joe Rogan Experience",
      "date": "2024-10-28",
      "url": "https://www.youtube.com/watch?v=7qZl_5xHoBw",
@@ -3783,13 +3815,13 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "source": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "type": "addition"
     },
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 0 verbatim quote(s) added.",
-     "source": "Joe Rogan Experience #2223 – Elon Musk",
+     "source": "Joe Rogan Experience #2223 \u2013 Elon Musk",
      "type": "clarification"
     },
     {
@@ -3819,7 +3851,7 @@
    "quotes": [
     {
      "text": "something very close to the current lines will be how a ceasefire or truce happens",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "url": "https://lexfridman.com/elon-musk-4-transcript/",
      "timestamp": "00:15:08",
      "transcript_kind": "official",
@@ -3827,7 +3859,7 @@
     },
     {
      "text": "Time for Zelensky to go",
-     "source": "Elon Musk on X: 'And so the slaughter continues … Time for Zelensky to go'",
+     "source": "Elon Musk on X: 'And so the slaughter continues \u2026 Time for Zelensky to go'",
      "url": "https://x.com/elonmusk/status/2110557192650641827",
      "timestamp": null,
      "transcript_kind": "official (primary X post)",
@@ -3844,7 +3876,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "title": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2023-11-09",
      "url": "https://lexfridman.com/elon-musk-4/",
@@ -3864,7 +3896,7 @@
      "checked": "2026-10-15"
     },
     {
-     "title": "Elon Musk on X: 'And so the slaughter continues … Time for Zelensky to go'",
+     "title": "Elon Musk on X: 'And so the slaughter continues \u2026 Time for Zelensky to go'",
      "outlet": "X (@elonmusk)",
      "date": "2026-10-15",
      "url": "https://x.com/elonmusk/status/2110557192650641827",
@@ -3892,7 +3924,7 @@
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; reframed from unverified Starlink/Crimea claim; 1 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "type": "addition"
     },
     {
@@ -3911,12 +3943,12 @@
     "china",
     "taiwan"
    ],
-   "answer_summary": "Asked about Taiwan and US–China conflict, he pointed to the 'Thucydides Trap' and his reading of war history.",
+   "answer_summary": "Asked about Taiwan and US\u2013China conflict, he pointed to the 'Thucydides Trap' and his reading of war history.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
      "text": "it's worth reading that book on the, difficult to pronounce, the Thucydides Trap",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "url": "https://lexfridman.com/elon-musk-4-transcript/",
      "timestamp": "00:19:58",
      "transcript_kind": "official",
@@ -3925,7 +3957,7 @@
    ],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "title": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2023-11-09",
      "url": "https://lexfridman.com/elon-musk-4/",
@@ -3949,7 +3981,7 @@
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "type": "clarification"
     }
    ]
@@ -3967,7 +3999,7 @@
    "quotes": [
     {
      "text": "with Community notes the all the software is open source and all the data is open source",
-     "source": "Joe Rogan Experience #2223 – Elon Musk",
+     "source": "Joe Rogan Experience #2223 \u2013 Elon Musk",
      "url": "https://pickscribe.com/v/7qZl_5xHoBw",
      "timestamp": null,
      "transcript_kind": "auto-caption",
@@ -3976,7 +4008,7 @@
    ],
    "sources": [
     {
-     "title": "Joe Rogan Experience #2223 – Elon Musk",
+     "title": "Joe Rogan Experience #2223 \u2013 Elon Musk",
      "outlet": "The Joe Rogan Experience",
      "date": "2024-10-28",
      "url": "https://www.youtube.com/watch?v=7qZl_5xHoBw",
@@ -4004,7 +4036,7 @@
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; replaced 'succession' (unverified); 1 verbatim quote(s) added.",
-     "source": "Joe Rogan Experience #2223 – Elon Musk",
+     "source": "Joe Rogan Experience #2223 \u2013 Elon Musk",
      "type": "addition"
     }
    ]
@@ -4019,7 +4051,7 @@
     "manufacturing",
     "ai"
    ],
-   "answer_summary": "At X Takeover 2026 he said he still has 'no idea how to make chips' but will figure it out the way he did cars and rockets. He plans to start with conventional fab equipment, then customize it for higher wafer throughput — noting Tesla already builds specialized manufacturing gear while the chip fabs he toured did not. Goal: a fast on-site iteration loop at Giga Texas (fabricate, package, mask, test) aiming for something like 10 chip designs per year instead of ~2 years per significant design, taking high-risk/high-payoff transistor bets. He thinks they will eventually make chips 'better than anyone', though it 'might take us quite a few years'. On SpaceX's Q3 2026 call (20 Oct) he said the internal aim, with 'big error bars', is a first functional test chip around May or June 2027 at the Austin research fab and volume production around Q3 2028 at the main Terafab site at Gibbons Creek, ultimately making 'a terawatt of super intelligence chips per year'. On Tesla's Q3 2026 call (21 Oct) he repeated that the Austin research fab will begin commissioning machinery in the first half of 2027, aiming for a first test chip around May or June and a useful chip at volume around Q3 2028. He said Terafab will cost 'tens of billions' in capital equipment through early 2028 and probably more than $100 billion long term, with the Tesla and SpaceX split still to be worked out, and called it likely 'the most valuable building in the world', needed especially to scale Optimus.",
+   "answer_summary": "At X Takeover 2026 he said he still has 'no idea how to make chips' but will figure it out the way he did cars and rockets. He plans to start with conventional fab equipment, then customize it for higher wafer throughput \u2014 noting Tesla already builds specialized manufacturing gear while the chip fabs he toured did not. Goal: a fast on-site iteration loop at Giga Texas (fabricate, package, mask, test) aiming for something like 10 chip designs per year instead of ~2 years per significant design, taking high-risk/high-payoff transistor bets. He thinks they will eventually make chips 'better than anyone', though it 'might take us quite a few years'. On SpaceX's Q3 2026 call (20 Oct) he said the internal aim, with 'big error bars', is a first functional test chip around May or June 2027 at the Austin research fab and volume production around Q3 2028 at the main Terafab site at Gibbons Creek, ultimately making 'a terawatt of super intelligence chips per year'. On Tesla's Q3 2026 call (21 Oct) he repeated that the Austin research fab will begin commissioning machinery in the first half of 2027, aiming for a first test chip around May or June and a useful chip at volume around Q3 2028. He said Terafab will cost 'tens of billions' in capital equipment through early 2028 and probably more than $100 billion long term, with the Tesla and SpaceX split still to be worked out, and called it likely 'the most valuable building in the world', needed especially to scale Optimus.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -4252,11 +4284,11 @@
     "halo-car",
     "product-unveil"
    ],
-   "answer_summary": "At the 15 Oct 2026 unveil at SpaceX's McGregor, Texas test site, Musk framed the redesigned Roadster as a Tesla×SpaceX collaboration and 'the last best driver's car' — long-term the only manually driven Tesla, taken 'to the limits and beyond'. Demos used underbody suction fans (up to ~2 g extra grip; he joked it could 'suck the chrome off a trailer hitch') and SpaceX-style cold-gas thrusters so the car could drive upside down, hover, and flip/jump over other vehicles. Specs claimed: 0–60 mph in ~0.81 s (Thrust/Rocket trims faster), >230 mph with a goal to 'crack halfway to the speed of sound', ~300+ miles range. Three trims: Performance, Thrust (acceleration thrusters), and invite-only Rocket (full flight system). Production targeted for 2028; deposits $50k / $250k; no final price announced. He called it beyond movies/James Bond, warned success wasn't certain and it is 'not necessarily a safety optimized car', and later posted 'Turns out the future does have flying cars'. On 16-17 Oct he added on X that even without the thrusters the Roadster 'will crush the best Formula 1 track times' because it uses suction and active control surfaces (both banned in F1), and that he thinks it can reach a peak speed above 0.5 Mach, roughly 400 mph. On 17 Oct he posted that future demos would include flying over the Snake River or maybe the Grand Canyon, landing on its wheels, and exceeding half the speed of sound, and quipped that since fate maximizes for ironic entertainment it was inevitable the 'Roadster' would be a flying car. On 18 Oct he posted that the new Roadster 'accelerates faster than a fighter jet taking off from an aircraft carrier'. On Tesla's Q3 2026 call (21 Oct) he called the Roadster demo 'arguably the coolest demo of any product ever'.",
+   "answer_summary": "At the 15 Oct 2026 unveil at SpaceX's McGregor, Texas test site, Musk framed the redesigned Roadster as a Tesla\u00d7SpaceX collaboration and 'the last best driver's car' \u2014 long-term the only manually driven Tesla, taken 'to the limits and beyond'. Demos used underbody suction fans (up to ~2 g extra grip; he joked it could 'suck the chrome off a trailer hitch') and SpaceX-style cold-gas thrusters so the car could drive upside down, hover, and flip/jump over other vehicles. Specs claimed: 0\u201360 mph in ~0.81 s (Thrust/Rocket trims faster), >230 mph with a goal to 'crack halfway to the speed of sound', ~300+ miles range. Three trims: Performance, Thrust (acceleration thrusters), and invite-only Rocket (full flight system). Production targeted for 2028; deposits $50k / $250k; no final price announced. He called it beyond movies/James Bond, warned success wasn't certain and it is 'not necessarily a safety optimized car', and later posted 'Turns out the future does have flying cars'. On 16-17 Oct he added on X that even without the thrusters the Roadster 'will crush the best Formula 1 track times' because it uses suction and active control surfaces (both banned in F1), and that he thinks it can reach a peak speed above 0.5 Mach, roughly 400 mph. On 17 Oct he posted that future demos would include flying over the Snake River or maybe the Grand Canyon, landing on its wheels, and exceeding half the speed of sound, and quipped that since fate maximizes for ironic entertainment it was inevitable the 'Roadster' would be a flying car. On 18 Oct he posted that the new Roadster 'accelerates faster than a fighter jet taking off from an aircraft carrier'. On Tesla's Q3 2026 call (21 Oct) he called the Roadster demo 'arguably the coolest demo of any product ever'.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
-     "text": "This will actually be long term the only manually driven car that Tesla makes… So if it's going to be the only manually driven car, let's take it to the limits and beyond the limits.",
+     "text": "This will actually be long term the only manually driven car that Tesla makes\u2026 So if it's going to be the only manually driven car, let's take it to the limits and beyond the limits.",
      "source": "Tesla Roadster unveil, McGregor TX (quoted by Motor1)",
      "url": "https://www.motor1.com/news/812153/tesla-roadster-last-manually-driven-model/",
      "timestamp": null,
@@ -4320,7 +4352,7 @@
      "verified_on": "2026-10-18"
     },
     {
-     "text": "Since fate maximizes for ironic entertainment, it was inevitable that the “Roadster” would be a flying car",
+     "text": "Since fate maximizes for ironic entertainment, it was inevitable that the \u201cRoadster\u201d would be a flying car",
      "source": "Elon Musk on X",
      "url": "https://x.com/elonmusk/status/2111507692045148515",
      "timestamp": "2026-10-17T17:20:38Z",
@@ -4358,7 +4390,7 @@
      "checked": "2026-10-16"
     },
     {
-     "title": "Elon Musk on X (reply to Tobi Lütke): Roadster vs Formula 1 track times",
+     "title": "Elon Musk on X (reply to Tobi L\u00fctke): Roadster vs Formula 1 track times",
      "outlet": "X / Elon Musk",
      "date": "2026-10-16",
      "url": "https://x.com/elonmusk/status/2111159145650860395",
@@ -4388,7 +4420,7 @@
      "checked": "2026-10-18"
     },
     {
-     "title": "Elon Musk on X: 'the “Roadster” would be a flying car'",
+     "title": "Elon Musk on X: 'the \u201cRoadster\u201d would be a flying car'",
      "outlet": "X / Elon Musk",
      "date": "2026-10-17",
      "url": "https://x.com/elonmusk/status/2111507692045148515",
@@ -4432,7 +4464,7 @@
     {
      "date": "2026-10-17",
      "summary": "Added Musk's 16-17 Oct 2026 X statements: Roadster would beat F1 track times even without thrusters thanks to suction and active aero (banned in F1), and a targeted peak speed above 0.5 Mach (~400 mph), up from the 'crack halfway to the speed of sound' goal at the unveil. X statements, not interview answers; frequency unchanged.",
-     "source": "Elon Musk on X (replies to Tobi Lütke and Jesse Watters)",
+     "source": "Elon Musk on X (replies to Tobi L\u00fctke and Jesse Watters)",
      "type": "addition"
     },
     {
@@ -4459,7 +4491,7 @@
  "archive": [
   {
    "id": "q021",
-   "question": "What is X becoming — the 'everything app'?",
+   "question": "What is X becoming \u2014 the 'everything app'?",
    "category": "X / Twitter",
    "tags": [
     "everything-app",
@@ -4512,21 +4544,21 @@
    "quotes": [],
    "sources": [
     {
-     "title": "The future we're building — and boring (TED2017)",
+     "title": "The future we're building \u2014 and boring (TED2017)",
      "outlet": "TED",
      "date": "2017-04-28",
      "url": "https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring",
      "type": "primary"
     },
     {
-     "title": "Joe Rogan Experience #1169 – Elon Musk",
+     "title": "Joe Rogan Experience #1169 \u2013 Elon Musk",
      "outlet": "The Joe Rogan Experience",
      "date": "2018-09-06",
      "url": "https://www.youtube.com/watch?v=ycPr5-27vSI",
      "type": "primary"
     },
     {
-     "title": "Lex Fridman Podcast #252: Elon Musk – SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
+     "title": "Lex Fridman Podcast #252: Elon Musk \u2013 SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
      "outlet": "Lex Fridman Podcast",
      "date": "2021-12-28",
      "url": "https://lexfridman.com/elon-musk-3/",
@@ -4541,7 +4573,7 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "type": "addition"
     }
    ],
@@ -4562,7 +4594,7 @@
    "quotes": [],
    "sources": [
     {
-     "title": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "title": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "outlet": "Lex Fridman Podcast",
      "date": "2023-11-09",
      "url": "https://lexfridman.com/elon-musk-4/",
@@ -4584,7 +4616,7 @@
     {
      "date": "2026-10-12",
      "summary": "Initial entry compiled for Elonepedia v1.",
-     "source": "Lex Fridman Podcast #400: Elon Musk – War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
+     "source": "Lex Fridman Podcast #400: Elon Musk \u2013 War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
      "type": "addition"
     }
    ],
@@ -4644,7 +4676,7 @@
    "quotes": [
     {
      "text": "we've been sort of puttering around with the Hyperloop stuff for a while",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "url": "https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring/transcript",
      "timestamp": null,
      "transcript_kind": "official",
@@ -4653,7 +4685,7 @@
    ],
    "sources": [
     {
-     "title": "The future we're building — and boring (TED2017)",
+     "title": "The future we're building \u2014 and boring (TED2017)",
      "outlet": "TED",
      "date": "2017-04-28",
      "url": "https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring",
@@ -4677,7 +4709,7 @@
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-     "source": "The future we're building — and boring (TED2017)",
+     "source": "The future we're building \u2014 and boring (TED2017)",
      "type": "clarification"
     }
    ],
@@ -4749,7 +4781,7 @@
    "quotes": [
     {
      "text": "i think possessions kind of weigh you down Then they're kind of an attack vector",
-     "source": "Joe Rogan Experience #1470 – Elon Musk",
+     "source": "Joe Rogan Experience #1470 \u2013 Elon Musk",
      "url": "https://pickscribe.com/v/RcYjXbSJBN8",
      "timestamp": null,
      "transcript_kind": "auto-caption",
@@ -4758,7 +4790,7 @@
    ],
    "sources": [
     {
-     "title": "Joe Rogan Experience #1470 – Elon Musk",
+     "title": "Joe Rogan Experience #1470 \u2013 Elon Musk",
      "outlet": "The Joe Rogan Experience",
      "date": "2020-05-07",
      "url": "https://www.youtube.com/watch?v=RcYjXbSJBN8",
@@ -4782,7 +4814,7 @@
     {
      "date": "2026-10-12",
      "summary": "Verification pass: sources re-checked against fetched transcripts/articles; answer aligned to sources; 1 verbatim quote(s) added.",
-     "source": "Joe Rogan Experience #1470 – Elon Musk",
+     "source": "Joe Rogan Experience #1470 \u2013 Elon Musk",
      "type": "clarification"
     }
    ],
