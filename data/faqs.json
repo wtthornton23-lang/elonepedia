@@ -1,7 +1,7 @@
 {
  "title": "Elonepedia",
  "version": "1.1",
- "last_updated": "2026-10-23T07:30:00+01:00",
+ "last_updated": "2026-10-24T07:45:00+01:00",
  "faqs": [
   {
    "id": "q001",
@@ -3846,7 +3846,7 @@
     "ukraine",
     "geopolitics"
    ],
-   "answer_summary": "He told Lex Fridman (Nov 2023) he expects a ceasefire close to current lines, since whoever goes on the offensive suffers far higher casualties against defence in depth. In Oct 2026, amid a dispute over speed limits on Ukraine's military Starshield links, he said on X that those limits are decided by the US military and ultimately the president, not SpaceX; responding to a post claiming Zelensky would not end the war until Russia was defeated, he wrote \"And so the slaughter continues\" and \"Time for Zelensky to go\" (the BBC notes he has made similar comments before).",
+   "answer_summary": "He told Lex Fridman (Nov 2023) he expects a ceasefire close to current lines, since whoever goes on the offensive suffers far higher casualties against defence in depth. In Oct 2026, amid a dispute over speed limits on Ukraine's military Starshield links, he said on X that those limits are decided by the US military and ultimately the president, not SpaceX; responding to a post claiming Zelensky would not end the war until Russia was defeated, he wrote \"And so the slaughter continues\" and \"Time for Zelensky to go\" (the BBC notes he has made similar comments before). On 23 Oct 2026 he posted that there is \"a massive incentive difference between the elites and the people\" in Ukraine, with elites growing \"very rich off the hundreds of billions flowing to Ukraine\" while ordinary people's children are conscripted, and alleged without evidence that some US taxpayer aid \"comes back through multiple laundry machines to fund political campaigns in America\".",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -3872,6 +3872,14 @@
      "timestamp": null,
      "transcript_kind": "official (primary X post)",
      "verified_on": "2026-10-15"
+    },
+    {
+     "text": "The former have grown very rich off the hundreds of billions flowing to Ukraine, while the latter\u2019s children are conscripted to die in trenches.",
+     "source": "Elon Musk on X (23 Oct 2026)",
+     "url": "https://x.com/elonmusk/status/2113677835244044748",
+     "timestamp": "2026-10-23T17:04:00Z",
+     "transcript_kind": "post (text via X API)",
+     "verified_on": "2026-10-24"
     }
    ],
    "sources": [
@@ -3914,11 +3922,31 @@
      "transcript_kind": "article",
      "covers_question": true,
      "checked": "2026-10-15"
+    },
+    {
+     "title": "Elon Musk on X: Ukraine elites vs the people (23 Oct 2026)",
+     "outlet": "X (@elonmusk)",
+     "date": "2026-10-23",
+     "url": "https://x.com/elonmusk/status/2113677835244044748",
+     "transcript_url": null,
+     "transcript_kind": "post",
+     "covers_question": true,
+     "checked": "2026-10-24"
+    },
+    {
+     "title": "Elon Musk on X: claim that US aid to Ukraine funds US political campaigns (23 Oct 2026)",
+     "outlet": "X (@elonmusk)",
+     "date": "2026-10-23",
+     "url": "https://x.com/elonmusk/status/2113680243051438240",
+     "transcript_url": null,
+     "transcript_kind": "post",
+     "covers_question": true,
+     "checked": "2026-10-24"
     }
    ],
    "frequency": 1,
    "first_asked": "2023-11-09",
-   "last_updated": "2026-10-15",
+   "last_updated": "2026-10-24T07:45:00+01:00",
    "verification": "verified",
    "updates": [
     {
@@ -3931,6 +3959,12 @@
      "date": "2026-10-15",
      "summary": "Added Musk's 14-15 Oct 2026 X statements: Starshield limits in Ukraine are set by the US military/POTUS, and 'Time for Zelensky to go' in reply to a post about Zelensky not ending the war. Appended, not a position change (consistent with his earlier calls for a negotiated end). Statements on X, not interview answers; frequency unchanged.",
      "source": "Elon Musk on X replying to Mykhailo Fedorov about Starshield speed limits in Ukraine",
+     "type": "addition"
+    },
+    {
+     "date": "2026-10-24",
+     "summary": "Added Musk's 23 Oct 2026 X posts: Ukraine's elites profit from aid while ordinary people's children die in trenches, and an unsubstantiated claim that some US aid is laundered back into US political campaigns (Reuters/PolitiFact note no evidence). Posted as Zelensky said Starlink/Starshield speed limits remain. Appended, not a position change; X posts, not interview answers; frequency unchanged.",
+     "source": "Elon Musk on X (23 Oct 2026)",
      "type": "addition"
     }
    ]
@@ -4186,7 +4220,7 @@
     "merger",
     "corporate"
    ],
-   "answer_summary": "On SpaceX's Q3 2026 earnings call (20 Oct 2026), asked about the pros and cons of a combination, he said both companies have formed special committees of independent directors at shareholders' request to discuss it, and that as a conflicted party he can't take part. He thinks it would be a good idea, citing cooperation on superintelligence software, chip design and Terafab, robotics, mass to orbit and connectivity, but said a merger should not be assumed: the committees have not agreed terms and may not, and on the Tesla side it would need a vote of 50% of all shares, 'quite a high hurdle'. On Tesla's Q3 2026 call the next day he declined to add anything, saying he had said everything that should be said on the SpaceX call ('tap dancing through a minefield'), and Tesla took no merger questions.",
+   "answer_summary": "On SpaceX's Q3 2026 earnings call (20 Oct 2026), asked about the pros and cons of a combination, he said both companies have formed special committees of independent directors at shareholders' request to discuss it, and that as a conflicted party he can't take part. He thinks it would be a good idea, citing cooperation on superintelligence software, chip design and Terafab, robotics, mass to orbit and connectivity, but said a merger should not be assumed: the committees have not agreed terms and may not, and on the Tesla side it would need a vote of 50% of all shares, 'quite a high hurdle'. On Tesla's Q3 2026 call the next day he declined to add anything, saying he had said everything that should be said on the SpaceX call ('tap dancing through a minefield'), and Tesla took no merger questions. A SpaceX regulatory filing on 22 Oct 2026 added that any combination would also need approval from SpaceX's special committee, its board and its controlling shareholder (Musk), and that no determination has been made.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -4252,11 +4286,21 @@
      "transcript_kind": "third-party (Quartr)",
      "covers_question": true,
      "checked": "2026-10-22"
+    },
+    {
+     "title": "SpaceX: Potential Tesla merger needs Musk OK (Reuters)",
+     "outlet": "Reuters via The Manila Times",
+     "date": "2026-10-24",
+     "url": "https://www.manilatimes.net/2026/10/24/business/foreign-business/spacex-potential-tesla-merger-needs-musk-ok/2452787",
+     "transcript_url": null,
+     "transcript_kind": "article",
+     "covers_question": true,
+     "checked": "2026-10-24"
     }
    ],
    "frequency": 1,
    "first_asked": "2026-10-20",
-   "last_updated": "2026-10-22",
+   "last_updated": "2026-10-24T07:45:00+01:00",
    "verification": "verified",
    "updates": [
     {
@@ -4269,6 +4313,12 @@
      "date": "2026-10-22",
      "summary": "Tesla Q3 2026 call: Musk and Tesla declined further merger comment. No frequency bump (no answer given).",
      "source": "Tesla Q3 2026 earnings call",
+     "type": "clarification"
+    },
+    {
+     "date": "2026-10-24",
+     "summary": "Context from SpaceX's 22 Oct 2026 filing (reported by Reuters): a merger would need approval from SpaceX's special committee, board and controlling shareholder (Musk) despite his recusal from talks; no determination made. Company filing, not a Musk answer; frequency unchanged.",
+     "source": "Reuters (SpaceX regulatory filing)",
      "type": "clarification"
     }
    ]
