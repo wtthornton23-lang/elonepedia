@@ -1,7 +1,7 @@
 {
  "title": "Elonepedia",
  "version": "1.1",
- "last_updated": "2026-10-25T07:45:00+00:00",
+ "last_updated": "2026-10-26T07:40:00+00:00",
  "faqs": [
   {
    "id": "q001",
@@ -3727,7 +3727,7 @@
    "tags": [
     "starlink"
    ],
-   "answer_summary": "Discussed in passing (e.g. Starlink working on planes, a Starlink terminal factory in Bastrop). A substantive interview answer on Starlink's purpose has not yet been verified. In Oct 2026, responding on X to Ukraine's complaints about speed limits, he drew a line between Starlink, a commercial service SpaceX owns and controls and limits to civilian or defensive use, and Starshield, the military-grade sister system he says is owned and controlled by the US government, with any limits set by the US military and ultimately the president. On SpaceX's Q3 2026 call he said a single, roughly half-loaded Starship launch deployed 26 terabits per second of Starlink bandwidth (about 10 Falcon 9 launches) and that within about three years Starlink should have about 100x today's bandwidth with on the order of 100,000 satellites, driven by AI agents' demand for bandwidth. On 24 Oct 2026 he said on X that SpaceX had closed a \"loophole\" after Ukraine's military used commercial Starlink for offensive drone strikes, which has \"never been allowed, nor should it be\", while calling Starlink critical to Ukraine's defence because it \"cannot be jammed or blown up, at least for now\".",
+   "answer_summary": "Discussed in passing (e.g. Starlink working on planes, a Starlink terminal factory in Bastrop). A substantive interview answer on Starlink's purpose has not yet been verified. In Oct 2026, responding on X to Ukraine's complaints about speed limits, he drew a line between Starlink, a commercial service SpaceX owns and controls and limits to civilian or defensive use, and Starshield, the military-grade sister system he says is owned and controlled by the US government, with any limits set by the US military and ultimately the president. On SpaceX's Q3 2026 call he said a single, roughly half-loaded Starship launch deployed 26 terabits per second of Starlink bandwidth (about 10 Falcon 9 launches) and that within about three years Starlink should have about 100x today's bandwidth with on the order of 100,000 satellites, driven by AI agents' demand for bandwidth. On 24 Oct 2026 he said on X that SpaceX had closed a \"loophole\" after Ukraine's military used commercial Starlink for offensive drone strikes, which has \"never been allowed, nor should it be\", while calling Starlink critical to Ukraine's defence because it \"cannot be jammed or blown up, at least for now\". On 25 Oct 2026 he explained on X why Starlink must stay a civilian operation: it can carry military infrastructure but not \"unequivocally offensive strikes\" that would make it a legitimate target, because an adversary destroying Starlink satellites would set off a chain reaction of debris that could make space unusable.",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -3761,6 +3761,22 @@
      "timestamp": null,
      "transcript_kind": "official (primary X post; full text checked against AAP embed)",
      "verified_on": "2026-10-25"
+    },
+    {
+     "text": "It can be used for infrastructure that is military, but it cannot be used for unequivocally offensive strikes that make it fair game to be struck back.",
+     "source": "Elon Musk on X (25 Oct 2026): 'one of the main reasons that Starlink must remain a civilian operation'",
+     "url": "https://x.com/elonmusk/status/2114238688284520949",
+     "timestamp": null,
+     "transcript_kind": "official (primary X post; text read via X API)",
+     "verified_on": "2026-10-26"
+    },
+    {
+     "text": "An adversary blowing up Starlink satellites would create a domino effect of destruction that would generate a vast field of debris making space unusable.",
+     "source": "Elon Musk on X (25 Oct 2026): 'one of the main reasons that Starlink must remain a civilian operation'",
+     "url": "https://x.com/elonmusk/status/2114238688284520949",
+     "timestamp": null,
+     "transcript_kind": "official (primary X post; text read via X API)",
+     "verified_on": "2026-10-26"
     }
    ],
    "sources": [
@@ -3823,11 +3839,21 @@
      "transcript_kind": "official (primary X post)",
      "covers_question": true,
      "checked": "2026-10-25"
+    },
+    {
+     "title": "Elon Musk on X (25 Oct 2026): 'one of the main reasons that Starlink must remain a civilian operation'",
+     "outlet": "X",
+     "date": "2026-10-25",
+     "url": "https://x.com/elonmusk/status/2114238688284520949",
+     "transcript_url": "https://x.com/elonmusk/status/2114238688284520949",
+     "transcript_kind": "official (primary X post)",
+     "covers_question": true,
+     "checked": "2026-10-26"
     }
    ],
    "frequency": 3,
    "first_asked": "2024-03-18",
-   "last_updated": "2026-10-25",
+   "last_updated": "2026-10-26",
    "verification": "weak_coverage",
    "updates": [
     {
@@ -3859,6 +3885,12 @@
      "summary": "Added Musk's 24 Oct 2026 X post on SpaceX closing a Starlink offensive-drone 'loophole' in Ukraine and Starlink's role in Ukraine's defence. X post; frequency unchanged.",
      "source": "Elon Musk on X (24 Oct 2026)",
      "type": "addition"
+    },
+    {
+     "date": "2026-10-26",
+     "summary": "Added Musk's 25 Oct 2026 X post giving his reason Starlink must remain civilian: offensive-strike use would make it fair game for attack, and destroying satellites would create a debris cascade that could make space unusable. New reasoning, not a position change. X post; frequency unchanged.",
+     "source": "Elon Musk on X (25 Oct 2026)",
+     "type": "addition"
     }
    ]
   },
@@ -3870,7 +3902,7 @@
     "ukraine",
     "geopolitics"
    ],
-   "answer_summary": "He told Lex Fridman (Nov 2023) he expects a ceasefire close to current lines, since whoever goes on the offensive suffers far higher casualties against defence in depth. In Oct 2026, amid a dispute over speed limits on Ukraine's military Starshield links, he said on X that those limits are decided by the US military and ultimately the president, not SpaceX; responding to a post claiming Zelensky would not end the war until Russia was defeated, he wrote \"And so the slaughter continues\" and \"Time for Zelensky to go\" (the BBC notes he has made similar comments before). On 23 Oct 2026 he posted that there is \"a massive incentive difference between the elites and the people\" in Ukraine, with elites growing \"very rich off the hundreds of billions flowing to Ukraine\" while ordinary people's children are conscripted, and alleged without evidence that some US taxpayer aid \"comes back through multiple laundry machines to fund political campaigns in America\". On 24 Oct 2026, after Zelensky said Starlink and Starshield speeds had been restored following more than a week of front-line disruption, he acknowledged on X that SpaceX itself had restricted Starlink: he wrote that Ukraine's military \"violated Starlink terms of service and used it for offensive drone strikes to kill people\" and that \"that loophole was closed last week\", while repeating that Starshield is a separate system controlled by the US government. He added that Starlink remains critical to Ukraine's defence as the only system that cannot be jammed or blown up, that the front line would collapse immediately if it were turned off (\"This is NOT a threat\"), and that it was crucial early in the war; he ended with \"UTTER CONTEMPT\" for \"virtue-signaling evil warmongers\" pushing endless slaughter.",
+   "answer_summary": "He told Lex Fridman (Nov 2023) he expects a ceasefire close to current lines, since whoever goes on the offensive suffers far higher casualties against defence in depth. In Oct 2026, amid a dispute over speed limits on Ukraine's military Starshield links, he said on X that those limits are decided by the US military and ultimately the president, not SpaceX; responding to a post claiming Zelensky would not end the war until Russia was defeated, he wrote \"And so the slaughter continues\" and \"Time for Zelensky to go\" (the BBC notes he has made similar comments before). On 23 Oct 2026 he posted that there is \"a massive incentive difference between the elites and the people\" in Ukraine, with elites growing \"very rich off the hundreds of billions flowing to Ukraine\" while ordinary people's children are conscripted, and alleged without evidence that some US taxpayer aid \"comes back through multiple laundry machines to fund political campaigns in America\". On 24 Oct 2026, after Zelensky said Starlink and Starshield speeds had been restored following more than a week of front-line disruption, he acknowledged on X that SpaceX itself had restricted Starlink: he wrote that Ukraine's military \"violated Starlink terms of service and used it for offensive drone strikes to kill people\" and that \"that loophole was closed last week\", while repeating that Starshield is a separate system controlled by the US government. He added that Starlink remains critical to Ukraine's defence as the only system that cannot be jammed or blown up, that the front line would collapse immediately if it were turned off (\"This is NOT a threat\"), and that it was crucial early in the war; he ended with \"UTTER CONTEMPT\" for \"virtue-signaling evil warmongers\" pushing endless slaughter. On 25 Oct 2026 he added on X that using Starlink for offensive strikes would make the satellites fair game to be struck back, said Zelensky himself had posted about using Starlink for offensive drone strikes, and wrote that \"the endless slaughter of Ukrainian and Russians must stop\", asking for sympathy for Russian conscripts who \"have no choice but to fight and die in drone strikes\"; he also wished that \"bloodthirsty warmongers\" pushing an endless war would \"burn in hell\".",
    "answer_type": "summary+quotes",
    "quotes": [
     {
@@ -3920,6 +3952,14 @@
      "timestamp": null,
      "transcript_kind": "official (primary X post; full text checked against AAP embed)",
      "verified_on": "2026-10-25"
+    },
+    {
+     "text": "The endless slaughter of Ukrainian and Russians must stop.",
+     "source": "Elon Musk on X (25 Oct 2026): 'The endless slaughter of Ukrainian and Russians must stop'",
+     "url": "https://x.com/elonmusk/status/2114378522366238973",
+     "timestamp": null,
+     "transcript_kind": "official (primary X post; text read via X API)",
+     "verified_on": "2026-10-26"
     }
    ],
    "sources": [
@@ -3992,11 +4032,31 @@
      "transcript_kind": "official (primary X post)",
      "covers_question": true,
      "checked": "2026-10-25"
+    },
+    {
+     "title": "Elon Musk on X (25 Oct 2026): 'one of the main reasons that Starlink must remain a civilian operation'",
+     "outlet": "X",
+     "date": "2026-10-25",
+     "url": "https://x.com/elonmusk/status/2114238688284520949",
+     "transcript_url": "https://x.com/elonmusk/status/2114238688284520949",
+     "transcript_kind": "official (primary X post)",
+     "covers_question": true,
+     "checked": "2026-10-26"
+    },
+    {
+     "title": "Elon Musk on X (25 Oct 2026): 'The endless slaughter of Ukrainian and Russians must stop'",
+     "outlet": "X",
+     "date": "2026-10-25",
+     "url": "https://x.com/elonmusk/status/2114378522366238973",
+     "transcript_url": "https://x.com/elonmusk/status/2114378522366238973",
+     "transcript_kind": "official (primary X post)",
+     "covers_question": true,
+     "checked": "2026-10-26"
     }
    ],
    "frequency": 1,
    "first_asked": "2023-11-09",
-   "last_updated": "2026-10-25",
+   "last_updated": "2026-10-26",
    "verification": "verified",
    "updates": [
     {
@@ -4021,6 +4081,12 @@
      "date": "2026-10-25",
      "summary": "Added Musk's 24 Oct 2026 X post admitting SpaceX closed a Starlink 'loophole' after Ukraine's military used it for offensive drone strikes (AP/CBS report this as his admission SpaceX throttled the service), while saying Starshield is US-government controlled and Starlink is still vital to Ukraine's defence. Appended, not a position change: it adds that SpaceX restricted commercial Starlink alongside his earlier point that Starshield limits are set by the US government. X post, not an interview answer; frequency unchanged.",
      "source": "Elon Musk on X (24 Oct 2026)",
+     "type": "addition"
+    },
+    {
+     "date": "2026-10-26",
+     "summary": "Added Musk's 25 Oct 2026 X posts: the debris-risk reason Starlink can't be used for offensive strikes, his claim that Zelensky posted about such use, and a call to stop the 'endless slaughter' with sympathy for Russian conscripts. Consistent with his earlier stance; X posts, frequency unchanged.",
+     "source": "Elon Musk on X (25 Oct 2026)",
      "type": "addition"
     }
    ]
